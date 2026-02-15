@@ -1,0 +1,1158 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#aad2c75a3b9ee1701fe0933157c50a555"><param name="Name" value="AbrirAlquileresCommand"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a6639f8c3e235914519f1022b184a917c"><param name="Name" value="AbrirCatalogoCommand"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a578b1859d7c15570a3529a133f704064"><param name="Name" value="AbrirClientesCommand"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#ac08b6b7790cd163301c99531a4ca29f8"><param name="Name" value="AbrirConfigCommand"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#adb92f7b736e52a19eb7cc03b0a8b613f"><param name="Name" value="AccionSolicitada"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a773e27ca1158d480773f138f50ddf4a6"><param name="Name" value="ActividadReciente"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#adcb9848c314c7b64125b789873eb1dd5"><param name="Name" value="Actualizar(Clientes clienteEditado)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#adcb9848c314c7b64125b789873eb1dd5"><param name="Name" value="Model::Repositorios::ClienteRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#a5cbc88dffa026c9aba0e357ee8ceafb1"><param name="Name" value="Actualizar(Clientes clienteEditado)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#a5cbc88dffa026c9aba0e357ee8ceafb1"><param name="Name" value="ViewModel::Services::ClienteService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#ad0c6fa3d0d5e32763a1d23c2b087c4e4"><param name="Name" value="Actualizar(Productos editado)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a0847a553dee557d7dbc3c1b956313864"><param name="Name" value="Actualizar(Productos productoEditado)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a528f03822e02e4a9b12b8ed4070cc625"><param name="Name" value="ActualizarGenero(Generos generoEditado)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a528f03822e02e4a9b12b8ed4070cc625"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#a5947235dad5c464bb78b5e2bee3c7eac"><param name="Name" value="ActualizarGenero(Generos generoEditado)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#a5947235dad5c464bb78b5e2bee3c7eac"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a1e6144b5aa27f1042897d2f6bcce9a86"><param name="Name" value="ActualizarTarifa(Tarifas tarifaEditada)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a1e6144b5aa27f1042897d2f6bcce9a86"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#a2fa4c9245e6721055db4482d23d4d22a"><param name="Name" value="ActualizarTarifa(Tarifas tarifaEditada)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#a2fa4c9245e6721055db4482d23d4d22a"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a6dfff5264faccd2d1673a0046f4655a2"><param name="Name" value="AlquilarCommand"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a65d1bc02f37a2582c59fd71ee42a90fe"><param name="Name" value="Alquileres"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#aeaca7aab8943272119265774204754a4"><param name="Name" value="AlquileresActivos"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#afc5111d44f6de18d77427172f6592a4a"><param name="Name" value="AlquileresViewModel()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#afa9d5ee7bc8c6ee868f54fd9d97ec605"><param name="Name" value="AlquilerSeleccionado"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#aa289ded02434bd93b75426426cc010c8"><param name="Name" value="Buscar(string nombre)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a36e5061b82d643b3049fd336e2c74b8b"><param name="Name" value="BuscarPorEmail(string email)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a645d148642250900a7c3b3b1d3379847"><param name="Name" value="BuscarPorNombre(string nombre)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a4333f969013c2b1c0c64ddd06708895e"><param name="Name" value="BuscarPorTitulo(string titulo)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a50eb4ed9348f51f86e5fa4677047c4ba"><param name="Name" value="CatalogoViewModel()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a8f0e88f74506e054863a29aec2cf7d7e"><param name="Name" value="Clientes"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#ac0c9641e83744ffe40a7008c9dba52b0"><param name="Name" value="ClienteSeleccionado"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#ac0c9641e83744ffe40a7008c9dba52b0"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a0afa8d97af562c98fc9803485855a2cc"><param name="Name" value="ClienteSeleccionado"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a0afa8d97af562c98fc9803485855a2cc"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#ae2d4429264d30aca73f147762f58c57f"><param name="Name" value="ClientesViewModel()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a10aaedb80965aff63d18cb83d77e702b"><param name="Name" value="ConfiguracionViewModel()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ae313df8264ce3eddf7885d0a0596b188"><param name="Name" value="CrearCommand"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ae313df8264ce3eddf7885d0a0596b188"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a4989d495b24e3c84a409e299eb0e3564"><param name="Name" value="CrearCommand"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a4989d495b24e3c84a409e299eb0e3564"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#a6a871303a50f0aaca508a2ce00425efd"><param name="Name" value="DatosRepo()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#a6a871303a50f0aaca508a2ce00425efd"><param name="Name" value="Model::Repositorios::AlquilerRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#ace8f1ebad718f453e2a9431bf6745533"><param name="Name" value="DatosRepo()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#ace8f1ebad718f453e2a9431bf6745533"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a6c6d7ec461bb2e26619f955ae1cd8b6a"><param name="Name" value="DatosRepo()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a6c6d7ec461bb2e26619f955ae1cd8b6a"><param name="Name" value="Model::Repositorios::ClienteRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#ab85a023edb5bd908e0bf6d7f06b1ce5d"><param name="Name" value="DevolverCommand"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#a3df6656d01c6ab493f900726add37379"><param name="Name" value="Eliminar(int id)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#a3df6656d01c6ab493f900726add37379"><param name="Name" value="Model::Repositorios::AlquilerRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a855767e5f9790f9d9a306f24bbf9eea2"><param name="Name" value="Eliminar(int id)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a855767e5f9790f9d9a306f24bbf9eea2"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a74d6e6204e52b97cdb6860b39d50c7f5"><param name="Name" value="Eliminar(int id)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a74d6e6204e52b97cdb6860b39d50c7f5"><param name="Name" value="Model::Repositorios::ClienteRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a4b24214340c81c939f6293431ddbc320"><param name="Name" value="Eliminar(int id)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a4b24214340c81c939f6293431ddbc320"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ac578ec00707c1de4bda6ad66cf4b9792"><param name="Name" value="Eliminar(int id)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ac578ec00707c1de4bda6ad66cf4b9792"><param name="Name" value="ViewModel::Services::ClienteService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#aa561088442a98a2ed8daccc8d068888e"><param name="Name" value="EliminarAlquiler(int id)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a8e6e878e1de711f066d5f73c2809b48a"><param name="Name" value="EliminarCommand"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a8e6e878e1de711f066d5f73c2809b48a"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a8b3cdedebc5bc593ec343d374662095a"><param name="Name" value="EliminarCommand"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a8b3cdedebc5bc593ec343d374662095a"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a07929bb00d9cf840fd209b4883cba98c"><param name="Name" value="EliminarCommand"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a07929bb00d9cf840fd209b4883cba98c"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a6734fb82fe53696d84e410f42195ed15"><param name="Name" value="EliminarGenero(int id)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a6734fb82fe53696d84e410f42195ed15"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#af8b4c6dce6029ee3e87b7841c102fa0e"><param name="Name" value="EliminarGenero(int id)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#af8b4c6dce6029ee3e87b7841c102fa0e"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a0f19d8eb2fdb5f3a61664da917f67105"><param name="Name" value="EliminarGeneroCommand"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a18b6aadc15a7c60dbd6f617b7b489e0c"><param name="Name" value="EliminarTarifa(int id)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a18b6aadc15a7c60dbd6f617b7b489e0c"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#a1aa5d5278cb5a9e67b546949eeb3a6b8"><param name="Name" value="EliminarTarifa(int id)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#a1aa5d5278cb5a9e67b546949eeb3a6b8"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#acbbbbe4808fa8a5967abb43f8e236143"><param name="Name" value="EliminarTarifaCommand"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a9795168f4ca295684325a112747e9e19"><param name="Name" value="EsActivo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a4bfe3ad633ba5c370ca480b2139cf2ef"><param name="Name" value="EsJuego"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ad3a5f9805665042880a19f6c66ae2ab2"><param name="Name" value="EsPelicula"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a27bf201b6d7b110c63f4ac2a669f18a7"><param name="Name" value="FechaActual"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a0f6d88f54ce76d1dc5667f069ffe333a"><param name="Name" value="FechaDevolucionPrevista"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a585d791a9f39f8822b235eb25723dd50"><param name="Name" value="GenerarInformeCommand"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a585d791a9f39f8822b235eb25723dd50"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a007fbcd40b78812897b81c420c47d9a8"><param name="Name" value="GenerarInformeCommand"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a007fbcd40b78812897b81c420c47d9a8"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#adf0a0a845417bf2ba4e7a05740853e3c"><param name="Name" value="GenerarInformeCommand"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#adf0a0a845417bf2ba4e7a05740853e3c"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#ac8f62829e11a62fc6db6020de2717db9"><param name="Name" value="GeneroEnUso(int generoId)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ab233c3a7979e45a9bad9678beb57130c"><param name="Name" value="Generos"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ab233c3a7979e45a9bad9678beb57130c"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#ab18c0b81e01635f9cc58f1710f9c8ac9"><param name="Name" value="Generos"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#ab18c0b81e01635f9cc58f1710f9c8ac9"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a8cc4250782e1b0060395db8c8ae78bb2"><param name="Name" value="GeneroSeleccionado"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a8cc4250782e1b0060395db8c8ae78bb2"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a602c515164224a7cc45b4bb4e6e19199"><param name="Name" value="GeneroSeleccionado"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a602c515164224a7cc45b4bb4e6e19199"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#aa7c8321253074b210a1ed03a015a5d24"><param name="Name" value="Guardar(Clientes nuevo)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#aa7c8321253074b210a1ed03a015a5d24"><param name="Name" value="Model::Repositorios::ClienteRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ac40d9d9f24dd963560f3e72dac72396f"><param name="Name" value="Guardar(Clientes nuevo)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ac40d9d9f24dd963560f3e72dac72396f"><param name="Name" value="ViewModel::Services::ClienteService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#af76d68cfe17a63de9476f0ce6403ad87"><param name="Name" value="Guardar(Productos nuevo)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#af76d68cfe17a63de9476f0ce6403ad87"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a184c831646ec8bfc77e9f25c384beb17"><param name="Name" value="Guardar(Productos nuevo)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a184c831646ec8bfc77e9f25c384beb17"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#adb070211ac94eb9b35ad8a86f1ccf537"><param name="Name" value="GuardarAlquiler(Alquileres nuevo)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#adb070211ac94eb9b35ad8a86f1ccf537"><param name="Name" value="Model::Repositorios::AlquilerRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a4df6069f410243b6e8740f4b123da219"><param name="Name" value="GuardarAlquiler(Alquileres nuevo)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a4df6069f410243b6e8740f4b123da219"><param name="Name" value="ViewModel::Services::AlquilerService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a38c5a69040abe73b9e56dd197259874a"><param name="Name" value="GuardarGenero(Generos nuevo)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a38c5a69040abe73b9e56dd197259874a"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#af12112c071769cd4ad730670e3d0c63d"><param name="Name" value="GuardarGenero(Generos nuevo)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#af12112c071769cd4ad730670e3d0c63d"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#aa6985ea62219fbb0e2c5aa7f096612a8"><param name="Name" value="GuardarGeneroCommand"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a8c465f12283c1231c2051a71b8d38099"><param name="Name" value="GuardarTarifa(Tarifas nueva)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a8c465f12283c1231c2051a71b8d38099"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#abd5f6aebaf3dddf696604b6b0490c2ea"><param name="Name" value="GuardarTarifa(Tarifas nueva)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#abd5f6aebaf3dddf696604b6b0490c2ea"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#ac22b3d006161ba2e522b904efc5e38a0"><param name="Name" value="GuardarTarifaCommand"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_informes.html"><param name="Name" value="Informes"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_app.html"><param name="Name" value="Informes::App"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_app.html"><param name="Name" value="Informes::App"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_app.html#a597c13560df1796fc2b527a30663e5d3"><param name="Name" value="InitializeComponent()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_app.html"><param name="Name" value="Informes::App"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_app.html#a27a8c27975a29dd8720745115e41e955"><param name="Name" value="Main()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_cached_clientes_report.html"><param name="Name" value="Informes::CachedClientesReport"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_cached_prestamos_por_cliente.html"><param name="Name" value="Informes::CachedPrestamosPorCliente"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_cached_productos_por_genero.html"><param name="Name" value="Informes::CachedProductosPorGenero"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_clientes_report.html"><param name="Name" value="Informes::ClientesReport"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_informes_view.html"><param name="Name" value="Informes::InformesView"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_informes_view.html"><param name="Name" value="Informes::InformesView"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_informes_view.html#ad8b1c4b2272299f84196362c5ca70902"><param name="Name" value="InitializeComponent()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_informes_view.html"><param name="Name" value="Informes::InformesView"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_informes_view.html#a67a38449bf04d0871f94c0eb487282a8"><param name="Name" value="reportViewer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_prestamos_por_cliente.html"><param name="Name" value="Informes::PrestamosPorCliente"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_productos_por_genero.html"><param name="Name" value="Informes::ProductosPorGenero"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_informes_1_1_properties.html"><param name="Name" value="Informes::Properties"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_app.html#a597c13560df1796fc2b527a30663e5d3"><param name="Name" value="InitializeComponent()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_app.html#a597c13560df1796fc2b527a30663e5d3"><param name="Name" value="Informes::App"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_informes_view.html#ad8b1c4b2272299f84196362c5ca70902"><param name="Name" value="InitializeComponent()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_informes_view.html#ad8b1c4b2272299f84196362c5ca70902"><param name="Name" value="Informes::InformesView"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_alquileres_view.html#a78192187b2b22fc9f18421e8fb5c9b48"><param name="Name" value="InitializeComponent()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_alquileres_view.html#a78192187b2b22fc9f18421e8fb5c9b48"><param name="Name" value="View::AlquileresView"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_app.html#aed21050ac0e0ccad3bcdfea0ec53dc17"><param name="Name" value="InitializeComponent()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_app.html#aed21050ac0e0ccad3bcdfea0ec53dc17"><param name="Name" value="View::App"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_catalogo_view.html#ae81db627fcec441268105e39405155cd"><param name="Name" value="InitializeComponent()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_catalogo_view.html#ae81db627fcec441268105e39405155cd"><param name="Name" value="View::CatalogoView"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_clientes_view.html#ab209dffe87f53c91dba201c1aa83e3c4"><param name="Name" value="InitializeComponent()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_clientes_view.html#ab209dffe87f53c91dba201c1aa83e3c4"><param name="Name" value="View::ClientesView"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_configuracion_view.html#a3093c741d9198e18fd1b9103fd70cf08"><param name="Name" value="InitializeComponent()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_configuracion_view.html#a3093c741d9198e18fd1b9103fd70cf08"><param name="Name" value="View::ConfiguracionView"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_principal_view.html#a57c50f30e970893a5cada32785c1a6ed"><param name="Name" value="InitializeComponent()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_principal_view.html#a57c50f30e970893a5cada32785c1a6ed"><param name="Name" value="View::PrincipalView"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#af98261590a1aeef1e4cfc99c1f1aa815"><param name="Name" value="InputDescripcionTarifa"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a613cff8374ec3b35b854eaf16e9416c4"><param name="Name" value="InputEmail"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a0c3b07f512bf348bb63e92d8e2e1d5b4"><param name="Name" value="InputNombre"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a7fa3ef4f989b3cadaf41fca954e149b1"><param name="Name" value="InputNombreGenero"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a5d97cf5bb2089bdee26ed340054e71d0"><param name="Name" value="InputPrecioDia"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a49a5fde95453ec2d0d38f131f925c473"><param name="Name" value="InputStock"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a774a81ff18c82729014468ca980a7034"><param name="Name" value="InputTelefono"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#add0535916bb3c8bb73f3ebe75bae8e3e"><param name="Name" value="InputTipo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#afc4eea9d6ed5a77367cdbae7e088deac"><param name="Name" value="InputTitulo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a50efbe2888c4b48f6405ed080bbd2749"><param name="Name" value="LimpiarCommand"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a50efbe2888c4b48f6405ed080bbd2749"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ae6030b7b17b9355db0a007c40c7f71c5"><param name="Name" value="LimpiarCommand"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ae6030b7b17b9355db0a007c40c7f71c5"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#ab10127949f66952c4b744919a1e16ea6"><param name="Name" value="LimpiarCommand"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#ab10127949f66952c4b744919a1e16ea6"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a1e6d85a9ea3a37574e46e7b814c65b20"><param name="Name" value="LimpiarCommand"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a1e6d85a9ea3a37574e46e7b814c65b20"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a9335fa051f5370e9f928d9a603953383"><param name="Name" value="ListaClientes"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a6db266e356e1a11c929eec865b3c40f9"><param name="Name" value="ListaProductosDisponibles"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_app.html#a27a8c27975a29dd8720745115e41e955"><param name="Name" value="Main()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_app.html#a27a8c27975a29dd8720745115e41e955"><param name="Name" value="Informes::App"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_app.html#adfcc882e80fdac30a23d156a9b528b4d"><param name="Name" value="Main()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_app.html#adfcc882e80fdac30a23d156a9b528b4d"><param name="Name" value="View::App"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#abedfe02c7ff69e188ee0ac3f0f834147"><param name="Name" value="MainWindowViewModel()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#afa36d25706df0348bc2d1e9e754a13fd"><param name="Name" value="MarcarComoDevuelto(int alquilerId)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a7d35a336430d1a9efc1fbb891ae90549"><param name="Name" value="MarcarComoDevuelto(int id)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_model.html"><param name="Name" value="Model"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_alquileres.html"><param name="Name" value="Model::Alquileres"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_clientes.html"><param name="Name" value="Model::Clientes"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_model_1_1_data_set.html"><param name="Name" value="Model::DataSet"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club.html"><param name="Name" value="Model::DataSet::dsVideoClub"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_clientes_data_table.html"><param name="Name" value="Model::DataSet::dsVideoClub::ClientesDataTable"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_clientes_row.html"><param name="Name" value="Model::DataSet::dsVideoClub::ClientesRow"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_clientes_row_change_event.html"><param name="Name" value="Model::DataSet::dsVideoClub::ClientesRowChangeEvent"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_prestamos_por_tarifa_data_table.html"><param name="Name" value="Model::DataSet::dsVideoClub::PrestamosPorTarifaDataTable"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_prestamos_por_tarifa_row.html"><param name="Name" value="Model::DataSet::dsVideoClub::PrestamosPorTarifaRow"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_prestamos_por_tarifa_row_change_event.html"><param name="Name" value="Model::DataSet::dsVideoClub::PrestamosPorTarifaRowChangeEvent"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_productos_por_genero_data_table.html"><param name="Name" value="Model::DataSet::dsVideoClub::ProductosPorGeneroDataTable"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_productos_por_genero_row.html"><param name="Name" value="Model::DataSet::dsVideoClub::ProductosPorGeneroRow"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_productos_por_genero_row_change_event.html"><param name="Name" value="Model::DataSet::dsVideoClub::ProductosPorGeneroRowChangeEvent"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_generos.html"><param name="Name" value="Model::Generos"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_productos.html"><param name="Name" value="Model::Productos"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_model_1_1_repositorios.html"><param name="Name" value="Model::Repositorios"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html"><param name="Name" value="Model::Repositorios::AlquilerRepositorio"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html"><param name="Name" value="Model::Repositorios::AlquilerRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#a6a871303a50f0aaca508a2ce00425efd"><param name="Name" value="DatosRepo()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html"><param name="Name" value="Model::Repositorios::AlquilerRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#a3df6656d01c6ab493f900726add37379"><param name="Name" value="Eliminar(int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html"><param name="Name" value="Model::Repositorios::AlquilerRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#adb070211ac94eb9b35ad8a86f1ccf537"><param name="Name" value="GuardarAlquiler(Alquileres nuevo)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html"><param name="Name" value="Model::Repositorios::AlquilerRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#afa36d25706df0348bc2d1e9e754a13fd"><param name="Name" value="MarcarComoDevuelto(int alquilerId)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html"><param name="Name" value="Model::Repositorios::AlquilerRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#ab47a31783ff495f9b3fab9b40f3ab1c2"><param name="Name" value="ObtenerActividadReciente()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html"><param name="Name" value="Model::Repositorios::AlquilerRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#a4b6d003bca7895db3e8f37a99c5ed59a"><param name="Name" value="ObtenerAlquileresActivos()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html"><param name="Name" value="Model::Repositorios::AlquilerRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#ae9c93f3f4da47af7c295b155292d6e56"><param name="Name" value="ObtenerTodos()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a0847a553dee557d7dbc3c1b956313864"><param name="Name" value="Actualizar(Productos productoEditado)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a4333f969013c2b1c0c64ddd06708895e"><param name="Name" value="BuscarPorTitulo(string titulo)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#ace8f1ebad718f453e2a9431bf6745533"><param name="Name" value="DatosRepo()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a855767e5f9790f9d9a306f24bbf9eea2"><param name="Name" value="Eliminar(int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#af76d68cfe17a63de9476f0ce6403ad87"><param name="Name" value="Guardar(Productos nuevo)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a1b7338425f25f170172845cef40b608d"><param name="Name" value="ObtenerGeneros()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a0a1e8e8248dc4202a05163bdf18e15ba"><param name="Name" value="ObtenerStockBajo()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a6ca99781a7170eafdc328290a5051897"><param name="Name" value="ObtenerTarifas()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#ac6aec6eb52332b6df2c86046f6d8660a"><param name="Name" value="ObtenerTodos()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#ad06af17ee4050630167f03364d6ccd32"><param name="Name" value="ObtenerTotalProductos()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html"><param name="Name" value="Model::Repositorios::ClienteRepositorio"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html"><param name="Name" value="Model::Repositorios::ClienteRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#adcb9848c314c7b64125b789873eb1dd5"><param name="Name" value="Actualizar(Clientes clienteEditado)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html"><param name="Name" value="Model::Repositorios::ClienteRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a36e5061b82d643b3049fd336e2c74b8b"><param name="Name" value="BuscarPorEmail(string email)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html"><param name="Name" value="Model::Repositorios::ClienteRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a645d148642250900a7c3b3b1d3379847"><param name="Name" value="BuscarPorNombre(string nombre)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html"><param name="Name" value="Model::Repositorios::ClienteRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a6c6d7ec461bb2e26619f955ae1cd8b6a"><param name="Name" value="DatosRepo()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html"><param name="Name" value="Model::Repositorios::ClienteRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a74d6e6204e52b97cdb6860b39d50c7f5"><param name="Name" value="Eliminar(int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html"><param name="Name" value="Model::Repositorios::ClienteRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#aa7c8321253074b210a1ed03a015a5d24"><param name="Name" value="Guardar(Clientes nuevo)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html"><param name="Name" value="Model::Repositorios::ClienteRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a8383a1fc1dea8883cca4c19b759e42fb"><param name="Name" value="ObtenerTodos()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html"><param name="Name" value="Model::Repositorios::ClienteRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a9260263a02800e76be0360acc34a2e0a"><param name="Name" value="ObtenerTotalClientes()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html"><param name="Name" value="Model::Repositorios::ClienteRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a62d2afa4706612e209701841dad97a47"><param name="Name" value="TieneAlquileresPendientes(int clienteId)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a528f03822e02e4a9b12b8ed4070cc625"><param name="Name" value="ActualizarGenero(Generos generoEditado)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a1e6144b5aa27f1042897d2f6bcce9a86"><param name="Name" value="ActualizarTarifa(Tarifas tarifaEditada)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a6734fb82fe53696d84e410f42195ed15"><param name="Name" value="EliminarGenero(int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a18b6aadc15a7c60dbd6f617b7b489e0c"><param name="Name" value="EliminarTarifa(int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#ac8f62829e11a62fc6db6020de2717db9"><param name="Name" value="GeneroEnUso(int generoId)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a38c5a69040abe73b9e56dd197259874a"><param name="Name" value="GuardarGenero(Generos nuevo)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a8c465f12283c1231c2051a71b8d38099"><param name="Name" value="GuardarTarifa(Tarifas nueva)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#ae9a8c65387de04a7770142b556653b2c"><param name="Name" value="ObtenerGeneros()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#ae91e0e8227ec65914de7439233fbb5b8"><param name="Name" value="ObtenerTarifas()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a797e62067d0aab2ca782e5e719e70606"><param name="Name" value="TarifaEnUso(int tarifaId)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_tarifas.html"><param name="Name" value="Model::Tarifas"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_video_club_entities.html"><param name="Name" value="Model::VideoClubEntities"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ab0c1bc895416d24cf82b377503c58a4d"><param name="Name" value="ModificarCommand"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ab0c1bc895416d24cf82b377503c58a4d"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#abb0a2eb618b9de0fb368b45bb16a418d"><param name="Name" value="ModificarCommand"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#abb0a2eb618b9de0fb368b45bb16a418d"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#ab47a31783ff495f9b3fab9b40f3ab1c2"><param name="Name" value="ObtenerActividadReciente()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#ab47a31783ff495f9b3fab9b40f3ab1c2"><param name="Name" value="Model::Repositorios::AlquilerRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a06b6b92422f084b453b75369e02ac004"><param name="Name" value="ObtenerActividadReciente()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a06b6b92422f084b453b75369e02ac004"><param name="Name" value="ViewModel::Services::AlquilerService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#a4b6d003bca7895db3e8f37a99c5ed59a"><param name="Name" value="ObtenerAlquileresActivos()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#a4b6d003bca7895db3e8f37a99c5ed59a"><param name="Name" value="Model::Repositorios::AlquilerRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a018d96b8395ddd8e8ba8b87eb5188708"><param name="Name" value="ObtenerAlquileresActivos()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a018d96b8395ddd8e8ba8b87eb5188708"><param name="Name" value="ViewModel::Services::AlquilerService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a1b7338425f25f170172845cef40b608d"><param name="Name" value="ObtenerGeneros()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a1b7338425f25f170172845cef40b608d"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#ae9a8c65387de04a7770142b556653b2c"><param name="Name" value="ObtenerGeneros()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#ae9a8c65387de04a7770142b556653b2c"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a104a5cb0cd5c317f688314842640e0a0"><param name="Name" value="ObtenerGeneros()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a104a5cb0cd5c317f688314842640e0a0"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#ac78523ffa57eaf6ae5c545d93c18c9a6"><param name="Name" value="ObtenerGeneros()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#ac78523ffa57eaf6ae5c545d93c18c9a6"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a0a1e8e8248dc4202a05163bdf18e15ba"><param name="Name" value="ObtenerStockBajo()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a0a1e8e8248dc4202a05163bdf18e15ba"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a51a056ceddadcad1f6122ee7130f7582"><param name="Name" value="ObtenerStockBajo()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a51a056ceddadcad1f6122ee7130f7582"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a6ca99781a7170eafdc328290a5051897"><param name="Name" value="ObtenerTarifas()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a6ca99781a7170eafdc328290a5051897"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#ae91e0e8227ec65914de7439233fbb5b8"><param name="Name" value="ObtenerTarifas()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#ae91e0e8227ec65914de7439233fbb5b8"><param name="Name" value="Model::Repositorios::ConfiguraciónRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a02f1aeb644eb16dfff729903db661927"><param name="Name" value="ObtenerTarifas()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a02f1aeb644eb16dfff729903db661927"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#ad771e111c5a595fd522f554610f951f7"><param name="Name" value="ObtenerTarifas()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#ad771e111c5a595fd522f554610f951f7"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#ae9c93f3f4da47af7c295b155292d6e56"><param name="Name" value="ObtenerTodos()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#ae9c93f3f4da47af7c295b155292d6e56"><param name="Name" value="Model::Repositorios::AlquilerRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#ac6aec6eb52332b6df2c86046f6d8660a"><param name="Name" value="ObtenerTodos()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#ac6aec6eb52332b6df2c86046f6d8660a"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a8383a1fc1dea8883cca4c19b759e42fb"><param name="Name" value="ObtenerTodos()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a8383a1fc1dea8883cca4c19b759e42fb"><param name="Name" value="Model::Repositorios::ClienteRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#ac54166faa1f23ea5bbb9b5c3303625b4"><param name="Name" value="ObtenerTodos()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#ac54166faa1f23ea5bbb9b5c3303625b4"><param name="Name" value="ViewModel::Services::AlquilerService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#ada7f68b3b2b60fda53c153b63d0dce58"><param name="Name" value="ObtenerTodos()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#ada7f68b3b2b60fda53c153b63d0dce58"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ac07b81625969f01bdf9a087b92ae7bf9"><param name="Name" value="ObtenerTodos()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ac07b81625969f01bdf9a087b92ae7bf9"><param name="Name" value="ViewModel::Services::ClienteService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a9260263a02800e76be0360acc34a2e0a"><param name="Name" value="ObtenerTotalClientes()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a9260263a02800e76be0360acc34a2e0a"><param name="Name" value="Model::Repositorios::ClienteRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ae15b53a2cd79c17117834f29123d0bef"><param name="Name" value="ObtenerTotalClientes()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ae15b53a2cd79c17117834f29123d0bef"><param name="Name" value="ViewModel::Services::ClienteService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#ad06af17ee4050630167f03364d6ccd32"><param name="Name" value="ObtenerTotalProductos()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#ad06af17ee4050630167f03364d6ccd32"><param name="Name" value="Model::Repositorios::CatalogoRepositorio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a725a6d3e5bf7e14aaf7fd43fc52448b0"><param name="Name" value="ObtenerTotalProductos()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a725a6d3e5bf7e14aaf7fd43fc52448b0"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a376ad9c927c84a880928a8a58250d242"><param name="Name" value="OnAccionSolicitada"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a81a73e6bed0154adedba409c2039bff8"><param name="Name" value="Productos"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#ac20ea4f79127b3db0740ac799ccbfbff"><param name="Name" value="ProductoSeleccionado"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#ac20ea4f79127b3db0740ac799ccbfbff"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a222e6224337663157b77103f98fb2401"><param name="Name" value="ProductoSeleccionado"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a222e6224337663157b77103f98fb2401"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a63e2a3b518fb7dda7199b656f0236ce6"><param name="Name" value="PropertyChanged"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a63e2a3b518fb7dda7199b656f0236ce6"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#aaf44c21a9356e161d95e8b45dcc93226"><param name="Name" value="PropertyChanged"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#aaf44c21a9356e161d95e8b45dcc93226"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a8e30458d470c843897cf2785f8bf6abf"><param name="Name" value="PropertyChanged"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a8e30458d470c843897cf2785f8bf6abf"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#aa1f503c148345a5e1d173e0c2a47ecb5"><param name="Name" value="PropertyChanged"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#aa1f503c148345a5e1d173e0c2a47ecb5"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a5e4ee1f388d08f1b08d29cee35cd4a62"><param name="Name" value="PropertyChanged"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a5e4ee1f388d08f1b08d29cee35cd4a62"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a4b7e4b402e12eb0d60cb02cb4d311af1"><param name="Name" value="RefrescarDatos()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_relay_command.html"><param name="Name" value="RelayCommand"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_informes_1_1_informes_view.html#a67a38449bf04d0871f94c0eb487282a8"><param name="Name" value="reportViewer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#ae21c849e90be32f21a3c8df51498f1cf"><param name="Name" value="SalirCommand"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#afbbdefb743b36ad56ddfdf4fb0fde892"><param name="Name" value="SeleccionarDatosRepo()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#afbbdefb743b36ad56ddfdf4fb0fde892"><param name="Name" value="ViewModel::Services::AlquilerService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#ae943c3c229cfb90f3f8d079b64259a5a"><param name="Name" value="SeleccionarDatosRepo()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#ae943c3c229cfb90f3f8d079b64259a5a"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#acfbafc17408bf3a2db88b08506c57771"><param name="Name" value="SeleccionarDatosRepo()"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#acfbafc17408bf3a2db88b08506c57771"><param name="Name" value="ViewModel::Services::ClienteService"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#abad15c4f64a4fa648c8b1b1e88f11630"><param name="Name" value="StockBajo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a797e62067d0aab2ca782e5e719e70606"><param name="Name" value="TarifaEnUso(int tarifaId)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a580c6ccd8ad05f414c0d89e2dcec6be2"><param name="Name" value="Tarifas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a580c6ccd8ad05f414c0d89e2dcec6be2"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#ae8bc379c2ea5f8ca2c4b39b55bc46a29"><param name="Name" value="Tarifas"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#ae8bc379c2ea5f8ca2c4b39b55bc46a29"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a6cfd68fe048477b5dadc0b5b8b115ec9"><param name="Name" value="TarifaSeleccionada"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a6cfd68fe048477b5dadc0b5b8b115ec9"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a0f1d79ff0dd0e7d34293318905beac1e"><param name="Name" value="TarifaSeleccionada"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a0f1d79ff0dd0e7d34293318905beac1e"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_test.html"><param name="Name" value="Test"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_test_1_1_test_video_club.html"><param name="Name" value="Test::TestVideoClub"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_test_1_1_test_video_club.html"><param name="Name" value="Test::TestVideoClub"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_test_1_1_test_video_club.html#ac1ee01202e875f342a75811d97892d15"><param name="Name" value="TestConexionDirectaBD()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_test_1_1_test_video_club.html"><param name="Name" value="Test::TestVideoClub"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_test_1_1_test_video_club.html#aef8facf738cdb6e792e1a1968765d5e9"><param name="Name" value="TestEmailFormatoIncorrecto()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_test_1_1_test_video_club.html"><param name="Name" value="Test::TestVideoClub"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_test_1_1_test_video_club.html#aa11b4596dd30e8616d54a108ea6ac965"><param name="Name" value="TestStockNegativo()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_test_1_1_test_video_club.html#ac1ee01202e875f342a75811d97892d15"><param name="Name" value="TestConexionDirectaBD()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_test_1_1_test_video_club.html#aef8facf738cdb6e792e1a1968765d5e9"><param name="Name" value="TestEmailFormatoIncorrecto()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_test_1_1_test_video_club.html#aa11b4596dd30e8616d54a108ea6ac965"><param name="Name" value="TestStockNegativo()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a62d2afa4706612e209701841dad97a47"><param name="Name" value="TieneAlquileresPendientes(int clienteId)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a2f47386ee66f772183d9a2eb15c4e30e"><param name="Name" value="TotalClientes"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#acc57ffb992d00586014554d77130f05d"><param name="Name" value="TotalProductos"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ab6b6661cb9658c47b50a672543e1177b"><param name="Name" value="ValidarFormatoEmail(string email)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a0d5cedeef70d68be4f3b53eedf06a95a"><param name="Name" value="ValidarRelacionId(int id)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a68f73497db92eaac34e18098fdc5c6c2"><param name="Name" value="ValidarStock(int stock)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#a179712a3b9b34c7084c110e502f60bf1"><param name="Name" value="ValidarTelefono(string telefono)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a29c5a9dd0f4c529b22c6b2e35fdfe05b"><param name="Name" value="ValidarTitulo(string titulo)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_video_club.html"><param name="Name" value="VideoClub"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_video_club_1_1_properties.html"><param name="Name" value="VideoClub::Properties"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_view.html"><param name="Name" value="View"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_alquileres_view.html"><param name="Name" value="View::AlquileresView"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_alquileres_view.html"><param name="Name" value="View::AlquileresView"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_alquileres_view.html#a78192187b2b22fc9f18421e8fb5c9b48"><param name="Name" value="InitializeComponent()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_app.html"><param name="Name" value="View::App"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_app.html"><param name="Name" value="View::App"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_app.html#aed21050ac0e0ccad3bcdfea0ec53dc17"><param name="Name" value="InitializeComponent()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_app.html"><param name="Name" value="View::App"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_app.html#adfcc882e80fdac30a23d156a9b528b4d"><param name="Name" value="Main()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_catalogo_view.html"><param name="Name" value="View::CatalogoView"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_catalogo_view.html"><param name="Name" value="View::CatalogoView"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_catalogo_view.html#ae81db627fcec441268105e39405155cd"><param name="Name" value="InitializeComponent()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_clientes_view.html"><param name="Name" value="View::ClientesView"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_clientes_view.html"><param name="Name" value="View::ClientesView"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_clientes_view.html#ab209dffe87f53c91dba201c1aa83e3c4"><param name="Name" value="InitializeComponent()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_configuracion_view.html"><param name="Name" value="View::ConfiguracionView"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_configuracion_view.html"><param name="Name" value="View::ConfiguracionView"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_configuracion_view.html#a3093c741d9198e18fd1b9103fd70cf08"><param name="Name" value="InitializeComponent()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_principal_view.html"><param name="Name" value="View::PrincipalView"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_principal_view.html"><param name="Name" value="View::PrincipalView"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_1_1_principal_view.html#a57c50f30e970893a5cada32785c1a6ed"><param name="Name" value="InitializeComponent()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_view_model.html"><param name="Name" value="ViewModel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a6dfff5264faccd2d1673a0046f4655a2"><param name="Name" value="AlquilarCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a65d1bc02f37a2582c59fd71ee42a90fe"><param name="Name" value="Alquileres"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#afc5111d44f6de18d77427172f6592a4a"><param name="Name" value="AlquileresViewModel()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#afa9d5ee7bc8c6ee868f54fd9d97ec605"><param name="Name" value="AlquilerSeleccionado"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#ac0c9641e83744ffe40a7008c9dba52b0"><param name="Name" value="ClienteSeleccionado"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#ab85a023edb5bd908e0bf6d7f06b1ce5d"><param name="Name" value="DevolverCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a8e6e878e1de711f066d5f73c2809b48a"><param name="Name" value="EliminarCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a0f6d88f54ce76d1dc5667f069ffe333a"><param name="Name" value="FechaDevolucionPrevista"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a585d791a9f39f8822b235eb25723dd50"><param name="Name" value="GenerarInformeCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a50efbe2888c4b48f6405ed080bbd2749"><param name="Name" value="LimpiarCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a9335fa051f5370e9f928d9a603953383"><param name="Name" value="ListaClientes"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a6db266e356e1a11c929eec865b3c40f9"><param name="Name" value="ListaProductosDisponibles"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#ac20ea4f79127b3db0740ac799ccbfbff"><param name="Name" value="ProductoSeleccionado"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="Name" value="ViewModel::AlquileresViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a63e2a3b518fb7dda7199b656f0236ce6"><param name="Name" value="PropertyChanged"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a50eb4ed9348f51f86e5fa4677047c4ba"><param name="Name" value="CatalogoViewModel()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ae313df8264ce3eddf7885d0a0596b188"><param name="Name" value="CrearCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a8b3cdedebc5bc593ec343d374662095a"><param name="Name" value="EliminarCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a4bfe3ad633ba5c370ca480b2139cf2ef"><param name="Name" value="EsJuego"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ad3a5f9805665042880a19f6c66ae2ab2"><param name="Name" value="EsPelicula"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a007fbcd40b78812897b81c420c47d9a8"><param name="Name" value="GenerarInformeCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ab233c3a7979e45a9bad9678beb57130c"><param name="Name" value="Generos"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a8cc4250782e1b0060395db8c8ae78bb2"><param name="Name" value="GeneroSeleccionado"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a49a5fde95453ec2d0d38f131f925c473"><param name="Name" value="InputStock"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#add0535916bb3c8bb73f3ebe75bae8e3e"><param name="Name" value="InputTipo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#afc4eea9d6ed5a77367cdbae7e088deac"><param name="Name" value="InputTitulo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ae6030b7b17b9355db0a007c40c7f71c5"><param name="Name" value="LimpiarCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ab0c1bc895416d24cf82b377503c58a4d"><param name="Name" value="ModificarCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a81a73e6bed0154adedba409c2039bff8"><param name="Name" value="Productos"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a222e6224337663157b77103f98fb2401"><param name="Name" value="ProductoSeleccionado"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#aaf44c21a9356e161d95e8b45dcc93226"><param name="Name" value="PropertyChanged"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a580c6ccd8ad05f414c0d89e2dcec6be2"><param name="Name" value="Tarifas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="Name" value="ViewModel::CatalogoViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a6cfd68fe048477b5dadc0b5b8b115ec9"><param name="Name" value="TarifaSeleccionada"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a8f0e88f74506e054863a29aec2cf7d7e"><param name="Name" value="Clientes"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a0afa8d97af562c98fc9803485855a2cc"><param name="Name" value="ClienteSeleccionado"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#ae2d4429264d30aca73f147762f58c57f"><param name="Name" value="ClientesViewModel()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a4989d495b24e3c84a409e299eb0e3564"><param name="Name" value="CrearCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a07929bb00d9cf840fd209b4883cba98c"><param name="Name" value="EliminarCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a9795168f4ca295684325a112747e9e19"><param name="Name" value="EsActivo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#adf0a0a845417bf2ba4e7a05740853e3c"><param name="Name" value="GenerarInformeCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a613cff8374ec3b35b854eaf16e9416c4"><param name="Name" value="InputEmail"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a0c3b07f512bf348bb63e92d8e2e1d5b4"><param name="Name" value="InputNombre"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a774a81ff18c82729014468ca980a7034"><param name="Name" value="InputTelefono"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#ab10127949f66952c4b744919a1e16ea6"><param name="Name" value="LimpiarCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#abb0a2eb618b9de0fb368b45bb16a418d"><param name="Name" value="ModificarCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="Name" value="ViewModel::ClientesViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a8e30458d470c843897cf2785f8bf6abf"><param name="Name" value="PropertyChanged"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a10aaedb80965aff63d18cb83d77e702b"><param name="Name" value="ConfiguracionViewModel()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a0f19d8eb2fdb5f3a61664da917f67105"><param name="Name" value="EliminarGeneroCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#acbbbbe4808fa8a5967abb43f8e236143"><param name="Name" value="EliminarTarifaCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#ab18c0b81e01635f9cc58f1710f9c8ac9"><param name="Name" value="Generos"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a602c515164224a7cc45b4bb4e6e19199"><param name="Name" value="GeneroSeleccionado"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#aa6985ea62219fbb0e2c5aa7f096612a8"><param name="Name" value="GuardarGeneroCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#ac22b3d006161ba2e522b904efc5e38a0"><param name="Name" value="GuardarTarifaCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#af98261590a1aeef1e4cfc99c1f1aa815"><param name="Name" value="InputDescripcionTarifa"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a7fa3ef4f989b3cadaf41fca954e149b1"><param name="Name" value="InputNombreGenero"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a5d97cf5bb2089bdee26ed340054e71d0"><param name="Name" value="InputPrecioDia"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a1e6d85a9ea3a37574e46e7b814c65b20"><param name="Name" value="LimpiarCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#aa1f503c148345a5e1d173e0c2a47ecb5"><param name="Name" value="PropertyChanged"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#ae8bc379c2ea5f8ca2c4b39b55bc46a29"><param name="Name" value="Tarifas"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="Name" value="ViewModel::ConfiguracionViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a0f1d79ff0dd0e7d34293318905beac1e"><param name="Name" value="TarifaSeleccionada"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#aad2c75a3b9ee1701fe0933157c50a555"><param name="Name" value="AbrirAlquileresCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a6639f8c3e235914519f1022b184a917c"><param name="Name" value="AbrirCatalogoCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a578b1859d7c15570a3529a133f704064"><param name="Name" value="AbrirClientesCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#ac08b6b7790cd163301c99531a4ca29f8"><param name="Name" value="AbrirConfigCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#adb92f7b736e52a19eb7cc03b0a8b613f"><param name="Name" value="AccionSolicitada"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a773e27ca1158d480773f138f50ddf4a6"><param name="Name" value="ActividadReciente"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#aeaca7aab8943272119265774204754a4"><param name="Name" value="AlquileresActivos"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a27bf201b6d7b110c63f4ac2a669f18a7"><param name="Name" value="FechaActual"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#abedfe02c7ff69e188ee0ac3f0f834147"><param name="Name" value="MainWindowViewModel()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a376ad9c927c84a880928a8a58250d242"><param name="Name" value="OnAccionSolicitada"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a5e4ee1f388d08f1b08d29cee35cd4a62"><param name="Name" value="PropertyChanged"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a4b7e4b402e12eb0d60cb02cb4d311af1"><param name="Name" value="RefrescarDatos()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#ae21c849e90be32f21a3c8df51498f1cf"><param name="Name" value="SalirCommand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#abad15c4f64a4fa648c8b1b1e88f11630"><param name="Name" value="StockBajo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a2f47386ee66f772183d9a2eb15c4e30e"><param name="Name" value="TotalClientes"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="Name" value="ViewModel::MainWindowViewModel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#acc57ffb992d00586014554d77130f05d"><param name="Name" value="TotalProductos"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_view_model_1_1_services.html"><param name="Name" value="ViewModel::Services"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html"><param name="Name" value="ViewModel::Services::AlquilerService"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html"><param name="Name" value="ViewModel::Services::AlquilerService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#aa561088442a98a2ed8daccc8d068888e"><param name="Name" value="EliminarAlquiler(int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html"><param name="Name" value="ViewModel::Services::AlquilerService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a4df6069f410243b6e8740f4b123da219"><param name="Name" value="GuardarAlquiler(Alquileres nuevo)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html"><param name="Name" value="ViewModel::Services::AlquilerService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a7d35a336430d1a9efc1fbb891ae90549"><param name="Name" value="MarcarComoDevuelto(int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html"><param name="Name" value="ViewModel::Services::AlquilerService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a06b6b92422f084b453b75369e02ac004"><param name="Name" value="ObtenerActividadReciente()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html"><param name="Name" value="ViewModel::Services::AlquilerService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a018d96b8395ddd8e8ba8b87eb5188708"><param name="Name" value="ObtenerAlquileresActivos()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html"><param name="Name" value="ViewModel::Services::AlquilerService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#ac54166faa1f23ea5bbb9b5c3303625b4"><param name="Name" value="ObtenerTodos()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html"><param name="Name" value="ViewModel::Services::AlquilerService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#afbbdefb743b36ad56ddfdf4fb0fde892"><param name="Name" value="SeleccionarDatosRepo()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#ad0c6fa3d0d5e32763a1d23c2b087c4e4"><param name="Name" value="Actualizar(Productos editado)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a4b24214340c81c939f6293431ddbc320"><param name="Name" value="Eliminar(int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a184c831646ec8bfc77e9f25c384beb17"><param name="Name" value="Guardar(Productos nuevo)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a104a5cb0cd5c317f688314842640e0a0"><param name="Name" value="ObtenerGeneros()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a51a056ceddadcad1f6122ee7130f7582"><param name="Name" value="ObtenerStockBajo()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a02f1aeb644eb16dfff729903db661927"><param name="Name" value="ObtenerTarifas()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#ada7f68b3b2b60fda53c153b63d0dce58"><param name="Name" value="ObtenerTodos()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a725a6d3e5bf7e14aaf7fd43fc52448b0"><param name="Name" value="ObtenerTotalProductos()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#ae943c3c229cfb90f3f8d079b64259a5a"><param name="Name" value="SeleccionarDatosRepo()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a0d5cedeef70d68be4f3b53eedf06a95a"><param name="Name" value="ValidarRelacionId(int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a68f73497db92eaac34e18098fdc5c6c2"><param name="Name" value="ValidarStock(int stock)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html"><param name="Name" value="ViewModel::Services::CatalogoService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a29c5a9dd0f4c529b22c6b2e35fdfe05b"><param name="Name" value="ValidarTitulo(string titulo)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html"><param name="Name" value="ViewModel::Services::ClienteService"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html"><param name="Name" value="ViewModel::Services::ClienteService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#a5cbc88dffa026c9aba0e357ee8ceafb1"><param name="Name" value="Actualizar(Clientes clienteEditado)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html"><param name="Name" value="ViewModel::Services::ClienteService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#aa289ded02434bd93b75426426cc010c8"><param name="Name" value="Buscar(string nombre)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html"><param name="Name" value="ViewModel::Services::ClienteService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ac578ec00707c1de4bda6ad66cf4b9792"><param name="Name" value="Eliminar(int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html"><param name="Name" value="ViewModel::Services::ClienteService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ac40d9d9f24dd963560f3e72dac72396f"><param name="Name" value="Guardar(Clientes nuevo)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html"><param name="Name" value="ViewModel::Services::ClienteService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ac07b81625969f01bdf9a087b92ae7bf9"><param name="Name" value="ObtenerTodos()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html"><param name="Name" value="ViewModel::Services::ClienteService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ae15b53a2cd79c17117834f29123d0bef"><param name="Name" value="ObtenerTotalClientes()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html"><param name="Name" value="ViewModel::Services::ClienteService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#acfbafc17408bf3a2db88b08506c57771"><param name="Name" value="SeleccionarDatosRepo()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html"><param name="Name" value="ViewModel::Services::ClienteService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ab6b6661cb9658c47b50a672543e1177b"><param name="Name" value="ValidarFormatoEmail(string email)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html"><param name="Name" value="ViewModel::Services::ClienteService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#a179712a3b9b34c7084c110e502f60bf1"><param name="Name" value="ValidarTelefono(string telefono)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#a5947235dad5c464bb78b5e2bee3c7eac"><param name="Name" value="ActualizarGenero(Generos generoEditado)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#a2fa4c9245e6721055db4482d23d4d22a"><param name="Name" value="ActualizarTarifa(Tarifas tarifaEditada)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#af8b4c6dce6029ee3e87b7841c102fa0e"><param name="Name" value="EliminarGenero(int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#a1aa5d5278cb5a9e67b546949eeb3a6b8"><param name="Name" value="EliminarTarifa(int id)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#af12112c071769cd4ad730670e3d0c63d"><param name="Name" value="GuardarGenero(Generos nuevo)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#abd5f6aebaf3dddf696604b6b0490c2ea"><param name="Name" value="GuardarTarifa(Tarifas nueva)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#ac78523ffa57eaf6ae5c545d93c18c9a6"><param name="Name" value="ObtenerGeneros()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html"><param name="Name" value="ViewModel::Services::ConfiguracionService"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#ad771e111c5a595fd522f554610f951f7"><param name="Name" value="ObtenerTarifas()"></OBJECT>
+  </UL>
+</UL>
+</BODY>
+</HTML>

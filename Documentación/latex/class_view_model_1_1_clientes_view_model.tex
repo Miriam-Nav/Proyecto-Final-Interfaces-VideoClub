@@ -1,0 +1,84 @@
+\doxysection{Referencia de la clase View\+Model.\+Clientes\+View\+Model}
+\hypertarget{class_view_model_1_1_clientes_view_model}{}\label{class_view_model_1_1_clientes_view_model}\index{ViewModel.ClientesViewModel@{ViewModel.ClientesViewModel}}
+
+
+\doxylink{namespace_view_model}{View\+Model} de la ventana de gestión de clientes. Gestiona la lógica de registro, actualización, eliminación y visualización de los clientes del \doxylink{namespace_video_club}{Video\+Club}.  
+
+
+Diagrama de herencia de View\+Model.\+Clientes\+View\+Model\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_view_model_1_1_clientes_view_model}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Métodos públicos}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_ae2d4429264d30aca73f147762f58c57f}\label{class_view_model_1_1_clientes_view_model_ae2d4429264d30aca73f147762f58c57f} 
+{\bfseries Clientes\+View\+Model} ()
+\begin{DoxyCompactList}\small\item\em Constructor del \doxylink{namespace_view_model}{View\+Model}. Inicializa los servicios, comandos y carga la lista inicial. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Métodos protegidos}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_a22f7a0321c3d34e4de1fd3b2cccb9281}\label{class_view_model_1_1_clientes_view_model_a22f7a0321c3d34e4de1fd3b2cccb9281} 
+void {\bfseries On\+Property\+Changed} (string name)
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Propiedades}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_a8f0e88f74506e054863a29aec2cf7d7e}\label{class_view_model_1_1_clientes_view_model_a8f0e88f74506e054863a29aec2cf7d7e} 
+List$<$ Clientes $>$ {\bfseries Clientes}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Lista de clientes registrados. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_a0afa8d97af562c98fc9803485855a2cc}\label{class_view_model_1_1_clientes_view_model_a0afa8d97af562c98fc9803485855a2cc} 
+\doxymbox{\hyperlink{class_view_model_1_1_clientes_view_model_a8f0e88f74506e054863a29aec2cf7d7e}{Clientes}} {\bfseries Cliente\+Seleccionado}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Obtiene o establece el cliente seleccionado actualmente en la lista. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_a0c3b07f512bf348bb63e92d8e2e1d5b4}\label{class_view_model_1_1_clientes_view_model_a0c3b07f512bf348bb63e92d8e2e1d5b4} 
+string {\bfseries Input\+Nombre}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Nombre completo del cliente para el formulario. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_a613cff8374ec3b35b854eaf16e9416c4}\label{class_view_model_1_1_clientes_view_model_a613cff8374ec3b35b854eaf16e9416c4} 
+string {\bfseries Input\+Email}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Correo electrónico de contacto del cliente. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_a774a81ff18c82729014468ca980a7034}\label{class_view_model_1_1_clientes_view_model_a774a81ff18c82729014468ca980a7034} 
+string {\bfseries Input\+Telefono}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Número de teléfono del cliente. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_a9795168f4ca295684325a112747e9e19}\label{class_view_model_1_1_clientes_view_model_a9795168f4ca295684325a112747e9e19} 
+bool {\bfseries Es\+Activo}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Determina si el cliente tiene una cuenta activa. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_a5b36032c554b48a63fc3963661ffdba8}\label{class_view_model_1_1_clientes_view_model_a5b36032c554b48a63fc3963661ffdba8} 
+string {\bfseries Error\+Nombre}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_a4c282b4800c20297adc13e4e1a526e90}\label{class_view_model_1_1_clientes_view_model_a4c282b4800c20297adc13e4e1a526e90} 
+string {\bfseries Error\+Email}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_a3dd322171db4255ca931be24e16793bd}\label{class_view_model_1_1_clientes_view_model_a3dd322171db4255ca931be24e16793bd} 
+string {\bfseries Error\+Telefono}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_a4989d495b24e3c84a409e299eb0e3564}\label{class_view_model_1_1_clientes_view_model_a4989d495b24e3c84a409e299eb0e3564} 
+ICommand {\bfseries Crear\+Command}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Comando para registrar un nuevo cliente. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_abb0a2eb618b9de0fb368b45bb16a418d}\label{class_view_model_1_1_clientes_view_model_abb0a2eb618b9de0fb368b45bb16a418d} 
+ICommand {\bfseries Modificar\+Command}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Comando para modificar los datos del cliente seleccionado. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_a07929bb00d9cf840fd209b4883cba98c}\label{class_view_model_1_1_clientes_view_model_a07929bb00d9cf840fd209b4883cba98c} 
+ICommand {\bfseries Eliminar\+Command}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Comando para eliminar un cliente de la base de datos. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_ab10127949f66952c4b744919a1e16ea6}\label{class_view_model_1_1_clientes_view_model_ab10127949f66952c4b744919a1e16ea6} 
+ICommand {\bfseries Limpiar\+Command}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Comando para resetear los campos del formulario. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_adf0a0a845417bf2ba4e7a05740853e3c}\label{class_view_model_1_1_clientes_view_model_adf0a0a845417bf2ba4e7a05740853e3c} 
+ICommand {\bfseries Generar\+Informe\+Command}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Comando para generar un informe con los datos de los clientes. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Eventos}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_view_model_1_1_clientes_view_model_a8e30458d470c843897cf2785f8bf6abf}\label{class_view_model_1_1_clientes_view_model_a8e30458d470c843897cf2785f8bf6abf} 
+Property\+Changed\+Event\+Handler {\bfseries Property\+Changed}
+\begin{DoxyCompactList}\small\item\em Evento para notificar cambios en las propiedades a la Vista. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Descripción detallada}
+\doxylink{namespace_view_model}{View\+Model} de la ventana de gestión de clientes. Gestiona la lógica de registro, actualización, eliminación y visualización de los clientes del \doxylink{namespace_video_club}{Video\+Club}. 
+
+La documentación de esta clase está generada del siguiente archivo:\+\begin{DoxyCompactItemize}
+\item 
+View\+Model/\+Clientes\+View\+Model.\+cs\end{DoxyCompactItemize}

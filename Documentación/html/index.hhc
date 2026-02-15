@@ -1,0 +1,868 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Paquetes"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Lista de paquetes"><param name="Local" value="namespaces.html#top"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes"><param name="Local" value="namespace_informes.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="namespace_informes_1_1_properties.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="App"><param name="Local" value="class_informes_1_1_app.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_informes_1_1_app.html#a597c13560df1796fc2b527a30663e5d3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_informes_1_1_app.html#a597c13560df1796fc2b527a30663e5d3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_informes_1_1_app.html#a597c13560df1796fc2b527a30663e5d3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_informes_1_1_app.html#a597c13560df1796fc2b527a30663e5d3"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientesReport"><param name="Local" value="class_informes_1_1_clientes_report.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CachedClientesReport"><param name="Local" value="class_informes_1_1_cached_clientes_report.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="InformesView"><param name="Local" value="class_informes_1_1_informes_view.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_informes_1_1_informes_view.html#ad8b1c4b2272299f84196362c5ca70902"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_informes_1_1_informes_view.html#ad8b1c4b2272299f84196362c5ca70902"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_informes_1_1_informes_view.html#ad8b1c4b2272299f84196362c5ca70902"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_informes_1_1_informes_view.html#ad8b1c4b2272299f84196362c5ca70902"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="reportViewer"><param name="Local" value="class_informes_1_1_informes_view.html#a67a38449bf04d0871f94c0eb487282a8"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PrestamosPorCliente"><param name="Local" value="class_informes_1_1_prestamos_por_cliente.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CachedPrestamosPorCliente"><param name="Local" value="class_informes_1_1_cached_prestamos_por_cliente.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ProductosPorGenero"><param name="Local" value="class_informes_1_1_productos_por_genero.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CachedProductosPorGenero"><param name="Local" value="class_informes_1_1_cached_productos_por_genero.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Model"><param name="Local" value="namespace_model.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DataSet"><param name="Local" value="namespace_model_1_1_data_set.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="dsVideoClub"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientesDataTable"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_clientes_data_table.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ProductosPorGeneroDataTable"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_productos_por_genero_data_table.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PrestamosPorTarifaDataTable"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_prestamos_por_tarifa_data_table.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientesRow"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_clientes_row.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ProductosPorGeneroRow"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_productos_por_genero_row.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PrestamosPorTarifaRow"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_prestamos_por_tarifa_row.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientesRowChangeEvent"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_clientes_row_change_event.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ProductosPorGeneroRowChangeEvent"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_productos_por_genero_row_change_event.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PrestamosPorTarifaRowChangeEvent"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_prestamos_por_tarifa_row_change_event.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Repositorios"><param name="Local" value="namespace_model_1_1_repositorios.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AlquilerRepositorio"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DatosRepo"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#a6a871303a50f0aaca508a2ce00425efd"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Eliminar"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#a3df6656d01c6ab493f900726add37379"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GuardarAlquiler"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#adb070211ac94eb9b35ad8a86f1ccf537"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MarcarComoDevuelto"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#afa36d25706df0348bc2d1e9e754a13fd"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerActividadReciente"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#ab47a31783ff495f9b3fab9b40f3ab1c2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerAlquileresActivos"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#a4b6d003bca7895db3e8f37a99c5ed59a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTodos"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#ae9c93f3f4da47af7c295b155292d6e56"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CatalogoRepositorio"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Actualizar"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a0847a553dee557d7dbc3c1b956313864"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BuscarPorTitulo"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a4333f969013c2b1c0c64ddd06708895e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DatosRepo"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#ace8f1ebad718f453e2a9431bf6745533"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Eliminar"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a855767e5f9790f9d9a306f24bbf9eea2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Guardar"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#af76d68cfe17a63de9476f0ce6403ad87"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerGeneros"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a1b7338425f25f170172845cef40b608d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerStockBajo"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a0a1e8e8248dc4202a05163bdf18e15ba"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTarifas"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a6ca99781a7170eafdc328290a5051897"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTodos"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#ac6aec6eb52332b6df2c86046f6d8660a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTotalProductos"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#ad06af17ee4050630167f03364d6ccd32"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ClienteRepositorio"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Actualizar"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#adcb9848c314c7b64125b789873eb1dd5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BuscarPorEmail"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a36e5061b82d643b3049fd336e2c74b8b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BuscarPorNombre"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a645d148642250900a7c3b3b1d3379847"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DatosRepo"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a6c6d7ec461bb2e26619f955ae1cd8b6a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Eliminar"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a74d6e6204e52b97cdb6860b39d50c7f5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Guardar"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#aa7c8321253074b210a1ed03a015a5d24"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTodos"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a8383a1fc1dea8883cca4c19b759e42fb"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTotalClientes"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a9260263a02800e76be0360acc34a2e0a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TieneAlquileresPendientes"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a62d2afa4706612e209701841dad97a47"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfiguraciónRepositorio"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ActualizarGenero"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a528f03822e02e4a9b12b8ed4070cc625"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ActualizarTarifa"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a1e6144b5aa27f1042897d2f6bcce9a86"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarGenero"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a6734fb82fe53696d84e410f42195ed15"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarTarifa"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a18b6aadc15a7c60dbd6f617b7b489e0c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GeneroEnUso"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#ac8f62829e11a62fc6db6020de2717db9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GuardarGenero"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a38c5a69040abe73b9e56dd197259874a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GuardarTarifa"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a8c465f12283c1231c2051a71b8d38099"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerGeneros"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#ae9a8c65387de04a7770142b556653b2c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTarifas"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#ae91e0e8227ec65914de7439233fbb5b8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TarifaEnUso"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a797e62067d0aab2ca782e5e719e70606"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Alquileres"><param name="Local" value="class_model_1_1_alquileres.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Clientes"><param name="Local" value="class_model_1_1_clientes.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Generos"><param name="Local" value="class_model_1_1_generos.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Productos"><param name="Local" value="class_model_1_1_productos.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Tarifas"><param name="Local" value="class_model_1_1_tarifas.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="VideoClubEntities"><param name="Local" value="class_model_1_1_video_club_entities.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Test"><param name="Local" value="namespace_test.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TestVideoClub"><param name="Local" value="class_test_1_1_test_video_club.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TestConexionDirectaBD"><param name="Local" value="class_test_1_1_test_video_club.html#ac1ee01202e875f342a75811d97892d15"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TestEmailFormatoIncorrecto"><param name="Local" value="class_test_1_1_test_video_club.html#aef8facf738cdb6e792e1a1968765d5e9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TestStockNegativo"><param name="Local" value="class_test_1_1_test_video_club.html#aa11b4596dd30e8616d54a108ea6ac965"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="VideoClub"><param name="Local" value="namespace_video_club.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="namespace_video_club_1_1_properties.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="View"><param name="Local" value="namespace_view.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AlquileresView"><param name="Local" value="class_view_1_1_alquileres_view.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_alquileres_view.html#a78192187b2b22fc9f18421e8fb5c9b48"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_alquileres_view.html#a78192187b2b22fc9f18421e8fb5c9b48"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_alquileres_view.html#a78192187b2b22fc9f18421e8fb5c9b48"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_alquileres_view.html#a78192187b2b22fc9f18421e8fb5c9b48"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="App"><param name="Local" value="class_view_1_1_app.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_app.html#aed21050ac0e0ccad3bcdfea0ec53dc17"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_app.html#aed21050ac0e0ccad3bcdfea0ec53dc17"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_app.html#aed21050ac0e0ccad3bcdfea0ec53dc17"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_app.html#aed21050ac0e0ccad3bcdfea0ec53dc17"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CatalogoView"><param name="Local" value="class_view_1_1_catalogo_view.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_catalogo_view.html#ae81db627fcec441268105e39405155cd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_catalogo_view.html#ae81db627fcec441268105e39405155cd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_catalogo_view.html#ae81db627fcec441268105e39405155cd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_catalogo_view.html#ae81db627fcec441268105e39405155cd"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientesView"><param name="Local" value="class_view_1_1_clientes_view.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_clientes_view.html#ab209dffe87f53c91dba201c1aa83e3c4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_clientes_view.html#ab209dffe87f53c91dba201c1aa83e3c4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_clientes_view.html#ab209dffe87f53c91dba201c1aa83e3c4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_clientes_view.html#ab209dffe87f53c91dba201c1aa83e3c4"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfiguracionView"><param name="Local" value="class_view_1_1_configuracion_view.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_configuracion_view.html#a3093c741d9198e18fd1b9103fd70cf08"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_configuracion_view.html#a3093c741d9198e18fd1b9103fd70cf08"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_configuracion_view.html#a3093c741d9198e18fd1b9103fd70cf08"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_configuracion_view.html#a3093c741d9198e18fd1b9103fd70cf08"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PrincipalView"><param name="Local" value="class_view_1_1_principal_view.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_principal_view.html#a57c50f30e970893a5cada32785c1a6ed"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_principal_view.html#a57c50f30e970893a5cada32785c1a6ed"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_principal_view.html#a57c50f30e970893a5cada32785c1a6ed"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_principal_view.html#a57c50f30e970893a5cada32785c1a6ed"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewModel"><param name="Local" value="namespace_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Services"><param name="Local" value="namespace_view_model_1_1_services.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AlquilerService"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarAlquiler"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#aa561088442a98a2ed8daccc8d068888e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GuardarAlquiler"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a4df6069f410243b6e8740f4b123da219"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MarcarComoDevuelto"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a7d35a336430d1a9efc1fbb891ae90549"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerActividadReciente"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a06b6b92422f084b453b75369e02ac004"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerAlquileresActivos"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a018d96b8395ddd8e8ba8b87eb5188708"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTodos"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#ac54166faa1f23ea5bbb9b5c3303625b4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SeleccionarDatosRepo"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#afbbdefb743b36ad56ddfdf4fb0fde892"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CatalogoService"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Actualizar"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#ad0c6fa3d0d5e32763a1d23c2b087c4e4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Eliminar"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a4b24214340c81c939f6293431ddbc320"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Guardar"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a184c831646ec8bfc77e9f25c384beb17"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerGeneros"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a104a5cb0cd5c317f688314842640e0a0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerStockBajo"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a51a056ceddadcad1f6122ee7130f7582"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTarifas"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a02f1aeb644eb16dfff729903db661927"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTodos"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#ada7f68b3b2b60fda53c153b63d0dce58"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTotalProductos"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a725a6d3e5bf7e14aaf7fd43fc52448b0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SeleccionarDatosRepo"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#ae943c3c229cfb90f3f8d079b64259a5a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidarRelacionId"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a0d5cedeef70d68be4f3b53eedf06a95a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidarStock"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a68f73497db92eaac34e18098fdc5c6c2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidarTitulo"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a29c5a9dd0f4c529b22c6b2e35fdfe05b"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ClienteService"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Actualizar"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#a5cbc88dffa026c9aba0e357ee8ceafb1"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Buscar"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#aa289ded02434bd93b75426426cc010c8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Eliminar"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ac578ec00707c1de4bda6ad66cf4b9792"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Guardar"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ac40d9d9f24dd963560f3e72dac72396f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTodos"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ac07b81625969f01bdf9a087b92ae7bf9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTotalClientes"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ae15b53a2cd79c17117834f29123d0bef"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SeleccionarDatosRepo"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#acfbafc17408bf3a2db88b08506c57771"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidarFormatoEmail"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ab6b6661cb9658c47b50a672543e1177b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidarTelefono"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#a179712a3b9b34c7084c110e502f60bf1"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfiguracionService"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ActualizarGenero"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#a5947235dad5c464bb78b5e2bee3c7eac"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ActualizarTarifa"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#a2fa4c9245e6721055db4482d23d4d22a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarGenero"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#af8b4c6dce6029ee3e87b7841c102fa0e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarTarifa"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#a1aa5d5278cb5a9e67b546949eeb3a6b8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GuardarGenero"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#af12112c071769cd4ad730670e3d0c63d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GuardarTarifa"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#abd5f6aebaf3dddf696604b6b0490c2ea"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerGeneros"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#ac78523ffa57eaf6ae5c545d93c18c9a6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTarifas"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#ad771e111c5a595fd522f554610f951f7"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AlquileresViewModel"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AlquileresViewModel"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#afc5111d44f6de18d77427172f6592a4a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AlquilarCommand"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a6dfff5264faccd2d1673a0046f4655a2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Alquileres"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a65d1bc02f37a2582c59fd71ee42a90fe"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AlquilerSeleccionado"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#afa9d5ee7bc8c6ee868f54fd9d97ec605"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ClienteSeleccionado"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#ac0c9641e83744ffe40a7008c9dba52b0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DevolverCommand"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#ab85a023edb5bd908e0bf6d7f06b1ce5d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarCommand"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a8e6e878e1de711f066d5f73c2809b48a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="FechaDevolucionPrevista"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a0f6d88f54ce76d1dc5667f069ffe333a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GenerarInformeCommand"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a585d791a9f39f8822b235eb25723dd50"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LimpiarCommand"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a50efbe2888c4b48f6405ed080bbd2749"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ListaClientes"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a9335fa051f5370e9f928d9a603953383"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ListaProductosDisponibles"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a6db266e356e1a11c929eec865b3c40f9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ProductoSeleccionado"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#ac20ea4f79127b3db0740ac799ccbfbff"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PropertyChanged"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a63e2a3b518fb7dda7199b656f0236ce6"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CatalogoViewModel"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CatalogoViewModel"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a50eb4ed9348f51f86e5fa4677047c4ba"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CrearCommand"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ae313df8264ce3eddf7885d0a0596b188"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarCommand"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a8b3cdedebc5bc593ec343d374662095a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EsJuego"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a4bfe3ad633ba5c370ca480b2139cf2ef"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EsPelicula"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ad3a5f9805665042880a19f6c66ae2ab2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GenerarInformeCommand"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a007fbcd40b78812897b81c420c47d9a8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Generos"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ab233c3a7979e45a9bad9678beb57130c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GeneroSeleccionado"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a8cc4250782e1b0060395db8c8ae78bb2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputStock"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a49a5fde95453ec2d0d38f131f925c473"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputTipo"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#add0535916bb3c8bb73f3ebe75bae8e3e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputTitulo"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#afc4eea9d6ed5a77367cdbae7e088deac"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LimpiarCommand"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ae6030b7b17b9355db0a007c40c7f71c5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ModificarCommand"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ab0c1bc895416d24cf82b377503c58a4d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Productos"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a81a73e6bed0154adedba409c2039bff8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ProductoSeleccionado"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a222e6224337663157b77103f98fb2401"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Tarifas"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a580c6ccd8ad05f414c0d89e2dcec6be2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TarifaSeleccionada"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a6cfd68fe048477b5dadc0b5b8b115ec9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PropertyChanged"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#aaf44c21a9356e161d95e8b45dcc93226"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientesViewModel"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientesViewModel"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#ae2d4429264d30aca73f147762f58c57f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Clientes"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a8f0e88f74506e054863a29aec2cf7d7e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ClienteSeleccionado"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a0afa8d97af562c98fc9803485855a2cc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CrearCommand"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a4989d495b24e3c84a409e299eb0e3564"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarCommand"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a07929bb00d9cf840fd209b4883cba98c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EsActivo"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a9795168f4ca295684325a112747e9e19"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GenerarInformeCommand"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#adf0a0a845417bf2ba4e7a05740853e3c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputEmail"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a613cff8374ec3b35b854eaf16e9416c4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputNombre"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a0c3b07f512bf348bb63e92d8e2e1d5b4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputTelefono"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a774a81ff18c82729014468ca980a7034"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LimpiarCommand"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#ab10127949f66952c4b744919a1e16ea6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ModificarCommand"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#abb0a2eb618b9de0fb368b45bb16a418d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PropertyChanged"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a8e30458d470c843897cf2785f8bf6abf"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfiguracionViewModel"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfiguracionViewModel"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a10aaedb80965aff63d18cb83d77e702b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarGeneroCommand"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a0f19d8eb2fdb5f3a61664da917f67105"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarTarifaCommand"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#acbbbbe4808fa8a5967abb43f8e236143"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Generos"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#ab18c0b81e01635f9cc58f1710f9c8ac9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GeneroSeleccionado"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a602c515164224a7cc45b4bb4e6e19199"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GuardarGeneroCommand"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#aa6985ea62219fbb0e2c5aa7f096612a8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GuardarTarifaCommand"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#ac22b3d006161ba2e522b904efc5e38a0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputDescripcionTarifa"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#af98261590a1aeef1e4cfc99c1f1aa815"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputNombreGenero"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a7fa3ef4f989b3cadaf41fca954e149b1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputPrecioDia"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a5d97cf5bb2089bdee26ed340054e71d0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LimpiarCommand"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a1e6d85a9ea3a37574e46e7b814c65b20"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Tarifas"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#ae8bc379c2ea5f8ca2c4b39b55bc46a29"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TarifaSeleccionada"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a0f1d79ff0dd0e7d34293318905beac1e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PropertyChanged"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#aa1f503c148345a5e1d173e0c2a47ecb5"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MainWindowViewModel"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MainWindowViewModel"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#abedfe02c7ff69e188ee0ac3f0f834147"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RefrescarDatos"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a4b7e4b402e12eb0d60cb02cb4d311af1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AbrirAlquileresCommand"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#aad2c75a3b9ee1701fe0933157c50a555"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AbrirCatalogoCommand"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a6639f8c3e235914519f1022b184a917c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AbrirClientesCommand"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a578b1859d7c15570a3529a133f704064"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AbrirConfigCommand"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#ac08b6b7790cd163301c99531a4ca29f8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AccionSolicitada"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#adb92f7b736e52a19eb7cc03b0a8b613f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ActividadReciente"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a773e27ca1158d480773f138f50ddf4a6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AlquileresActivos"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#aeaca7aab8943272119265774204754a4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="FechaActual"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a27bf201b6d7b110c63f4ac2a669f18a7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SalirCommand"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#ae21c849e90be32f21a3c8df51498f1cf"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StockBajo"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#abad15c4f64a4fa648c8b1b1e88f11630"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TotalClientes"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a2f47386ee66f772183d9a2eb15c4e30e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TotalProductos"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#acc57ffb992d00586014554d77130f05d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="OnAccionSolicitada"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a376ad9c927c84a880928a8a58250d242"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PropertyChanged"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a5e4ee1f388d08f1b08d29cee35cd4a62"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Clases"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Lista de clases"><param name="Local" value="annotated.html#top"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes"><param name="Local" value="namespace_informes.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="App"><param name="Local" value="class_informes_1_1_app.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_informes_1_1_app.html#a597c13560df1796fc2b527a30663e5d3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_informes_1_1_app.html#a597c13560df1796fc2b527a30663e5d3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_informes_1_1_app.html#a597c13560df1796fc2b527a30663e5d3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_informes_1_1_app.html#a597c13560df1796fc2b527a30663e5d3"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientesReport"><param name="Local" value="class_informes_1_1_clientes_report.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CachedClientesReport"><param name="Local" value="class_informes_1_1_cached_clientes_report.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="InformesView"><param name="Local" value="class_informes_1_1_informes_view.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_informes_1_1_informes_view.html#ad8b1c4b2272299f84196362c5ca70902"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_informes_1_1_informes_view.html#ad8b1c4b2272299f84196362c5ca70902"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_informes_1_1_informes_view.html#ad8b1c4b2272299f84196362c5ca70902"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_informes_1_1_informes_view.html#ad8b1c4b2272299f84196362c5ca70902"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="reportViewer"><param name="Local" value="class_informes_1_1_informes_view.html#a67a38449bf04d0871f94c0eb487282a8"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PrestamosPorCliente"><param name="Local" value="class_informes_1_1_prestamos_por_cliente.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CachedPrestamosPorCliente"><param name="Local" value="class_informes_1_1_cached_prestamos_por_cliente.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ProductosPorGenero"><param name="Local" value="class_informes_1_1_productos_por_genero.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CachedProductosPorGenero"><param name="Local" value="class_informes_1_1_cached_productos_por_genero.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Model"><param name="Local" value="namespace_model.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DataSet"><param name="Local" value="namespace_model_1_1_data_set.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="dsVideoClub"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientesDataTable"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_clientes_data_table.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ProductosPorGeneroDataTable"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_productos_por_genero_data_table.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PrestamosPorTarifaDataTable"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_prestamos_por_tarifa_data_table.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientesRow"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_clientes_row.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ProductosPorGeneroRow"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_productos_por_genero_row.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PrestamosPorTarifaRow"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_prestamos_por_tarifa_row.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientesRowChangeEvent"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_clientes_row_change_event.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ProductosPorGeneroRowChangeEvent"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_productos_por_genero_row_change_event.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PrestamosPorTarifaRowChangeEvent"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_prestamos_por_tarifa_row_change_event.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Repositorios"><param name="Local" value="namespace_model_1_1_repositorios.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AlquilerRepositorio"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DatosRepo"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#a6a871303a50f0aaca508a2ce00425efd"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Eliminar"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#a3df6656d01c6ab493f900726add37379"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GuardarAlquiler"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#adb070211ac94eb9b35ad8a86f1ccf537"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MarcarComoDevuelto"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#afa36d25706df0348bc2d1e9e754a13fd"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerActividadReciente"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#ab47a31783ff495f9b3fab9b40f3ab1c2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerAlquileresActivos"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#a4b6d003bca7895db3e8f37a99c5ed59a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTodos"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html#ae9c93f3f4da47af7c295b155292d6e56"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CatalogoRepositorio"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Actualizar"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a0847a553dee557d7dbc3c1b956313864"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BuscarPorTitulo"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a4333f969013c2b1c0c64ddd06708895e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DatosRepo"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#ace8f1ebad718f453e2a9431bf6745533"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Eliminar"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a855767e5f9790f9d9a306f24bbf9eea2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Guardar"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#af76d68cfe17a63de9476f0ce6403ad87"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerGeneros"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a1b7338425f25f170172845cef40b608d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerStockBajo"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a0a1e8e8248dc4202a05163bdf18e15ba"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTarifas"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#a6ca99781a7170eafdc328290a5051897"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTodos"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#ac6aec6eb52332b6df2c86046f6d8660a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTotalProductos"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html#ad06af17ee4050630167f03364d6ccd32"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ClienteRepositorio"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Actualizar"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#adcb9848c314c7b64125b789873eb1dd5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BuscarPorEmail"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a36e5061b82d643b3049fd336e2c74b8b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BuscarPorNombre"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a645d148642250900a7c3b3b1d3379847"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DatosRepo"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a6c6d7ec461bb2e26619f955ae1cd8b6a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Eliminar"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a74d6e6204e52b97cdb6860b39d50c7f5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Guardar"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#aa7c8321253074b210a1ed03a015a5d24"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTodos"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a8383a1fc1dea8883cca4c19b759e42fb"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTotalClientes"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a9260263a02800e76be0360acc34a2e0a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TieneAlquileresPendientes"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html#a62d2afa4706612e209701841dad97a47"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfiguraciónRepositorio"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ActualizarGenero"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a528f03822e02e4a9b12b8ed4070cc625"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ActualizarTarifa"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a1e6144b5aa27f1042897d2f6bcce9a86"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarGenero"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a6734fb82fe53696d84e410f42195ed15"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarTarifa"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a18b6aadc15a7c60dbd6f617b7b489e0c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GeneroEnUso"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#ac8f62829e11a62fc6db6020de2717db9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GuardarGenero"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a38c5a69040abe73b9e56dd197259874a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GuardarTarifa"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a8c465f12283c1231c2051a71b8d38099"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerGeneros"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#ae9a8c65387de04a7770142b556653b2c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTarifas"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#ae91e0e8227ec65914de7439233fbb5b8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TarifaEnUso"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html#a797e62067d0aab2ca782e5e719e70606"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Alquileres"><param name="Local" value="class_model_1_1_alquileres.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Clientes"><param name="Local" value="class_model_1_1_clientes.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Generos"><param name="Local" value="class_model_1_1_generos.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Productos"><param name="Local" value="class_model_1_1_productos.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Tarifas"><param name="Local" value="class_model_1_1_tarifas.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="VideoClubEntities"><param name="Local" value="class_model_1_1_video_club_entities.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Test"><param name="Local" value="namespace_test.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TestVideoClub"><param name="Local" value="class_test_1_1_test_video_club.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TestConexionDirectaBD"><param name="Local" value="class_test_1_1_test_video_club.html#ac1ee01202e875f342a75811d97892d15"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TestEmailFormatoIncorrecto"><param name="Local" value="class_test_1_1_test_video_club.html#aef8facf738cdb6e792e1a1968765d5e9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TestStockNegativo"><param name="Local" value="class_test_1_1_test_video_club.html#aa11b4596dd30e8616d54a108ea6ac965"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="View"><param name="Local" value="namespace_view.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AlquileresView"><param name="Local" value="class_view_1_1_alquileres_view.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_alquileres_view.html#a78192187b2b22fc9f18421e8fb5c9b48"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_alquileres_view.html#a78192187b2b22fc9f18421e8fb5c9b48"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_alquileres_view.html#a78192187b2b22fc9f18421e8fb5c9b48"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_alquileres_view.html#a78192187b2b22fc9f18421e8fb5c9b48"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="App"><param name="Local" value="class_view_1_1_app.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_app.html#aed21050ac0e0ccad3bcdfea0ec53dc17"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_app.html#aed21050ac0e0ccad3bcdfea0ec53dc17"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_app.html#aed21050ac0e0ccad3bcdfea0ec53dc17"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_app.html#aed21050ac0e0ccad3bcdfea0ec53dc17"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CatalogoView"><param name="Local" value="class_view_1_1_catalogo_view.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_catalogo_view.html#ae81db627fcec441268105e39405155cd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_catalogo_view.html#ae81db627fcec441268105e39405155cd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_catalogo_view.html#ae81db627fcec441268105e39405155cd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_catalogo_view.html#ae81db627fcec441268105e39405155cd"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientesView"><param name="Local" value="class_view_1_1_clientes_view.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_clientes_view.html#ab209dffe87f53c91dba201c1aa83e3c4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_clientes_view.html#ab209dffe87f53c91dba201c1aa83e3c4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_clientes_view.html#ab209dffe87f53c91dba201c1aa83e3c4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_clientes_view.html#ab209dffe87f53c91dba201c1aa83e3c4"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfiguracionView"><param name="Local" value="class_view_1_1_configuracion_view.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_configuracion_view.html#a3093c741d9198e18fd1b9103fd70cf08"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_configuracion_view.html#a3093c741d9198e18fd1b9103fd70cf08"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_configuracion_view.html#a3093c741d9198e18fd1b9103fd70cf08"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_configuracion_view.html#a3093c741d9198e18fd1b9103fd70cf08"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PrincipalView"><param name="Local" value="class_view_1_1_principal_view.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_principal_view.html#a57c50f30e970893a5cada32785c1a6ed"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_principal_view.html#a57c50f30e970893a5cada32785c1a6ed"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_principal_view.html#a57c50f30e970893a5cada32785c1a6ed"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_view_1_1_principal_view.html#a57c50f30e970893a5cada32785c1a6ed"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewModel"><param name="Local" value="namespace_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Services"><param name="Local" value="namespace_view_model_1_1_services.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AlquilerService"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarAlquiler"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#aa561088442a98a2ed8daccc8d068888e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GuardarAlquiler"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a4df6069f410243b6e8740f4b123da219"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MarcarComoDevuelto"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a7d35a336430d1a9efc1fbb891ae90549"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerActividadReciente"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a06b6b92422f084b453b75369e02ac004"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerAlquileresActivos"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#a018d96b8395ddd8e8ba8b87eb5188708"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTodos"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#ac54166faa1f23ea5bbb9b5c3303625b4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SeleccionarDatosRepo"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html#afbbdefb743b36ad56ddfdf4fb0fde892"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CatalogoService"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Actualizar"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#ad0c6fa3d0d5e32763a1d23c2b087c4e4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Eliminar"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a4b24214340c81c939f6293431ddbc320"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Guardar"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a184c831646ec8bfc77e9f25c384beb17"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerGeneros"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a104a5cb0cd5c317f688314842640e0a0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerStockBajo"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a51a056ceddadcad1f6122ee7130f7582"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTarifas"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a02f1aeb644eb16dfff729903db661927"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTodos"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#ada7f68b3b2b60fda53c153b63d0dce58"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTotalProductos"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a725a6d3e5bf7e14aaf7fd43fc52448b0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SeleccionarDatosRepo"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#ae943c3c229cfb90f3f8d079b64259a5a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidarRelacionId"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a0d5cedeef70d68be4f3b53eedf06a95a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidarStock"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a68f73497db92eaac34e18098fdc5c6c2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidarTitulo"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html#a29c5a9dd0f4c529b22c6b2e35fdfe05b"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ClienteService"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Actualizar"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#a5cbc88dffa026c9aba0e357ee8ceafb1"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Buscar"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#aa289ded02434bd93b75426426cc010c8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Eliminar"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ac578ec00707c1de4bda6ad66cf4b9792"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Guardar"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ac40d9d9f24dd963560f3e72dac72396f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTodos"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ac07b81625969f01bdf9a087b92ae7bf9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTotalClientes"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ae15b53a2cd79c17117834f29123d0bef"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SeleccionarDatosRepo"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#acfbafc17408bf3a2db88b08506c57771"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidarFormatoEmail"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#ab6b6661cb9658c47b50a672543e1177b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ValidarTelefono"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html#a179712a3b9b34c7084c110e502f60bf1"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfiguracionService"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ActualizarGenero"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#a5947235dad5c464bb78b5e2bee3c7eac"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ActualizarTarifa"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#a2fa4c9245e6721055db4482d23d4d22a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarGenero"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#af8b4c6dce6029ee3e87b7841c102fa0e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarTarifa"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#a1aa5d5278cb5a9e67b546949eeb3a6b8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GuardarGenero"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#af12112c071769cd4ad730670e3d0c63d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GuardarTarifa"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#abd5f6aebaf3dddf696604b6b0490c2ea"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerGeneros"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#ac78523ffa57eaf6ae5c545d93c18c9a6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ObtenerTarifas"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html#ad771e111c5a595fd522f554610f951f7"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AlquileresViewModel"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AlquileresViewModel"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#afc5111d44f6de18d77427172f6592a4a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AlquilarCommand"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a6dfff5264faccd2d1673a0046f4655a2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Alquileres"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a65d1bc02f37a2582c59fd71ee42a90fe"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AlquilerSeleccionado"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#afa9d5ee7bc8c6ee868f54fd9d97ec605"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ClienteSeleccionado"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#ac0c9641e83744ffe40a7008c9dba52b0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DevolverCommand"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#ab85a023edb5bd908e0bf6d7f06b1ce5d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarCommand"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a8e6e878e1de711f066d5f73c2809b48a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="FechaDevolucionPrevista"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a0f6d88f54ce76d1dc5667f069ffe333a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GenerarInformeCommand"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a585d791a9f39f8822b235eb25723dd50"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LimpiarCommand"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a50efbe2888c4b48f6405ed080bbd2749"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ListaClientes"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a9335fa051f5370e9f928d9a603953383"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ListaProductosDisponibles"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a6db266e356e1a11c929eec865b3c40f9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ProductoSeleccionado"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#ac20ea4f79127b3db0740ac799ccbfbff"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PropertyChanged"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html#a63e2a3b518fb7dda7199b656f0236ce6"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CatalogoViewModel"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CatalogoViewModel"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a50eb4ed9348f51f86e5fa4677047c4ba"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CrearCommand"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ae313df8264ce3eddf7885d0a0596b188"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarCommand"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a8b3cdedebc5bc593ec343d374662095a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EsJuego"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a4bfe3ad633ba5c370ca480b2139cf2ef"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EsPelicula"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ad3a5f9805665042880a19f6c66ae2ab2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GenerarInformeCommand"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a007fbcd40b78812897b81c420c47d9a8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Generos"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ab233c3a7979e45a9bad9678beb57130c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GeneroSeleccionado"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a8cc4250782e1b0060395db8c8ae78bb2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputStock"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a49a5fde95453ec2d0d38f131f925c473"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputTipo"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#add0535916bb3c8bb73f3ebe75bae8e3e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputTitulo"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#afc4eea9d6ed5a77367cdbae7e088deac"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LimpiarCommand"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ae6030b7b17b9355db0a007c40c7f71c5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ModificarCommand"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#ab0c1bc895416d24cf82b377503c58a4d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Productos"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a81a73e6bed0154adedba409c2039bff8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ProductoSeleccionado"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a222e6224337663157b77103f98fb2401"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Tarifas"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a580c6ccd8ad05f414c0d89e2dcec6be2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TarifaSeleccionada"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#a6cfd68fe048477b5dadc0b5b8b115ec9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PropertyChanged"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html#aaf44c21a9356e161d95e8b45dcc93226"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientesViewModel"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientesViewModel"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#ae2d4429264d30aca73f147762f58c57f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Clientes"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a8f0e88f74506e054863a29aec2cf7d7e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ClienteSeleccionado"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a0afa8d97af562c98fc9803485855a2cc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CrearCommand"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a4989d495b24e3c84a409e299eb0e3564"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarCommand"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a07929bb00d9cf840fd209b4883cba98c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EsActivo"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a9795168f4ca295684325a112747e9e19"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GenerarInformeCommand"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#adf0a0a845417bf2ba4e7a05740853e3c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputEmail"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a613cff8374ec3b35b854eaf16e9416c4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputNombre"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a0c3b07f512bf348bb63e92d8e2e1d5b4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputTelefono"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a774a81ff18c82729014468ca980a7034"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LimpiarCommand"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#ab10127949f66952c4b744919a1e16ea6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ModificarCommand"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#abb0a2eb618b9de0fb368b45bb16a418d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PropertyChanged"><param name="Local" value="class_view_model_1_1_clientes_view_model.html#a8e30458d470c843897cf2785f8bf6abf"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfiguracionViewModel"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfiguracionViewModel"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a10aaedb80965aff63d18cb83d77e702b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarGeneroCommand"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a0f19d8eb2fdb5f3a61664da917f67105"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EliminarTarifaCommand"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#acbbbbe4808fa8a5967abb43f8e236143"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Generos"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#ab18c0b81e01635f9cc58f1710f9c8ac9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GeneroSeleccionado"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a602c515164224a7cc45b4bb4e6e19199"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GuardarGeneroCommand"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#aa6985ea62219fbb0e2c5aa7f096612a8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GuardarTarifaCommand"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#ac22b3d006161ba2e522b904efc5e38a0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputDescripcionTarifa"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#af98261590a1aeef1e4cfc99c1f1aa815"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputNombreGenero"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a7fa3ef4f989b3cadaf41fca954e149b1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputPrecioDia"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a5d97cf5bb2089bdee26ed340054e71d0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LimpiarCommand"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a1e6d85a9ea3a37574e46e7b814c65b20"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Tarifas"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#ae8bc379c2ea5f8ca2c4b39b55bc46a29"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TarifaSeleccionada"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#a0f1d79ff0dd0e7d34293318905beac1e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PropertyChanged"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html#aa1f503c148345a5e1d173e0c2a47ecb5"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MainWindowViewModel"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MainWindowViewModel"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#abedfe02c7ff69e188ee0ac3f0f834147"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RefrescarDatos"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a4b7e4b402e12eb0d60cb02cb4d311af1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AbrirAlquileresCommand"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#aad2c75a3b9ee1701fe0933157c50a555"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AbrirCatalogoCommand"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a6639f8c3e235914519f1022b184a917c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AbrirClientesCommand"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a578b1859d7c15570a3529a133f704064"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AbrirConfigCommand"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#ac08b6b7790cd163301c99531a4ca29f8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AccionSolicitada"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#adb92f7b736e52a19eb7cc03b0a8b613f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ActividadReciente"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a773e27ca1158d480773f138f50ddf4a6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AlquileresActivos"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#aeaca7aab8943272119265774204754a4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="FechaActual"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a27bf201b6d7b110c63f4ac2a669f18a7"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SalirCommand"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#ae21c849e90be32f21a3c8df51498f1cf"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StockBajo"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#abad15c4f64a4fa648c8b1b1e88f11630"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TotalClientes"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a2f47386ee66f772183d9a2eb15c4e30e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TotalProductos"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#acc57ffb992d00586014554d77130f05d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="OnAccionSolicitada"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a376ad9c927c84a880928a8a58250d242"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PropertyChanged"><param name="Local" value="class_view_model_1_1_main_window_view_model.html#a5e4ee1f388d08f1b08d29cee35cd4a62"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="RelayCommand"><param name="Local" value="class_relay_command.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Índice de clases"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Jerarquía de clases"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.Alquileres"><param name="Local" value="class_model_1_1_alquileres.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.Repositorios.AlquilerRepositorio"><param name="Local" value="class_model_1_1_repositorios_1_1_alquiler_repositorio.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewModel.Services.AlquilerService"><param name="Local" value="class_view_model_1_1_services_1_1_alquiler_service.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Application"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.App"><param name="Local" value="class_informes_1_1_app.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="System.Windows.Application"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.App"><param name="Local" value="class_informes_1_1_app.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.App"><param name="Local" value="class_informes_1_1_app.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.App"><param name="Local" value="class_informes_1_1_app.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.App"><param name="Local" value="class_informes_1_1_app.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.App"><param name="Local" value="class_view_1_1_app.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.App"><param name="Local" value="class_view_1_1_app.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.App"><param name="Local" value="class_view_1_1_app.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.App"><param name="Local" value="class_view_1_1_app.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.App"><param name="Local" value="class_view_1_1_app.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.Repositorios.CatalogoRepositorio"><param name="Local" value="class_model_1_1_repositorios_1_1_catalogo_repositorio.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewModel.Services.CatalogoService"><param name="Local" value="class_view_model_1_1_services_1_1_catalogo_service.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.Repositorios.ClienteRepositorio"><param name="Local" value="class_model_1_1_repositorios_1_1_cliente_repositorio.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.Clientes"><param name="Local" value="class_model_1_1_clientes.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewModel.Services.ClienteService"><param name="Local" value="class_view_model_1_1_services_1_1_cliente_service.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Component"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.CachedClientesReport"><param name="Local" value="class_informes_1_1_cached_clientes_report.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.CachedPrestamosPorCliente"><param name="Local" value="class_informes_1_1_cached_prestamos_por_cliente.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.CachedProductosPorGenero"><param name="Local" value="class_informes_1_1_cached_productos_por_genero.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.Repositorios.ConfiguraciónRepositorio"><param name="Local" value="class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewModel.Services.ConfiguracionService"><param name="Local" value="class_view_model_1_1_services_1_1_configuracion_service.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="global.SystemData.DataRow"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.DataSet.dsVideoClub.ClientesRow"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_clientes_row.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.DataSet.dsVideoClub.PrestamosPorTarifaRow"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_prestamos_por_tarifa_row.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.DataSet.dsVideoClub.ProductosPorGeneroRow"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_productos_por_genero_row.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="global.SystemData.DataSet"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.DataSet.dsVideoClub"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="DbContext"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.VideoClubEntities"><param name="Local" value="class_model_1_1_video_club_entities.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.Generos"><param name="Local" value="class_model_1_1_generos.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ICachedReport"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.CachedClientesReport"><param name="Local" value="class_informes_1_1_cached_clientes_report.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.CachedPrestamosPorCliente"><param name="Local" value="class_informes_1_1_cached_prestamos_por_cliente.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.CachedProductosPorGenero"><param name="Local" value="class_informes_1_1_cached_productos_por_genero.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ICommand"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="RelayCommand"><param name="Local" value="class_relay_command.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="System.Windows.Markup.IComponentConnector"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.InformesView"><param name="Local" value="class_informes_1_1_informes_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.InformesView"><param name="Local" value="class_informes_1_1_informes_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.InformesView"><param name="Local" value="class_informes_1_1_informes_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.InformesView"><param name="Local" value="class_informes_1_1_informes_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.AlquileresView"><param name="Local" value="class_view_1_1_alquileres_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.AlquileresView"><param name="Local" value="class_view_1_1_alquileres_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.AlquileresView"><param name="Local" value="class_view_1_1_alquileres_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.AlquileresView"><param name="Local" value="class_view_1_1_alquileres_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.CatalogoView"><param name="Local" value="class_view_1_1_catalogo_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.CatalogoView"><param name="Local" value="class_view_1_1_catalogo_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.CatalogoView"><param name="Local" value="class_view_1_1_catalogo_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.CatalogoView"><param name="Local" value="class_view_1_1_catalogo_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ClientesView"><param name="Local" value="class_view_1_1_clientes_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ClientesView"><param name="Local" value="class_view_1_1_clientes_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ClientesView"><param name="Local" value="class_view_1_1_clientes_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ClientesView"><param name="Local" value="class_view_1_1_clientes_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ConfiguracionView"><param name="Local" value="class_view_1_1_configuracion_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ConfiguracionView"><param name="Local" value="class_view_1_1_configuracion_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ConfiguracionView"><param name="Local" value="class_view_1_1_configuracion_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ConfiguracionView"><param name="Local" value="class_view_1_1_configuracion_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.PrincipalView"><param name="Local" value="class_view_1_1_principal_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.PrincipalView"><param name="Local" value="class_view_1_1_principal_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.PrincipalView"><param name="Local" value="class_view_1_1_principal_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.PrincipalView"><param name="Local" value="class_view_1_1_principal_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="INotifyPropertyChanged"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewModel.AlquileresViewModel"><param name="Local" value="class_view_model_1_1_alquileres_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewModel.CatalogoViewModel"><param name="Local" value="class_view_model_1_1_catalogo_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewModel.ClientesViewModel"><param name="Local" value="class_view_model_1_1_clientes_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewModel.ConfiguracionViewModel"><param name="Local" value="class_view_model_1_1_configuracion_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewModel.MainWindowViewModel"><param name="Local" value="class_view_model_1_1_main_window_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.Productos"><param name="Local" value="class_model_1_1_productos.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ReportClass"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.ClientesReport"><param name="Local" value="class_informes_1_1_clientes_report.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.PrestamosPorCliente"><param name="Local" value="class_informes_1_1_prestamos_por_cliente.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.ProductosPorGenero"><param name="Local" value="class_informes_1_1_productos_por_genero.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="global.SystemEventArgs"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.DataSet.dsVideoClub.ClientesRowChangeEvent"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_clientes_row_change_event.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.DataSet.dsVideoClub.PrestamosPorTarifaRowChangeEvent"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_prestamos_por_tarifa_row_change_event.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.DataSet.dsVideoClub.ProductosPorGeneroRowChangeEvent"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_productos_por_genero_row_change_event.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.Tarifas"><param name="Local" value="class_model_1_1_tarifas.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Test.TestVideoClub"><param name="Local" value="class_test_1_1_test_video_club.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="global.SystemData.TypedTableBase"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.DataSet.dsVideoClub.ClientesDataTable"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_clientes_data_table.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.DataSet.dsVideoClub.PrestamosPorTarifaDataTable"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_prestamos_por_tarifa_data_table.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Model.DataSet.dsVideoClub.ProductosPorGeneroDataTable"><param name="Local" value="class_model_1_1_data_set_1_1ds_video_club_1_1_productos_por_genero_data_table.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="System.Windows.Window"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.InformesView"><param name="Local" value="class_informes_1_1_informes_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.InformesView"><param name="Local" value="class_informes_1_1_informes_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.InformesView"><param name="Local" value="class_informes_1_1_informes_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.InformesView"><param name="Local" value="class_informes_1_1_informes_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.AlquileresView"><param name="Local" value="class_view_1_1_alquileres_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.AlquileresView"><param name="Local" value="class_view_1_1_alquileres_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.AlquileresView"><param name="Local" value="class_view_1_1_alquileres_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.AlquileresView"><param name="Local" value="class_view_1_1_alquileres_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.AlquileresView"><param name="Local" value="class_view_1_1_alquileres_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.CatalogoView"><param name="Local" value="class_view_1_1_catalogo_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.CatalogoView"><param name="Local" value="class_view_1_1_catalogo_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.CatalogoView"><param name="Local" value="class_view_1_1_catalogo_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.CatalogoView"><param name="Local" value="class_view_1_1_catalogo_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.CatalogoView"><param name="Local" value="class_view_1_1_catalogo_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ClientesView"><param name="Local" value="class_view_1_1_clientes_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ClientesView"><param name="Local" value="class_view_1_1_clientes_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ClientesView"><param name="Local" value="class_view_1_1_clientes_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ClientesView"><param name="Local" value="class_view_1_1_clientes_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ClientesView"><param name="Local" value="class_view_1_1_clientes_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ConfiguracionView"><param name="Local" value="class_view_1_1_configuracion_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ConfiguracionView"><param name="Local" value="class_view_1_1_configuracion_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ConfiguracionView"><param name="Local" value="class_view_1_1_configuracion_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ConfiguracionView"><param name="Local" value="class_view_1_1_configuracion_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.ConfiguracionView"><param name="Local" value="class_view_1_1_configuracion_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.PrincipalView"><param name="Local" value="class_view_1_1_principal_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.PrincipalView"><param name="Local" value="class_view_1_1_principal_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.PrincipalView"><param name="Local" value="class_view_1_1_principal_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.PrincipalView"><param name="Local" value="class_view_1_1_principal_view.html#top"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="View.PrincipalView"><param name="Local" value="class_view_1_1_principal_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Window"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Informes.InformesView"><param name="Local" value="class_informes_1_1_informes_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Miembros de clases"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Todos"><param name="Local" value="functions.html#top"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Funciones"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Propiedades"><param name="Local" value="functions_prop.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Eventos"><param name="Local" value="functions_evnt.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

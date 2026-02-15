@@ -1,0 +1,185 @@
+\doxysection{Referencia de la clase View\+Model.\+Services.\+Configuracion\+Service}
+\hypertarget{class_view_model_1_1_services_1_1_configuracion_service}{}\label{class_view_model_1_1_services_1_1_configuracion_service}\index{ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}}
+
+
+Servicio encargado de coordinar la lógica de negocio para la configuración del sistema. Actúa como intermediario entre la vista y el repositorio, gestionando validaciones de \doxylink{class_model_1_1_tarifas}{Tarifas} y Géneros.  
+
+
+\doxysubsubsection*{Métodos públicos}
+\begin{DoxyCompactItemize}
+\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_tarifas}{Tarifas}} $>$ \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_configuracion_service_ad771e111c5a595fd522f554610f951f7}{Obtener\+Tarifas}} ()
+\begin{DoxyCompactList}\small\item\em Obtiene el catálogo completo de tarifas disponibles para los alquileres. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_configuracion_service_abd5f6aebaf3dddf696604b6b0490c2ea}{Guardar\+Tarifa}} (\doxymbox{\hyperlink{class_model_1_1_tarifas}{Tarifas}} nueva)
+\begin{DoxyCompactList}\small\item\em Valida y registra una nueva tarifa en el sistema. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_configuracion_service_a2fa4c9245e6721055db4482d23d4d22a}{Actualizar\+Tarifa}} (\doxymbox{\hyperlink{class_model_1_1_tarifas}{Tarifas}} tarifa\+Editada)
+\begin{DoxyCompactList}\small\item\em Procesa la actualización de una tarifa existente previo control de valores. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_configuracion_service_a1aa5d5278cb5a9e67b546949eeb3a6b8}{Eliminar\+Tarifa}} (int id)
+\begin{DoxyCompactList}\small\item\em Elimina una tarifa del sistema siempre que no esté asignada a ningún producto. \end{DoxyCompactList}\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_generos}{Generos}} $>$ \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_configuracion_service_ac78523ffa57eaf6ae5c545d93c18c9a6}{Obtener\+Generos}} ()
+\begin{DoxyCompactList}\small\item\em Recupera todos los géneros cinematográficos registrados. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_configuracion_service_af12112c071769cd4ad730670e3d0c63d}{Guardar\+Genero}} (\doxymbox{\hyperlink{class_model_1_1_generos}{Generos}} nuevo)
+\begin{DoxyCompactList}\small\item\em Valida y guarda un nuevo género en la base de datos. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_configuracion_service_a5947235dad5c464bb78b5e2bee3c7eac}{Actualizar\+Genero}} (\doxymbox{\hyperlink{class_model_1_1_generos}{Generos}} genero\+Editado)
+\begin{DoxyCompactList}\small\item\em Actualiza un género existente asegurando que el nombre siga siendo válido. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_configuracion_service_af8b4c6dce6029ee3e87b7841c102fa0e}{Eliminar\+Genero}} (int id)
+\begin{DoxyCompactList}\small\item\em Elimina un género del sistema siempre que no existan películas o juegos vinculados a él. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Descripción detallada}
+Servicio encargado de coordinar la lógica de negocio para la configuración del sistema. Actúa como intermediario entre la vista y el repositorio, gestionando validaciones de \doxylink{class_model_1_1_tarifas}{Tarifas} y Géneros. 
+
+\label{doc-func-members}
+\Hypertarget{class_view_model_1_1_services_1_1_configuracion_service_doc-func-members}
+\doxysubsection{Documentación de funciones miembro}
+\Hypertarget{class_view_model_1_1_services_1_1_configuracion_service_a5947235dad5c464bb78b5e2bee3c7eac}\index{ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}!ActualizarGenero@{ActualizarGenero}}
+\index{ActualizarGenero@{ActualizarGenero}!ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}}
+\doxysubsubsection{\texorpdfstring{ActualizarGenero()}{ActualizarGenero()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_configuracion_service_a5947235dad5c464bb78b5e2bee3c7eac} 
+void View\+Model.\+Services.\+Configuracion\+Service.\+Actualizar\+Genero (\begin{DoxyParamCaption}\item[{\doxymbox{\hyperlink{class_model_1_1_generos}{Generos}}}]{genero\+Editado}{}\end{DoxyParamCaption})}
+
+
+
+Actualiza un género existente asegurando que el nombre siga siendo válido. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em genero\+Editado} & Objeto de género con los nuevos datos.\\
+\hline
+\end{DoxyParams}
+
+\begin{DoxyExceptions}{Excepciones}
+{\em Exception} & Lanzada si el nuevo nombre no es válido.\\
+\hline
+\end{DoxyExceptions}
+\Hypertarget{class_view_model_1_1_services_1_1_configuracion_service_a2fa4c9245e6721055db4482d23d4d22a}\index{ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}!ActualizarTarifa@{ActualizarTarifa}}
+\index{ActualizarTarifa@{ActualizarTarifa}!ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}}
+\doxysubsubsection{\texorpdfstring{ActualizarTarifa()}{ActualizarTarifa()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_configuracion_service_a2fa4c9245e6721055db4482d23d4d22a} 
+void View\+Model.\+Services.\+Configuracion\+Service.\+Actualizar\+Tarifa (\begin{DoxyParamCaption}\item[{\doxymbox{\hyperlink{class_model_1_1_tarifas}{Tarifas}}}]{tarifa\+Editada}{}\end{DoxyParamCaption})}
+
+
+
+Procesa la actualización de una tarifa existente previo control de valores. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em tarifa\+Editada} & Objeto con los datos actualizados.\\
+\hline
+\end{DoxyParams}
+
+\begin{DoxyExceptions}{Excepciones}
+{\em Exception} & Lanzada si el nuevo precio no cumple con el mínimo requerido.\\
+\hline
+\end{DoxyExceptions}
+\Hypertarget{class_view_model_1_1_services_1_1_configuracion_service_af8b4c6dce6029ee3e87b7841c102fa0e}\index{ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}!EliminarGenero@{EliminarGenero}}
+\index{EliminarGenero@{EliminarGenero}!ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}}
+\doxysubsubsection{\texorpdfstring{EliminarGenero()}{EliminarGenero()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_configuracion_service_af8b4c6dce6029ee3e87b7841c102fa0e} 
+void View\+Model.\+Services.\+Configuracion\+Service.\+Eliminar\+Genero (\begin{DoxyParamCaption}\item[{int}]{id}{}\end{DoxyParamCaption})}
+
+
+
+Elimina un género del sistema siempre que no existan películas o juegos vinculados a él. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em id} & ID del género a eliminar.\\
+\hline
+\end{DoxyParams}
+
+\begin{DoxyExceptions}{Excepciones}
+{\em Exception} & Se lanza si el género tiene productos asociados.\\
+\hline
+\end{DoxyExceptions}
+\Hypertarget{class_view_model_1_1_services_1_1_configuracion_service_a1aa5d5278cb5a9e67b546949eeb3a6b8}\index{ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}!EliminarTarifa@{EliminarTarifa}}
+\index{EliminarTarifa@{EliminarTarifa}!ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}}
+\doxysubsubsection{\texorpdfstring{EliminarTarifa()}{EliminarTarifa()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_configuracion_service_a1aa5d5278cb5a9e67b546949eeb3a6b8} 
+void View\+Model.\+Services.\+Configuracion\+Service.\+Eliminar\+Tarifa (\begin{DoxyParamCaption}\item[{int}]{id}{}\end{DoxyParamCaption})}
+
+
+
+Elimina una tarifa del sistema siempre que no esté asignada a ningún producto. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em id} & ID de la tarifa a eliminar.\\
+\hline
+\end{DoxyParams}
+
+\begin{DoxyExceptions}{Excepciones}
+{\em Exception} & Se lanza si hay productos vinculados a esta tarifa.\\
+\hline
+\end{DoxyExceptions}
+\Hypertarget{class_view_model_1_1_services_1_1_configuracion_service_af12112c071769cd4ad730670e3d0c63d}\index{ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}!GuardarGenero@{GuardarGenero}}
+\index{GuardarGenero@{GuardarGenero}!ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}}
+\doxysubsubsection{\texorpdfstring{GuardarGenero()}{GuardarGenero()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_configuracion_service_af12112c071769cd4ad730670e3d0c63d} 
+void View\+Model.\+Services.\+Configuracion\+Service.\+Guardar\+Genero (\begin{DoxyParamCaption}\item[{\doxymbox{\hyperlink{class_model_1_1_generos}{Generos}}}]{nuevo}{}\end{DoxyParamCaption})}
+
+
+
+Valida y guarda un nuevo género en la base de datos. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em nuevo} & Objeto con la información del género.\\
+\hline
+\end{DoxyParams}
+
+\begin{DoxyExceptions}{Excepciones}
+{\em Exception} & Lanzada si el nombre del género es nulo o vacío.\\
+\hline
+\end{DoxyExceptions}
+\Hypertarget{class_view_model_1_1_services_1_1_configuracion_service_abd5f6aebaf3dddf696604b6b0490c2ea}\index{ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}!GuardarTarifa@{GuardarTarifa}}
+\index{GuardarTarifa@{GuardarTarifa}!ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}}
+\doxysubsubsection{\texorpdfstring{GuardarTarifa()}{GuardarTarifa()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_configuracion_service_abd5f6aebaf3dddf696604b6b0490c2ea} 
+void View\+Model.\+Services.\+Configuracion\+Service.\+Guardar\+Tarifa (\begin{DoxyParamCaption}\item[{\doxymbox{\hyperlink{class_model_1_1_tarifas}{Tarifas}}}]{nueva}{}\end{DoxyParamCaption})}
+
+
+
+Valida y registra una nueva tarifa en el sistema. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em nueva} & Objeto con la descripción y precio de la nueva tarifa.\\
+\hline
+\end{DoxyParams}
+
+\begin{DoxyExceptions}{Excepciones}
+{\em Exception} & Lanzada cuando el precio es menor o igual a cero o falta la descripción.\\
+\hline
+\end{DoxyExceptions}
+\Hypertarget{class_view_model_1_1_services_1_1_configuracion_service_ac78523ffa57eaf6ae5c545d93c18c9a6}\index{ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}!ObtenerGeneros@{ObtenerGeneros}}
+\index{ObtenerGeneros@{ObtenerGeneros}!ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}}
+\doxysubsubsection{\texorpdfstring{ObtenerGeneros()}{ObtenerGeneros()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_configuracion_service_ac78523ffa57eaf6ae5c545d93c18c9a6} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_generos}{Generos}} $>$ View\+Model.\+Services.\+Configuracion\+Service.\+Obtener\+Generos (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Recupera todos los géneros cinematográficos registrados. 
+
+\begin{DoxyReturn}{Devuelve}
+Lista de objetos \doxylink{class_model_1_1_generos}{Generos}.
+\end{DoxyReturn}
+\Hypertarget{class_view_model_1_1_services_1_1_configuracion_service_ad771e111c5a595fd522f554610f951f7}\index{ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}!ObtenerTarifas@{ObtenerTarifas}}
+\index{ObtenerTarifas@{ObtenerTarifas}!ViewModel.Services.ConfiguracionService@{ViewModel.Services.ConfiguracionService}}
+\doxysubsubsection{\texorpdfstring{ObtenerTarifas()}{ObtenerTarifas()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_configuracion_service_ad771e111c5a595fd522f554610f951f7} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_tarifas}{Tarifas}} $>$ View\+Model.\+Services.\+Configuracion\+Service.\+Obtener\+Tarifas (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Obtiene el catálogo completo de tarifas disponibles para los alquileres. 
+
+\begin{DoxyReturn}{Devuelve}
+Lista de objetos \doxylink{class_model_1_1_tarifas}{Tarifas}.
+\end{DoxyReturn}
+
+
+La documentación de esta clase está generada del siguiente archivo:\+\begin{DoxyCompactItemize}
+\item 
+View\+Model/\+\+Services/\+Configuracion\+Service.\+cs\end{DoxyCompactItemize}

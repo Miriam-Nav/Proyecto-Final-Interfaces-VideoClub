@@ -1,0 +1,105 @@
+﻿<Window x:Class="View.ClientesView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Gestión de Clientes - VideoClub" 
+        Height="680" Width="1100"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.Background>
+        <LinearGradientBrush StartPoint="0,1" EndPoint="0,0">
+            <GradientStop Color="#E3FFCC" Offset="0"/>
+            <GradientStop Color="#FFFFFF" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Estilos.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="55"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Border Style="{StaticResource BarraSup}">
+            <DockPanel>
+                <TextBlock Text="Clientes" Style="{StaticResource TituloBarraStyle}" DockPanel.Dock="Left"/>
+            </DockPanel>
+        </Border>
+
+        <Grid Grid.Row="1" Margin="0,20,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="380"/>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Border Grid.Column="0" Style="{StaticResource TarjetaStyle}">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel Margin="10">
+                        <TextBlock Text="Detalles del Cliente" Style="{StaticResource TituloTarjetaStyle}"/>
+
+                        <TextBlock Text="Nombre Completo" Style="{StaticResource LabelStyle}"/>
+                        <TextBox Text="{Binding InputNombre, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource TextBoxStyle}"/>
+                        <TextBlock Text="{Binding ErrorNombre}" Style="{StaticResource ErrorMensajeStyle}"/>
+
+                        <TextBlock Text="Correo Electrónico" Style="{StaticResource LabelStyle}" Margin="0,10,0,0"/>
+                        <TextBox Text="{Binding InputEmail, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource TextBoxStyle}"/>
+                        <TextBlock Text="{Binding ErrorEmail}" Style="{StaticResource ErrorMensajeStyle}"/>
+
+                        <TextBlock Text="Teléfono" Style="{StaticResource LabelStyle}" Margin="0,10,0,0"/>
+                        <TextBox Text="{Binding InputTelefono, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource TextBoxStyle}"/>
+                        <TextBlock Text="{Binding ErrorTelefono}" Style="{StaticResource ErrorMensajeStyle}"/>
+                        
+                        <TextBlock Text="Estado del Socio" Style="{StaticResource LabelStyle}" Margin="0,15,0,5"/>
+                        <CheckBox Content="Socio Activo" IsChecked="{Binding EsActivo}" FontSize="14" Foreground="#2C3E50"/>
+
+                        <StackPanel Margin="0,25,0,0">
+                            <Button Content="Registrar Cliente" Command="{Binding CrearCommand}" Style="{StaticResource PrimaryButtonStyle}"/>
+                            <Button Content="Actualizar" Command="{Binding ModificarCommand}" Style="{StaticResource PrimaryButtonStyle}"/>
+                            <Button Content="Eliminar" Command="{Binding EliminarCommand}" Style="{StaticResource PrimaryButtonStyle}"/>
+                            <Button Content="Limpiar" Command="{Binding LimpiarCommand}" Style="{StaticResource LimpiarButtonStyle}"/>
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </Border>
+
+            <Border Grid.Column="2" Style="{StaticResource ListaStyle}">
+                <Grid Margin="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <DataGrid ItemsSource="{Binding Clientes}" 
+                              SelectedItem="{Binding ClienteSeleccionado}" 
+                              Style="{StaticResource DataGridStyle}" 
+                              AutoGenerateColumns="False" 
+                              IsReadOnly="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="50"/>
+                            <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}" Width="*"/>
+                            <DataGridTextColumn Header="Email" Binding="{Binding Email}" Width="*"/>
+                            <DataGridTextColumn Header="Teléfono" Binding="{Binding Telefono}" Width="100"/>
+                            <DataGridTextColumn Header="Alta" Binding="{Binding FechaAlta, StringFormat=\{0:dd/MM/yyyy\}}" Width="90"/>
+                            <DataGridCheckBoxColumn Header="Act" Binding="{Binding Activo}" Width="50"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <Button Grid.Row="1" Content="Generar Informe Clientes" 
+                            Command="{Binding GenerarInformeCommand}" 
+                            Style="{StaticResource PrimaryButtonStyle}" 
+                            Height="45" Margin="0,10,0,0"/>
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

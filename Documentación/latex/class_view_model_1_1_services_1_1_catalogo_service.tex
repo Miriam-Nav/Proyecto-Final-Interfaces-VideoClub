@@ -1,0 +1,173 @@
+\doxysection{Referencia de la clase View\+Model.\+Services.\+Catalogo\+Service}
+\hypertarget{class_view_model_1_1_services_1_1_catalogo_service}{}\label{class_view_model_1_1_services_1_1_catalogo_service}\index{ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}}
+
+
+Servicio encargado de la lógica de negocio para el catálogo de productos. Gestiona las reglas de inventario antes de persistir los datos.  
+
+
+\doxysubsubsection*{Métodos públicos}
+\begin{DoxyCompactItemize}
+\item 
+IEnumerable$<$ object $>$ \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_catalogo_service_ae943c3c229cfb90f3f8d079b64259a5a}{Seleccionar\+Datos\+Repo}} ()
+\begin{DoxyCompactList}\small\item\em Obtiene los datos procesados de los productos desde el repositorio para su visualización en informes. \end{DoxyCompactList}\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_productos}{Productos}} $>$ \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_catalogo_service_ada7f68b3b2b60fda53c153b63d0dce58}{Obtener\+Todos}} ()
+\begin{DoxyCompactList}\small\item\em Recupera todos los productos incluyendo sus relaciones (Género y Tarifa). \end{DoxyCompactList}\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_generos}{Generos}} $>$ \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_catalogo_service_a104a5cb0cd5c317f688314842640e0a0}{Obtener\+Generos}} ()
+\begin{DoxyCompactList}\small\item\em Obtiene la lista de géneros disponibles para asignar a los productos. \end{DoxyCompactList}\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_tarifas}{Tarifas}} $>$ \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_catalogo_service_a02f1aeb644eb16dfff729903db661927}{Obtener\+Tarifas}} ()
+\begin{DoxyCompactList}\small\item\em Obtiene la lista de tarifas disponibles para asignar a los productos. \end{DoxyCompactList}\item 
+int \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_catalogo_service_a51a056ceddadcad1f6122ee7130f7582}{Obtener\+Stock\+Bajo}} ()
+\begin{DoxyCompactList}\small\item\em Devuelve el número de productos con stock crítico (menor o igual a 2). \end{DoxyCompactList}\item 
+int \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_catalogo_service_a725a6d3e5bf7e14aaf7fd43fc52448b0}{Obtener\+Total\+Productos}} ()
+\begin{DoxyCompactList}\small\item\em Devuelve el total de productos. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_catalogo_service_a184c831646ec8bfc77e9f25c384beb17}{Guardar}} (\doxymbox{\hyperlink{class_model_1_1_productos}{Productos}} nuevo)
+\begin{DoxyCompactList}\small\item\em Valida y guarda un nuevo producto en el catálogo. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_catalogo_service_ad0c6fa3d0d5e32763a1d23c2b087c4e4}{Actualizar}} (\doxymbox{\hyperlink{class_model_1_1_productos}{Productos}} editado)
+\begin{DoxyCompactList}\small\item\em Actualiza los datos de un producto existente. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_catalogo_service_a4b24214340c81c939f6293431ddbc320}{Eliminar}} (int id)
+\begin{DoxyCompactList}\small\item\em Elimina un producto del catálogo. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_services_1_1_catalogo_service_a29c5a9dd0f4c529b22c6b2e35fdfe05b}\label{class_view_model_1_1_services_1_1_catalogo_service_a29c5a9dd0f4c529b22c6b2e35fdfe05b} 
+bool {\bfseries Validar\+Titulo} (string titulo)
+\begin{DoxyCompactList}\small\item\em Valida que el título del producto no sea nulo ni vacío. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_services_1_1_catalogo_service_a68f73497db92eaac34e18098fdc5c6c2}\label{class_view_model_1_1_services_1_1_catalogo_service_a68f73497db92eaac34e18098fdc5c6c2} 
+bool {\bfseries Validar\+Stock} (int stock)
+\begin{DoxyCompactList}\small\item\em Verifica que el stock sea un valor positivo o cero. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_services_1_1_catalogo_service_a0d5cedeef70d68be4f3b53eedf06a95a}\label{class_view_model_1_1_services_1_1_catalogo_service_a0d5cedeef70d68be4f3b53eedf06a95a} 
+bool {\bfseries Validar\+Relacion\+Id} (int id)
+\begin{DoxyCompactList}\small\item\em Comprueba que se haya seleccionado una relación válida (Género o Tarifa). \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Descripción detallada}
+Servicio encargado de la lógica de negocio para el catálogo de productos. Gestiona las reglas de inventario antes de persistir los datos. 
+
+\label{doc-func-members}
+\Hypertarget{class_view_model_1_1_services_1_1_catalogo_service_doc-func-members}
+\doxysubsection{Documentación de funciones miembro}
+\Hypertarget{class_view_model_1_1_services_1_1_catalogo_service_ad0c6fa3d0d5e32763a1d23c2b087c4e4}\index{ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}!Actualizar@{Actualizar}}
+\index{Actualizar@{Actualizar}!ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}}
+\doxysubsubsection{\texorpdfstring{Actualizar()}{Actualizar()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_catalogo_service_ad0c6fa3d0d5e32763a1d23c2b087c4e4} 
+void View\+Model.\+Services.\+Catalogo\+Service.\+Actualizar (\begin{DoxyParamCaption}\item[{\doxymbox{\hyperlink{class_model_1_1_productos}{Productos}}}]{editado}{}\end{DoxyParamCaption})}
+
+
+
+Actualiza los datos de un producto existente. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em editado} & Producto con cambios.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_view_model_1_1_services_1_1_catalogo_service_a4b24214340c81c939f6293431ddbc320}\index{ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}!Eliminar@{Eliminar}}
+\index{Eliminar@{Eliminar}!ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}}
+\doxysubsubsection{\texorpdfstring{Eliminar()}{Eliminar()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_catalogo_service_a4b24214340c81c939f6293431ddbc320} 
+void View\+Model.\+Services.\+Catalogo\+Service.\+Eliminar (\begin{DoxyParamCaption}\item[{int}]{id}{}\end{DoxyParamCaption})}
+
+
+
+Elimina un producto del catálogo. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em id} & ID del producto.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_view_model_1_1_services_1_1_catalogo_service_a184c831646ec8bfc77e9f25c384beb17}\index{ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}!Guardar@{Guardar}}
+\index{Guardar@{Guardar}!ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}}
+\doxysubsubsection{\texorpdfstring{Guardar()}{Guardar()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_catalogo_service_a184c831646ec8bfc77e9f25c384beb17} 
+void View\+Model.\+Services.\+Catalogo\+Service.\+Guardar (\begin{DoxyParamCaption}\item[{\doxymbox{\hyperlink{class_model_1_1_productos}{Productos}}}]{nuevo}{}\end{DoxyParamCaption})}
+
+
+
+Valida y guarda un nuevo producto en el catálogo. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em nuevo} & Producto a registrar.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_view_model_1_1_services_1_1_catalogo_service_a104a5cb0cd5c317f688314842640e0a0}\index{ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}!ObtenerGeneros@{ObtenerGeneros}}
+\index{ObtenerGeneros@{ObtenerGeneros}!ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}}
+\doxysubsubsection{\texorpdfstring{ObtenerGeneros()}{ObtenerGeneros()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_catalogo_service_a104a5cb0cd5c317f688314842640e0a0} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_generos}{Generos}} $>$ View\+Model.\+Services.\+Catalogo\+Service.\+Obtener\+Generos (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Obtiene la lista de géneros disponibles para asignar a los productos. 
+
+\begin{DoxyReturn}{Devuelve}
+Colección completa de la tabla \doxylink{class_model_1_1_generos}{Generos}.
+\end{DoxyReturn}
+\Hypertarget{class_view_model_1_1_services_1_1_catalogo_service_a51a056ceddadcad1f6122ee7130f7582}\index{ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}!ObtenerStockBajo@{ObtenerStockBajo}}
+\index{ObtenerStockBajo@{ObtenerStockBajo}!ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}}
+\doxysubsubsection{\texorpdfstring{ObtenerStockBajo()}{ObtenerStockBajo()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_catalogo_service_a51a056ceddadcad1f6122ee7130f7582} 
+int View\+Model.\+Services.\+Catalogo\+Service.\+Obtener\+Stock\+Bajo (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Devuelve el número de productos con stock crítico (menor o igual a 2). 
+
+\begin{DoxyReturn}{Devuelve}
+Un número entero que indica cuántos productos requieren reposición inmediata.
+\end{DoxyReturn}
+\Hypertarget{class_view_model_1_1_services_1_1_catalogo_service_a02f1aeb644eb16dfff729903db661927}\index{ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}!ObtenerTarifas@{ObtenerTarifas}}
+\index{ObtenerTarifas@{ObtenerTarifas}!ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}}
+\doxysubsubsection{\texorpdfstring{ObtenerTarifas()}{ObtenerTarifas()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_catalogo_service_a02f1aeb644eb16dfff729903db661927} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_tarifas}{Tarifas}} $>$ View\+Model.\+Services.\+Catalogo\+Service.\+Obtener\+Tarifas (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Obtiene la lista de tarifas disponibles para asignar a los productos. 
+
+/\+/\+/\+ \begin{DoxyReturn}{Devuelve}
+Colección completa de la tabla \doxylink{class_model_1_1_tarifas}{Tarifas}.
+\end{DoxyReturn}
+\Hypertarget{class_view_model_1_1_services_1_1_catalogo_service_ada7f68b3b2b60fda53c153b63d0dce58}\index{ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}!ObtenerTodos@{ObtenerTodos}}
+\index{ObtenerTodos@{ObtenerTodos}!ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}}
+\doxysubsubsection{\texorpdfstring{ObtenerTodos()}{ObtenerTodos()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_catalogo_service_ada7f68b3b2b60fda53c153b63d0dce58} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_productos}{Productos}} $>$ View\+Model.\+Services.\+Catalogo\+Service.\+Obtener\+Todos (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Recupera todos los productos incluyendo sus relaciones (Género y Tarifa). 
+
+\begin{DoxyReturn}{Devuelve}
+Una lista de objetos \doxylink{class_model_1_1_productos}{Productos} con sus datos maestros cargados.
+\end{DoxyReturn}
+\Hypertarget{class_view_model_1_1_services_1_1_catalogo_service_a725a6d3e5bf7e14aaf7fd43fc52448b0}\index{ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}!ObtenerTotalProductos@{ObtenerTotalProductos}}
+\index{ObtenerTotalProductos@{ObtenerTotalProductos}!ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}}
+\doxysubsubsection{\texorpdfstring{ObtenerTotalProductos()}{ObtenerTotalProductos()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_catalogo_service_a725a6d3e5bf7e14aaf7fd43fc52448b0} 
+int View\+Model.\+Services.\+Catalogo\+Service.\+Obtener\+Total\+Productos (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Devuelve el total de productos. 
+
+\begin{DoxyReturn}{Devuelve}
+La cantidad total de registros en la tabla de productos.
+\end{DoxyReturn}
+\Hypertarget{class_view_model_1_1_services_1_1_catalogo_service_ae943c3c229cfb90f3f8d079b64259a5a}\index{ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}!SeleccionarDatosRepo@{SeleccionarDatosRepo}}
+\index{SeleccionarDatosRepo@{SeleccionarDatosRepo}!ViewModel.Services.CatalogoService@{ViewModel.Services.CatalogoService}}
+\doxysubsubsection{\texorpdfstring{SeleccionarDatosRepo()}{SeleccionarDatosRepo()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_catalogo_service_ae943c3c229cfb90f3f8d079b64259a5a} 
+IEnumerable$<$ object $>$ View\+Model.\+Services.\+Catalogo\+Service.\+Seleccionar\+Datos\+Repo (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Obtiene los datos procesados de los productos desde el repositorio para su visualización en informes. 
+
+\begin{DoxyReturn}{Devuelve}
+Una colección de objetos que contiene la información detallada de los productos. 
+\end{DoxyReturn}
+
+
+La documentación de esta clase está generada del siguiente archivo:\+\begin{DoxyCompactItemize}
+\item 
+View\+Model/\+\+Services/\+Catalogo\+Service.\+cs\end{DoxyCompactItemize}

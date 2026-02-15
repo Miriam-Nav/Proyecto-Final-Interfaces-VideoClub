@@ -1,0 +1,141 @@
+\doxysection{Referencia de la clase View\+Model.\+Services.\+Cliente\+Service}
+\hypertarget{class_view_model_1_1_services_1_1_cliente_service}{}\label{class_view_model_1_1_services_1_1_cliente_service}\index{ViewModel.Services.ClienteService@{ViewModel.Services.ClienteService}}
+
+
+Servicio encargado de la lógica de negocio para la gestión de clientes. Valida los datos antes de permitir su persistencia a través del repositorio.  
+
+
+\doxysubsubsection*{Métodos públicos}
+\begin{DoxyCompactItemize}
+\item 
+IEnumerable$<$ object $>$ \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_cliente_service_acfbafc17408bf3a2db88b08506c57771}{Seleccionar\+Datos\+Repo}} ()
+\begin{DoxyCompactList}\small\item\em Obtiene los datos procesados de los clientes desde el repositorio para su visualización en informes. \end{DoxyCompactList}\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}} $>$ \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_cliente_service_ac07b81625969f01bdf9a087b92ae7bf9}{Obtener\+Todos}} ()
+\begin{DoxyCompactList}\small\item\em Recupera todos los clientes registrados. \end{DoxyCompactList}\item 
+int \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_cliente_service_ae15b53a2cd79c17117834f29123d0bef}{Obtener\+Total\+Clientes}} ()
+\begin{DoxyCompactList}\small\item\em Obtiene el conteo total de clientes para el dashboard. \end{DoxyCompactList}\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}} $>$ \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_cliente_service_aa289ded02434bd93b75426426cc010c8}{Buscar}} (string nombre)
+\begin{DoxyCompactList}\small\item\em Realiza una búsqueda de clientes por nombre. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_cliente_service_ac40d9d9f24dd963560f3e72dac72396f}{Guardar}} (\doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}} nuevo)
+\begin{DoxyCompactList}\small\item\em Valida y registra un nuevo cliente. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_services_1_1_cliente_service_a5cbc88dffa026c9aba0e357ee8ceafb1}\label{class_view_model_1_1_services_1_1_cliente_service_a5cbc88dffa026c9aba0e357ee8ceafb1} 
+void {\bfseries Actualizar} (\doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}} cliente\+Editado)
+\begin{DoxyCompactList}\small\item\em Actualiza los datos de un cliente existente tras validar los cambios. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_cliente_service_ac578ec00707c1de4bda6ad66cf4b9792}{Eliminar}} (int id)
+\begin{DoxyCompactList}\small\item\em Elimina un cliente del sistema. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_services_1_1_cliente_service_ab6b6661cb9658c47b50a672543e1177b}\label{class_view_model_1_1_services_1_1_cliente_service_ab6b6661cb9658c47b50a672543e1177b} 
+bool {\bfseries Validar\+Formato\+Email} (string email)
+\begin{DoxyCompactList}\small\item\em Comprueba el formato básico de un email. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_services_1_1_cliente_service_a179712a3b9b34c7084c110e502f60bf1}\label{class_view_model_1_1_services_1_1_cliente_service_a179712a3b9b34c7084c110e502f60bf1} 
+bool {\bfseries Validar\+Telefono} (string telefono)
+\begin{DoxyCompactList}\small\item\em Valida que el teléfono tenga 9 dígitos y sean numéricos. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Descripción detallada}
+Servicio encargado de la lógica de negocio para la gestión de clientes. Valida los datos antes de permitir su persistencia a través del repositorio. 
+
+\label{doc-func-members}
+\Hypertarget{class_view_model_1_1_services_1_1_cliente_service_doc-func-members}
+\doxysubsection{Documentación de funciones miembro}
+\Hypertarget{class_view_model_1_1_services_1_1_cliente_service_aa289ded02434bd93b75426426cc010c8}\index{ViewModel.Services.ClienteService@{ViewModel.Services.ClienteService}!Buscar@{Buscar}}
+\index{Buscar@{Buscar}!ViewModel.Services.ClienteService@{ViewModel.Services.ClienteService}}
+\doxysubsubsection{\texorpdfstring{Buscar()}{Buscar()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_cliente_service_aa289ded02434bd93b75426426cc010c8} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}} $>$ View\+Model.\+Services.\+Cliente\+Service.\+Buscar (\begin{DoxyParamCaption}\item[{string}]{nombre}{}\end{DoxyParamCaption})}
+
+
+
+Realiza una búsqueda de clientes por nombre. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em nombre} & El nombre o fragmento de texto a buscar.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Devuelve}
+Una lista de \doxylink{class_model_1_1_clientes}{Clientes} cuyos nombres coincidan con el criterio de búsqueda.
+\end{DoxyReturn}
+\Hypertarget{class_view_model_1_1_services_1_1_cliente_service_ac578ec00707c1de4bda6ad66cf4b9792}\index{ViewModel.Services.ClienteService@{ViewModel.Services.ClienteService}!Eliminar@{Eliminar}}
+\index{Eliminar@{Eliminar}!ViewModel.Services.ClienteService@{ViewModel.Services.ClienteService}}
+\doxysubsubsection{\texorpdfstring{Eliminar()}{Eliminar()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_cliente_service_ac578ec00707c1de4bda6ad66cf4b9792} 
+void View\+Model.\+Services.\+Cliente\+Service.\+Eliminar (\begin{DoxyParamCaption}\item[{int}]{id}{}\end{DoxyParamCaption})}
+
+
+
+Elimina un cliente del sistema. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em id} & ID único del cliente a eliminar.\\
+\hline
+\end{DoxyParams}
+
+\begin{DoxyExceptions}{Excepciones}
+{\em Exception} & Se lanza si el cliente tiene alquileres activos (productos sin devolver), para evitar la pérdida de trazabilidad del stock. \\
+\hline
+\end{DoxyExceptions}
+\Hypertarget{class_view_model_1_1_services_1_1_cliente_service_ac40d9d9f24dd963560f3e72dac72396f}\index{ViewModel.Services.ClienteService@{ViewModel.Services.ClienteService}!Guardar@{Guardar}}
+\index{Guardar@{Guardar}!ViewModel.Services.ClienteService@{ViewModel.Services.ClienteService}}
+\doxysubsubsection{\texorpdfstring{Guardar()}{Guardar()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_cliente_service_ac40d9d9f24dd963560f3e72dac72396f} 
+void View\+Model.\+Services.\+Cliente\+Service.\+Guardar (\begin{DoxyParamCaption}\item[{\doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}}}]{nuevo}{}\end{DoxyParamCaption})}
+
+
+
+Valida y registra un nuevo cliente. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em nuevo} & Datos del cliente a registrar.\\
+\hline
+\end{DoxyParams}
+
+\begin{DoxyExceptions}{Excepciones}
+{\em Exception} & Lanzada si el nombre o el DNI no son válidos.\\
+\hline
+\end{DoxyExceptions}
+\Hypertarget{class_view_model_1_1_services_1_1_cliente_service_ac07b81625969f01bdf9a087b92ae7bf9}\index{ViewModel.Services.ClienteService@{ViewModel.Services.ClienteService}!ObtenerTodos@{ObtenerTodos}}
+\index{ObtenerTodos@{ObtenerTodos}!ViewModel.Services.ClienteService@{ViewModel.Services.ClienteService}}
+\doxysubsubsection{\texorpdfstring{ObtenerTodos()}{ObtenerTodos()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_cliente_service_ac07b81625969f01bdf9a087b92ae7bf9} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}} $>$ View\+Model.\+Services.\+Cliente\+Service.\+Obtener\+Todos (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Recupera todos los clientes registrados. 
+
+\begin{DoxyReturn}{Devuelve}
+Una lista completa de objetos \doxylink{class_model_1_1_clientes}{Clientes} existentes en la base de datos.
+\end{DoxyReturn}
+\Hypertarget{class_view_model_1_1_services_1_1_cliente_service_ae15b53a2cd79c17117834f29123d0bef}\index{ViewModel.Services.ClienteService@{ViewModel.Services.ClienteService}!ObtenerTotalClientes@{ObtenerTotalClientes}}
+\index{ObtenerTotalClientes@{ObtenerTotalClientes}!ViewModel.Services.ClienteService@{ViewModel.Services.ClienteService}}
+\doxysubsubsection{\texorpdfstring{ObtenerTotalClientes()}{ObtenerTotalClientes()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_cliente_service_ae15b53a2cd79c17117834f29123d0bef} 
+int View\+Model.\+Services.\+Cliente\+Service.\+Obtener\+Total\+Clientes (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Obtiene el conteo total de clientes para el dashboard. 
+
+\begin{DoxyReturn}{Devuelve}
+Un número entero que representa la cantidad total de clientes registrados.
+\end{DoxyReturn}
+\Hypertarget{class_view_model_1_1_services_1_1_cliente_service_acfbafc17408bf3a2db88b08506c57771}\index{ViewModel.Services.ClienteService@{ViewModel.Services.ClienteService}!SeleccionarDatosRepo@{SeleccionarDatosRepo}}
+\index{SeleccionarDatosRepo@{SeleccionarDatosRepo}!ViewModel.Services.ClienteService@{ViewModel.Services.ClienteService}}
+\doxysubsubsection{\texorpdfstring{SeleccionarDatosRepo()}{SeleccionarDatosRepo()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_cliente_service_acfbafc17408bf3a2db88b08506c57771} 
+IEnumerable$<$ object $>$ View\+Model.\+Services.\+Cliente\+Service.\+Seleccionar\+Datos\+Repo (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Obtiene los datos procesados de los clientes desde el repositorio para su visualización en informes. 
+
+\begin{DoxyReturn}{Devuelve}
+Una colección de objetos que contiene la información detallada de los clientes. 
+\end{DoxyReturn}
+
+
+La documentación de esta clase está generada del siguiente archivo:\+\begin{DoxyCompactItemize}
+\item 
+View\+Model/\+\+Services/\+Cliente\+Service.\+cs\end{DoxyCompactItemize}

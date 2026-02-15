@@ -1,0 +1,167 @@
+\doxysection{Referencia de la clase Model.\+Repositorios.\+Cliente\+Repositorio}
+\hypertarget{class_model_1_1_repositorios_1_1_cliente_repositorio}{}\label{class_model_1_1_repositorios_1_1_cliente_repositorio}\index{Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}}
+
+
+Repositorio encargado de las operaciones de persistencia para la gestión de clientes. Gestiona directamente el acceso a la base de datos para la entidad \doxylink{class_model_1_1_clientes}{Clientes} utilizando Entity Framework, permitiendo realizar operaciones CRUD y consultas de conteo.  
+
+
+\doxysubsubsection*{Métodos públicos}
+\begin{DoxyCompactItemize}
+\item 
+IEnumerable$<$ object $>$ \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_cliente_repositorio_a6c6d7ec461bb2e26619f955ae1cd8b6a}{Datos\+Repo}} ()
+\begin{DoxyCompactList}\small\item\em Realiza una consulta a la base de datos para extraer la información necesaria del informe. \end{DoxyCompactList}\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}} $>$ \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_cliente_repositorio_a8383a1fc1dea8883cca4c19b759e42fb}{Obtener\+Todos}} ()
+\begin{DoxyCompactList}\small\item\em Obtiene la lista completa de clientes registrados en el sistema. \end{DoxyCompactList}\item 
+\Hypertarget{class_model_1_1_repositorios_1_1_cliente_repositorio_a9260263a02800e76be0360acc34a2e0a}\label{class_model_1_1_repositorios_1_1_cliente_repositorio_a9260263a02800e76be0360acc34a2e0a} 
+int {\bfseries Obtener\+Total\+Clientes} ()
+\begin{DoxyCompactList}\small\item\em Obtiene el número total de clientes registrados en la base de datos. \end{DoxyCompactList}\item 
+bool \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_cliente_repositorio_a62d2afa4706612e209701841dad97a47}{Tiene\+Alquileres\+Pendientes}} (int cliente\+Id)
+\begin{DoxyCompactList}\small\item\em Consulta si un cliente específico tiene productos alquilados que aún no han sido devueltos. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_cliente_repositorio_aa7c8321253074b210a1ed03a015a5d24}{Guardar}} (\doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}} nuevo)
+\begin{DoxyCompactList}\small\item\em Registra un nuevo cliente en la base de datos. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_cliente_repositorio_adcb9848c314c7b64125b789873eb1dd5}{Actualizar}} (\doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}} cliente\+Editado)
+\begin{DoxyCompactList}\small\item\em Actualiza la información de un cliente ya existente. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_cliente_repositorio_a74d6e6204e52b97cdb6860b39d50c7f5}{Eliminar}} (int id)
+\begin{DoxyCompactList}\small\item\em Elimina un cliente de la base de datos de forma permanente. \end{DoxyCompactList}\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}} $>$ \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_cliente_repositorio_a645d148642250900a7c3b3b1d3379847}{Buscar\+Por\+Nombre}} (string nombre)
+\begin{DoxyCompactList}\small\item\em Busca clientes que coincidan con el nombre. \end{DoxyCompactList}\item 
+\doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}} \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_cliente_repositorio_a36e5061b82d643b3049fd336e2c74b8b}{Buscar\+Por\+Email}} (string email)
+\begin{DoxyCompactList}\small\item\em Busca si ya existe un cliente con el correo electrónico especificado. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Descripción detallada}
+Repositorio encargado de las operaciones de persistencia para la gestión de clientes. Gestiona directamente el acceso a la base de datos para la entidad \doxylink{class_model_1_1_clientes}{Clientes} utilizando Entity Framework, permitiendo realizar operaciones CRUD y consultas de conteo. 
+
+\label{doc-func-members}
+\Hypertarget{class_model_1_1_repositorios_1_1_cliente_repositorio_doc-func-members}
+\doxysubsection{Documentación de funciones miembro}
+\Hypertarget{class_model_1_1_repositorios_1_1_cliente_repositorio_adcb9848c314c7b64125b789873eb1dd5}\index{Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}!Actualizar@{Actualizar}}
+\index{Actualizar@{Actualizar}!Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}}
+\doxysubsubsection{\texorpdfstring{Actualizar()}{Actualizar()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_cliente_repositorio_adcb9848c314c7b64125b789873eb1dd5} 
+void Model.\+Repositorios.\+Cliente\+Repositorio.\+Actualizar (\begin{DoxyParamCaption}\item[{\doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}}}]{cliente\+Editado}{}\end{DoxyParamCaption})}
+
+
+
+Actualiza la información de un cliente ya existente. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em cliente\+Editado} & Objeto con los datos actualizados.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_model_1_1_repositorios_1_1_cliente_repositorio_a36e5061b82d643b3049fd336e2c74b8b}\index{Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}!BuscarPorEmail@{BuscarPorEmail}}
+\index{BuscarPorEmail@{BuscarPorEmail}!Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}}
+\doxysubsubsection{\texorpdfstring{BuscarPorEmail()}{BuscarPorEmail()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_cliente_repositorio_a36e5061b82d643b3049fd336e2c74b8b} 
+\doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}} Model.\+Repositorios.\+Cliente\+Repositorio.\+Buscar\+Por\+Email (\begin{DoxyParamCaption}\item[{string}]{email}{}\end{DoxyParamCaption})}
+
+
+
+Busca si ya existe un cliente con el correo electrónico especificado. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em email} & Email a comprobar.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Devuelve}
+El objeto \doxylink{class_model_1_1_clientes}{Clientes} si lo encuentra, o null si no existe.
+\end{DoxyReturn}
+\Hypertarget{class_model_1_1_repositorios_1_1_cliente_repositorio_a645d148642250900a7c3b3b1d3379847}\index{Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}!BuscarPorNombre@{BuscarPorNombre}}
+\index{BuscarPorNombre@{BuscarPorNombre}!Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}}
+\doxysubsubsection{\texorpdfstring{BuscarPorNombre()}{BuscarPorNombre()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_cliente_repositorio_a645d148642250900a7c3b3b1d3379847} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}} $>$ Model.\+Repositorios.\+Cliente\+Repositorio.\+Buscar\+Por\+Nombre (\begin{DoxyParamCaption}\item[{string}]{nombre}{}\end{DoxyParamCaption})}
+
+
+
+Busca clientes que coincidan con el nombre. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em nombre} & Texto a buscar en el nombre del cliente.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Devuelve}
+Lista de clientes filtrada.
+\end{DoxyReturn}
+\Hypertarget{class_model_1_1_repositorios_1_1_cliente_repositorio_a6c6d7ec461bb2e26619f955ae1cd8b6a}\index{Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}!DatosRepo@{DatosRepo}}
+\index{DatosRepo@{DatosRepo}!Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}}
+\doxysubsubsection{\texorpdfstring{DatosRepo()}{DatosRepo()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_cliente_repositorio_a6c6d7ec461bb2e26619f955ae1cd8b6a} 
+IEnumerable$<$ object $>$ Model.\+Repositorios.\+Cliente\+Repositorio.\+Datos\+Repo (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Realiza una consulta a la base de datos para extraer la información necesaria del informe. 
+
+\begin{DoxyReturn}{Devuelve}
+Una lista de objetos anónimos con los datos de nombres, emails, telefonos y estados de los clientes. 
+\end{DoxyReturn}
+\Hypertarget{class_model_1_1_repositorios_1_1_cliente_repositorio_a74d6e6204e52b97cdb6860b39d50c7f5}\index{Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}!Eliminar@{Eliminar}}
+\index{Eliminar@{Eliminar}!Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}}
+\doxysubsubsection{\texorpdfstring{Eliminar()}{Eliminar()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_cliente_repositorio_a74d6e6204e52b97cdb6860b39d50c7f5} 
+void Model.\+Repositorios.\+Cliente\+Repositorio.\+Eliminar (\begin{DoxyParamCaption}\item[{int}]{id}{}\end{DoxyParamCaption})}
+
+
+
+Elimina un cliente de la base de datos de forma permanente. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em id} & Identificador único del cliente a eliminar.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_model_1_1_repositorios_1_1_cliente_repositorio_aa7c8321253074b210a1ed03a015a5d24}\index{Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}!Guardar@{Guardar}}
+\index{Guardar@{Guardar}!Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}}
+\doxysubsubsection{\texorpdfstring{Guardar()}{Guardar()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_cliente_repositorio_aa7c8321253074b210a1ed03a015a5d24} 
+void Model.\+Repositorios.\+Cliente\+Repositorio.\+Guardar (\begin{DoxyParamCaption}\item[{\doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}}}]{nuevo}{}\end{DoxyParamCaption})}
+
+
+
+Registra un nuevo cliente en la base de datos. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em nuevo} & Objeto con la información del cliente a insertar.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_model_1_1_repositorios_1_1_cliente_repositorio_a8383a1fc1dea8883cca4c19b759e42fb}\index{Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}!ObtenerTodos@{ObtenerTodos}}
+\index{ObtenerTodos@{ObtenerTodos}!Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}}
+\doxysubsubsection{\texorpdfstring{ObtenerTodos()}{ObtenerTodos()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_cliente_repositorio_a8383a1fc1dea8883cca4c19b759e42fb} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}} $>$ Model.\+Repositorios.\+Cliente\+Repositorio.\+Obtener\+Todos (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Obtiene la lista completa de clientes registrados en el sistema. 
+
+\begin{DoxyReturn}{Devuelve}
+Una lista de objetos de tipo \doxylink{class_model_1_1_clientes}{Clientes}.
+\end{DoxyReturn}
+\Hypertarget{class_model_1_1_repositorios_1_1_cliente_repositorio_a62d2afa4706612e209701841dad97a47}\index{Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}!TieneAlquileresPendientes@{TieneAlquileresPendientes}}
+\index{TieneAlquileresPendientes@{TieneAlquileresPendientes}!Model.Repositorios.ClienteRepositorio@{Model.Repositorios.ClienteRepositorio}}
+\doxysubsubsection{\texorpdfstring{TieneAlquileresPendientes()}{TieneAlquileresPendientes()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_cliente_repositorio_a62d2afa4706612e209701841dad97a47} 
+bool Model.\+Repositorios.\+Cliente\+Repositorio.\+Tiene\+Alquileres\+Pendientes (\begin{DoxyParamCaption}\item[{int}]{cliente\+Id}{}\end{DoxyParamCaption})}
+
+
+
+Consulta si un cliente específico tiene productos alquilados que aún no han sido devueltos. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em cliente\+Id} & ID del cliente a consultar.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Devuelve}
+True si tiene al menos un alquiler con la fecha de devolución real pendiente (null).
+\end{DoxyReturn}
+
+
+La documentación de esta clase está generada del siguiente archivo:\+\begin{DoxyCompactItemize}
+\item 
+Model/\+\+Repositorios/\+Cliente\+Repositorio.\+cs\end{DoxyCompactItemize}

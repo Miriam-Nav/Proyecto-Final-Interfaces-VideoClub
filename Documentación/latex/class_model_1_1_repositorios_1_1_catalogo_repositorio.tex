@@ -1,0 +1,160 @@
+\doxysection{Referencia de la clase Model.\+Repositorios.\+Catalogo\+Repositorio}
+\hypertarget{class_model_1_1_repositorios_1_1_catalogo_repositorio}{}\label{class_model_1_1_repositorios_1_1_catalogo_repositorio}\index{Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}}
+
+
+Repositorio encargado de las operaciones de persistencia para el catálogo de productos. Gestiona directamente el acceso a la base de datos para la entidad \doxylink{class_model_1_1_productos}{Productos}, incluyendo la carga de relaciones con Géneros y \doxylink{class_model_1_1_tarifas}{Tarifas}, y el control de niveles de stock.  
+
+
+\doxysubsubsection*{Métodos públicos}
+\begin{DoxyCompactItemize}
+\item 
+IEnumerable$<$ object $>$ \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_catalogo_repositorio_ace8f1ebad718f453e2a9431bf6745533}{Datos\+Repo}} ()
+\begin{DoxyCompactList}\small\item\em Realiza una consulta a la base de datos para extraer la información necesaria del informe. \end{DoxyCompactList}\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_productos}{Productos}} $>$ \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_catalogo_repositorio_ac6aec6eb52332b6df2c86046f6d8660a}{Obtener\+Todos}} ()
+\begin{DoxyCompactList}\small\item\em Obtiene la lista completa de productos registrados en el sistema. \end{DoxyCompactList}\item 
+\Hypertarget{class_model_1_1_repositorios_1_1_catalogo_repositorio_ad06af17ee4050630167f03364d6ccd32}\label{class_model_1_1_repositorios_1_1_catalogo_repositorio_ad06af17ee4050630167f03364d6ccd32} 
+int {\bfseries Obtener\+Total\+Productos} ()
+\begin{DoxyCompactList}\small\item\em Obtiene el total de productos en inventario. \end{DoxyCompactList}\item 
+\Hypertarget{class_model_1_1_repositorios_1_1_catalogo_repositorio_a0a1e8e8248dc4202a05163bdf18e15ba}\label{class_model_1_1_repositorios_1_1_catalogo_repositorio_a0a1e8e8248dc4202a05163bdf18e15ba} 
+int {\bfseries Obtener\+Stock\+Bajo} ()
+\begin{DoxyCompactList}\small\item\em Calcula cuántos productos tienen un stock menor o igual a 2. \end{DoxyCompactList}\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_generos}{Generos}} $>$ \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_catalogo_repositorio_a1b7338425f25f170172845cef40b608d}{Obtener\+Generos}} ()
+\begin{DoxyCompactList}\small\item\em Obtiene la lista completa de generos registrados en el sistema. \end{DoxyCompactList}\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_tarifas}{Tarifas}} $>$ \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_catalogo_repositorio_a6ca99781a7170eafdc328290a5051897}{Obtener\+Tarifas}} ()
+\begin{DoxyCompactList}\small\item\em Obtiene la lista completa de tarifas registradas en el sistema. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_catalogo_repositorio_af76d68cfe17a63de9476f0ce6403ad87}{Guardar}} (\doxymbox{\hyperlink{class_model_1_1_productos}{Productos}} nuevo)
+\begin{DoxyCompactList}\small\item\em Registra un nuevo producto en la base de datos. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_catalogo_repositorio_a0847a553dee557d7dbc3c1b956313864}{Actualizar}} (\doxymbox{\hyperlink{class_model_1_1_productos}{Productos}} producto\+Editado)
+\begin{DoxyCompactList}\small\item\em Actualiza la información de un producto ya existente. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_catalogo_repositorio_a855767e5f9790f9d9a306f24bbf9eea2}{Eliminar}} (int id)
+\begin{DoxyCompactList}\small\item\em Elimina un producto de la base de datos de forma permanente. \end{DoxyCompactList}\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_productos}{Productos}} $>$ \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_catalogo_repositorio_a4333f969013c2b1c0c64ddd06708895e}{Buscar\+Por\+Titulo}} (string titulo)
+\begin{DoxyCompactList}\small\item\em Busca productos que coincidan con el título. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Descripción detallada}
+Repositorio encargado de las operaciones de persistencia para el catálogo de productos. Gestiona directamente el acceso a la base de datos para la entidad \doxylink{class_model_1_1_productos}{Productos}, incluyendo la carga de relaciones con Géneros y \doxylink{class_model_1_1_tarifas}{Tarifas}, y el control de niveles de stock. 
+
+\label{doc-func-members}
+\Hypertarget{class_model_1_1_repositorios_1_1_catalogo_repositorio_doc-func-members}
+\doxysubsection{Documentación de funciones miembro}
+\Hypertarget{class_model_1_1_repositorios_1_1_catalogo_repositorio_a0847a553dee557d7dbc3c1b956313864}\index{Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}!Actualizar@{Actualizar}}
+\index{Actualizar@{Actualizar}!Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}}
+\doxysubsubsection{\texorpdfstring{Actualizar()}{Actualizar()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_catalogo_repositorio_a0847a553dee557d7dbc3c1b956313864} 
+void Model.\+Repositorios.\+Catalogo\+Repositorio.\+Actualizar (\begin{DoxyParamCaption}\item[{\doxymbox{\hyperlink{class_model_1_1_productos}{Productos}}}]{producto\+Editado}{}\end{DoxyParamCaption})}
+
+
+
+Actualiza la información de un producto ya existente. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em producto\+Editado} & Objeto con los datos actualizados.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_model_1_1_repositorios_1_1_catalogo_repositorio_a4333f969013c2b1c0c64ddd06708895e}\index{Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}!BuscarPorTitulo@{BuscarPorTitulo}}
+\index{BuscarPorTitulo@{BuscarPorTitulo}!Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}}
+\doxysubsubsection{\texorpdfstring{BuscarPorTitulo()}{BuscarPorTitulo()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_catalogo_repositorio_a4333f969013c2b1c0c64ddd06708895e} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_productos}{Productos}} $>$ Model.\+Repositorios.\+Catalogo\+Repositorio.\+Buscar\+Por\+Titulo (\begin{DoxyParamCaption}\item[{string}]{titulo}{}\end{DoxyParamCaption})}
+
+
+
+Busca productos que coincidan con el título. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em titulo} & Texto a buscar en el título del producto.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Devuelve}
+Lista de productos filtrada.
+\end{DoxyReturn}
+\Hypertarget{class_model_1_1_repositorios_1_1_catalogo_repositorio_ace8f1ebad718f453e2a9431bf6745533}\index{Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}!DatosRepo@{DatosRepo}}
+\index{DatosRepo@{DatosRepo}!Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}}
+\doxysubsubsection{\texorpdfstring{DatosRepo()}{DatosRepo()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_catalogo_repositorio_ace8f1ebad718f453e2a9431bf6745533} 
+IEnumerable$<$ object $>$ Model.\+Repositorios.\+Catalogo\+Repositorio.\+Datos\+Repo (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Realiza una consulta a la base de datos para extraer la información necesaria del informe. 
+
+\begin{DoxyReturn}{Devuelve}
+Una lista de objetos anónimos con los datos de nombres, titulos, precios y stock de los productos. 
+\end{DoxyReturn}
+\Hypertarget{class_model_1_1_repositorios_1_1_catalogo_repositorio_a855767e5f9790f9d9a306f24bbf9eea2}\index{Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}!Eliminar@{Eliminar}}
+\index{Eliminar@{Eliminar}!Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}}
+\doxysubsubsection{\texorpdfstring{Eliminar()}{Eliminar()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_catalogo_repositorio_a855767e5f9790f9d9a306f24bbf9eea2} 
+void Model.\+Repositorios.\+Catalogo\+Repositorio.\+Eliminar (\begin{DoxyParamCaption}\item[{int}]{id}{}\end{DoxyParamCaption})}
+
+
+
+Elimina un producto de la base de datos de forma permanente. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em id} & Identificador único del producto a eliminar.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_model_1_1_repositorios_1_1_catalogo_repositorio_af76d68cfe17a63de9476f0ce6403ad87}\index{Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}!Guardar@{Guardar}}
+\index{Guardar@{Guardar}!Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}}
+\doxysubsubsection{\texorpdfstring{Guardar()}{Guardar()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_catalogo_repositorio_af76d68cfe17a63de9476f0ce6403ad87} 
+void Model.\+Repositorios.\+Catalogo\+Repositorio.\+Guardar (\begin{DoxyParamCaption}\item[{\doxymbox{\hyperlink{class_model_1_1_productos}{Productos}}}]{nuevo}{}\end{DoxyParamCaption})}
+
+
+
+Registra un nuevo producto en la base de datos. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em nuevo} & Objeto con la información del producto a insertar.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_model_1_1_repositorios_1_1_catalogo_repositorio_a1b7338425f25f170172845cef40b608d}\index{Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}!ObtenerGeneros@{ObtenerGeneros}}
+\index{ObtenerGeneros@{ObtenerGeneros}!Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}}
+\doxysubsubsection{\texorpdfstring{ObtenerGeneros()}{ObtenerGeneros()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_catalogo_repositorio_a1b7338425f25f170172845cef40b608d} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_generos}{Generos}} $>$ Model.\+Repositorios.\+Catalogo\+Repositorio.\+Obtener\+Generos (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Obtiene la lista completa de generos registrados en el sistema. 
+
+\begin{DoxyReturn}{Devuelve}
+Una lista de objetos de tipo \doxylink{class_model_1_1_generos}{Generos}.
+\end{DoxyReturn}
+\Hypertarget{class_model_1_1_repositorios_1_1_catalogo_repositorio_a6ca99781a7170eafdc328290a5051897}\index{Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}!ObtenerTarifas@{ObtenerTarifas}}
+\index{ObtenerTarifas@{ObtenerTarifas}!Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}}
+\doxysubsubsection{\texorpdfstring{ObtenerTarifas()}{ObtenerTarifas()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_catalogo_repositorio_a6ca99781a7170eafdc328290a5051897} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_tarifas}{Tarifas}} $>$ Model.\+Repositorios.\+Catalogo\+Repositorio.\+Obtener\+Tarifas (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Obtiene la lista completa de tarifas registradas en el sistema. 
+
+\begin{DoxyReturn}{Devuelve}
+Una lista de objetos de tipo \doxylink{class_model_1_1_tarifas}{Tarifas}.
+\end{DoxyReturn}
+\Hypertarget{class_model_1_1_repositorios_1_1_catalogo_repositorio_ac6aec6eb52332b6df2c86046f6d8660a}\index{Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}!ObtenerTodos@{ObtenerTodos}}
+\index{ObtenerTodos@{ObtenerTodos}!Model.Repositorios.CatalogoRepositorio@{Model.Repositorios.CatalogoRepositorio}}
+\doxysubsubsection{\texorpdfstring{ObtenerTodos()}{ObtenerTodos()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_catalogo_repositorio_ac6aec6eb52332b6df2c86046f6d8660a} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_productos}{Productos}} $>$ Model.\+Repositorios.\+Catalogo\+Repositorio.\+Obtener\+Todos (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Obtiene la lista completa de productos registrados en el sistema. 
+
+\begin{DoxyReturn}{Devuelve}
+Una lista de objetos de tipo \doxylink{class_model_1_1_productos}{Productos}.
+\end{DoxyReturn}
+
+
+La documentación de esta clase está generada del siguiente archivo:\+\begin{DoxyCompactItemize}
+\item 
+Model/\+\+Repositorios/\+Catalogo\+Repositorio.\+cs\end{DoxyCompactItemize}

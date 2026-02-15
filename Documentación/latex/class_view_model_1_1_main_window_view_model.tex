@@ -1,0 +1,84 @@
+\doxysection{Referencia de la clase View\+Model.\+Main\+Window\+View\+Model}
+\hypertarget{class_view_model_1_1_main_window_view_model}{}\label{class_view_model_1_1_main_window_view_model}\index{ViewModel.MainWindowViewModel@{ViewModel.MainWindowViewModel}}
+
+
+\doxylink{namespace_view_model}{View\+Model} de la ventana principal. Gestiona la lógica de la pantalla principal y la navegación hacia las diferentes pantallas del \doxylink{namespace_video_club}{Video\+Club}.  
+
+
+Diagrama de herencia de View\+Model.\+Main\+Window\+View\+Model\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_view_model_1_1_main_window_view_model}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Métodos públicos}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_abedfe02c7ff69e188ee0ac3f0f834147}\label{class_view_model_1_1_main_window_view_model_abedfe02c7ff69e188ee0ac3f0f834147} 
+{\bfseries Main\+Window\+View\+Model} ()
+\begin{DoxyCompactList}\small\item\em Constructor del \doxylink{namespace_view_model}{View\+Model}. Inicializa servicios, comandos y carga datos reales. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_a4b7e4b402e12eb0d60cb02cb4d311af1}\label{class_view_model_1_1_main_window_view_model_a4b7e4b402e12eb0d60cb02cb4d311af1} 
+void {\bfseries Refrescar\+Datos} ()
+\begin{DoxyCompactList}\small\item\em Consulta el servicio para obtener los datos actualizados de la base de datos. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Métodos protegidos}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_a4a605d5889d5502d99b8adc1578b70ba}\label{class_view_model_1_1_main_window_view_model_a4a605d5889d5502d99b8adc1578b70ba} 
+void {\bfseries On\+Property\+Changed} (string name)
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Propiedades}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_adb92f7b736e52a19eb7cc03b0a8b613f}\label{class_view_model_1_1_main_window_view_model_adb92f7b736e52a19eb7cc03b0a8b613f} 
+string {\bfseries Accion\+Solicitada}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Almacena el identificador de la vista o acción que se desea ejecutar. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_a2f47386ee66f772183d9a2eb15c4e30e}\label{class_view_model_1_1_main_window_view_model_a2f47386ee66f772183d9a2eb15c4e30e} 
+int {\bfseries Total\+Clientes}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Obtiene o establece el número total de clientes registrados en la base de datos. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_acc57ffb992d00586014554d77130f05d}\label{class_view_model_1_1_main_window_view_model_acc57ffb992d00586014554d77130f05d} 
+int {\bfseries Total\+Productos}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Obtiene o establece la cantidad de títulos disponibles en el catálogo. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_a773e27ca1158d480773f138f50ddf4a6}\label{class_view_model_1_1_main_window_view_model_a773e27ca1158d480773f138f50ddf4a6} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_alquileres}{Model.\+Alquileres}} $>$ {\bfseries Actividad\+Reciente}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Lista de los últimos movimientos para mostrar en el Data\+Grid del Dashboard. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_aeaca7aab8943272119265774204754a4}\label{class_view_model_1_1_main_window_view_model_aeaca7aab8943272119265774204754a4} 
+int {\bfseries Alquileres\+Activos}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Cantidad de alquileres activos actualmente. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_abad15c4f64a4fa648c8b1b1e88f11630}\label{class_view_model_1_1_main_window_view_model_abad15c4f64a4fa648c8b1b1e88f11630} 
+int {\bfseries Stock\+Bajo}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Cantidad de productos con stock bajo. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_a27bf201b6d7b110c63f4ac2a669f18a7}\label{class_view_model_1_1_main_window_view_model_a27bf201b6d7b110c63f4ac2a669f18a7} 
+string {\bfseries Fecha\+Actual}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Obtiene la fecha actual formateada para la cabecera. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_a578b1859d7c15570a3529a133f704064}\label{class_view_model_1_1_main_window_view_model_a578b1859d7c15570a3529a133f704064} 
+ICommand {\bfseries Abrir\+Clientes\+Command}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Comando para abrir la gestión de clientes. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_a6639f8c3e235914519f1022b184a917c}\label{class_view_model_1_1_main_window_view_model_a6639f8c3e235914519f1022b184a917c} 
+ICommand {\bfseries Abrir\+Catalogo\+Command}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Comando para abrir el catálogo. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_aad2c75a3b9ee1701fe0933157c50a555}\label{class_view_model_1_1_main_window_view_model_aad2c75a3b9ee1701fe0933157c50a555} 
+ICommand {\bfseries Abrir\+Alquileres\+Command}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Comando para abrir los alquileres. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_ac08b6b7790cd163301c99531a4ca29f8}\label{class_view_model_1_1_main_window_view_model_ac08b6b7790cd163301c99531a4ca29f8} 
+ICommand {\bfseries Abrir\+Config\+Command}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Comando para abrir la configuración. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_ae21c849e90be32f21a3c8df51498f1cf}\label{class_view_model_1_1_main_window_view_model_ae21c849e90be32f21a3c8df51498f1cf} 
+ICommand {\bfseries Salir\+Command}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Comando para cerrar la aplicación. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Eventos}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_a376ad9c927c84a880928a8a58250d242}\label{class_view_model_1_1_main_window_view_model_a376ad9c927c84a880928a8a58250d242} 
+Action {\bfseries On\+Accion\+Solicitada}
+\begin{DoxyCompactList}\small\item\em Evento que notifica a la Vista cuando se requiere abrir una nueva sección. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_main_window_view_model_a5e4ee1f388d08f1b08d29cee35cd4a62}\label{class_view_model_1_1_main_window_view_model_a5e4ee1f388d08f1b08d29cee35cd4a62} 
+Property\+Changed\+Event\+Handler {\bfseries Property\+Changed}
+\begin{DoxyCompactList}\small\item\em Evento para notificar cambios en las propiedades a la Vista. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Descripción detallada}
+\doxylink{namespace_view_model}{View\+Model} de la ventana principal. Gestiona la lógica de la pantalla principal y la navegación hacia las diferentes pantallas del \doxylink{namespace_video_club}{Video\+Club}. 
+
+La documentación de esta clase está generada del siguiente archivo:\+\begin{DoxyCompactItemize}
+\item 
+View\+Model/\+Principal\+View\+Model.\+cs\end{DoxyCompactItemize}

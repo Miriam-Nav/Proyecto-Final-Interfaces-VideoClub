@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=11"/>
+<meta name="generator" content="Doxygen 1.16.1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>VideoClub Miriam: Referencia de la clase Model.Repositorios.AlquilerRepositorio</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr id="projectrow">
+  <td id="projectlogo"><img alt="Logo" src="Logo1.ico"/></td>
+  <td id="projectalign">
+   <div id="projectname">VideoClub Miriam
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generado por Doxygen 1.16.1 -->
+<script type="text/javascript">
+$(function() { codefold.init(); });
+</script>
+<div id="main-nav">
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Página&#160;principal</span></a></li>
+      <li><a href="namespaces.html"><span>Paquetes</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Clases</span></a></li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="annotated.html"><span>Lista&#160;de&#160;clases</span></a></li>
+      <li><a href="classes.html"><span>Índice&#160;de&#160;clases</span></a></li>
+      <li><a href="hierarchy.html"><span>Jerarquía&#160;de&#160;clases</span></a></li>
+      <li><a href="functions.html"><span>Miembros&#160;de&#160;clases</span></a></li>
+    </ul>
+  </div>
+</div><!-- main-nav -->
+<div id="nav-path" class="navpath">
+  <ul>
+<li class="navelem"><a href="namespace_model.html">Model</a></li><li class="navelem"><a href="namespace_model_1_1_repositorios.html">Repositorios</a></li><li class="navelem"><a href="class_model_1_1_repositorios_1_1_alquiler_repositorio.html">AlquilerRepositorio</a></li>  </ul>
+</div>
+</div><!-- top -->
+<div id="doc-content">
+<div class="header">
+  <div class="summary">
+<a href="#pub-methods">Métodos públicos</a> &#124;
+<a href="class_model_1_1_repositorios_1_1_alquiler_repositorio-members.html">Lista de todos los miembros</a>  </div>
+  <div class="headertitle"><div class="title">Referencia de la clase Model.Repositorios.AlquilerRepositorio</div></div>
+</div><!--header-->
+<div class="contents">
+
+<p>Repositorio encargado de las operaciones de persistencia para la gestión de alquileres. Administra las transacciones de préstamo y devolución, coordinando la relación entre clientes y productos, y asegurando la integridad del stock durante cada operación.  
+ <a href="#details">Más...</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 id="header-pub-methods" class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Métodos públicos</h2></td></tr>
+<tr class="memitem:a6a871303a50f0aaca508a2ce00425efd" id="r_a6a871303a50f0aaca508a2ce00425efd"><td class="memItemLeft">IEnumerable&lt; object &gt;&#160;</td><td class="memItemRight"><a class="el" href="#a6a871303a50f0aaca508a2ce00425efd">DatosRepo</a> ()</td></tr>
+<tr class="memdesc:a6a871303a50f0aaca508a2ce00425efd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Realiza una consulta proyectada a la base de datos para extraer la información necesaria del informe.  <br /></td></tr>
+<tr class="memitem:ae9c93f3f4da47af7c295b155292d6e56" id="r_ae9c93f3f4da47af7c295b155292d6e56"><td class="memItemLeft">List&lt; <a class="el" href="class_model_1_1_alquileres.html">Alquileres</a> &gt;&#160;</td><td class="memItemRight"><a class="el" href="#ae9c93f3f4da47af7c295b155292d6e56">ObtenerTodos</a> ()</td></tr>
+<tr class="memdesc:ae9c93f3f4da47af7c295b155292d6e56"><td class="mdescLeft">&#160;</td><td class="mdescRight">Obtiene el historial completo de alquileres, incluyendo datos de clientes y productos.  <br /></td></tr>
+<tr class="memitem:a4b6d003bca7895db3e8f37a99c5ed59a" id="r_a4b6d003bca7895db3e8f37a99c5ed59a"><td class="memItemLeft"><a id="a4b6d003bca7895db3e8f37a99c5ed59a" name="a4b6d003bca7895db3e8f37a99c5ed59a"></a>
+int&#160;</td><td class="memItemRight"><b>ObtenerAlquileresActivos</b> ()</td></tr>
+<tr class="memdesc:a4b6d003bca7895db3e8f37a99c5ed59a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Obtiene el conteo de alquileres que aún no tienen fecha de devolución real. <br /></td></tr>
+<tr class="memitem:ab47a31783ff495f9b3fab9b40f3ab1c2" id="r_ab47a31783ff495f9b3fab9b40f3ab1c2"><td class="memItemLeft"><a id="ab47a31783ff495f9b3fab9b40f3ab1c2" name="ab47a31783ff495f9b3fab9b40f3ab1c2"></a>
+List&lt; <a class="el" href="class_model_1_1_alquileres.html">Alquileres</a> &gt;&#160;</td><td class="memItemRight"><b>ObtenerActividadReciente</b> ()</td></tr>
+<tr class="memdesc:ab47a31783ff495f9b3fab9b40f3ab1c2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Obtiene los 10 últimos alquileres realizados. <br /></td></tr>
+<tr class="memitem:adb070211ac94eb9b35ad8a86f1ccf537" id="r_adb070211ac94eb9b35ad8a86f1ccf537"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#adb070211ac94eb9b35ad8a86f1ccf537">GuardarAlquiler</a> (<a class="el" href="class_model_1_1_alquileres.html">Alquileres</a> nuevo)</td></tr>
+<tr class="memdesc:adb070211ac94eb9b35ad8a86f1ccf537"><td class="mdescLeft">&#160;</td><td class="mdescRight">Registra un nuevo alquiler, calcula el precio y reduce el stock del producto.  <br /></td></tr>
+<tr class="memitem:afa36d25706df0348bc2d1e9e754a13fd" id="r_afa36d25706df0348bc2d1e9e754a13fd"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#afa36d25706df0348bc2d1e9e754a13fd">MarcarComoDevuelto</a> (int alquilerId)</td></tr>
+<tr class="memdesc:afa36d25706df0348bc2d1e9e754a13fd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Procesa la devolución de un producto, marcándolo como entregado y reponiendo el stock.  <br /></td></tr>
+<tr class="memitem:a3df6656d01c6ab493f900726add37379" id="r_a3df6656d01c6ab493f900726add37379"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a3df6656d01c6ab493f900726add37379">Eliminar</a> (int id)</td></tr>
+<tr class="memdesc:a3df6656d01c6ab493f900726add37379"><td class="mdescLeft">&#160;</td><td class="mdescRight">Elimina un registro de alquiler de la base de datos.  <br /></td></tr>
+</table>
+<a name="details" id="details"></a><h2 id="header-details" class="groupheader">Descripción detallada</h2>
+<div class="textblock"><p>Repositorio encargado de las operaciones de persistencia para la gestión de alquileres. Administra las transacciones de préstamo y devolución, coordinando la relación entre clientes y productos, y asegurando la integridad del stock durante cada operación. </p>
+</div><a name="doc-func-members" id="doc-func-members"></a><h2 id="header-doc-func-members" class="groupheader">Documentación de funciones miembro</h2>
+<a id="a6a871303a50f0aaca508a2ce00425efd" name="a6a871303a50f0aaca508a2ce00425efd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6a871303a50f0aaca508a2ce00425efd">&#9670;&#160;</a></span>DatosRepo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">IEnumerable&lt; object &gt; Model.Repositorios.AlquilerRepositorio.DatosRepo </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Realiza una consulta proyectada a la base de datos para extraer la información necesaria del informe. </p>
+<dl class="section return"><dt>Devuelve</dt><dd>Una lista de objetos anónimos con los datos de alquileres, productos y clientes. </dd></dl>
+
+</div>
+</div>
+<a id="a3df6656d01c6ab493f900726add37379" name="a3df6656d01c6ab493f900726add37379"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3df6656d01c6ab493f900726add37379">&#9670;&#160;</a></span>Eliminar()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Model.Repositorios.AlquilerRepositorio.Eliminar </td>
+          <td>(</td>
+          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>id</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Elimina un registro de alquiler de la base de datos. </p>
+<dl class="params"><dt>Parámetros</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">id</td><td>ID del alquiler a eliminar.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="adb070211ac94eb9b35ad8a86f1ccf537" name="adb070211ac94eb9b35ad8a86f1ccf537"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adb070211ac94eb9b35ad8a86f1ccf537">&#9670;&#160;</a></span>GuardarAlquiler()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Model.Repositorios.AlquilerRepositorio.GuardarAlquiler </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_model_1_1_alquileres.html">Alquileres</a></td>          <td class="paramname"><span class="paramname"><em>nuevo</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Registra un nuevo alquiler, calcula el precio y reduce el stock del producto. </p>
+<dl class="params"><dt>Parámetros</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">nuevo</td><td>Objeto con los datos básicos del alquiler.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="afa36d25706df0348bc2d1e9e754a13fd" name="afa36d25706df0348bc2d1e9e754a13fd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afa36d25706df0348bc2d1e9e754a13fd">&#9670;&#160;</a></span>MarcarComoDevuelto()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Model.Repositorios.AlquilerRepositorio.MarcarComoDevuelto </td>
+          <td>(</td>
+          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>alquilerId</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Procesa la devolución de un producto, marcándolo como entregado y reponiendo el stock. </p>
+<dl class="params"><dt>Parámetros</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">alquilerId</td><td>ID del registro de alquiler a cerrar.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="ae9c93f3f4da47af7c295b155292d6e56" name="ae9c93f3f4da47af7c295b155292d6e56"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae9c93f3f4da47af7c295b155292d6e56">&#9670;&#160;</a></span>ObtenerTodos()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">List&lt; <a class="el" href="class_model_1_1_alquileres.html">Alquileres</a> &gt; Model.Repositorios.AlquilerRepositorio.ObtenerTodos </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Obtiene el historial completo de alquileres, incluyendo datos de clientes y productos. </p>
+<dl class="section return"><dt>Devuelve</dt><dd>Lista de alquileres con sus relaciones cargadas.</dd></dl>
+
+</div>
+</div>
+<hr/>La documentación de esta clase está generada del siguiente archivo:<ul>
+<li>Model/Repositorios/<b>AlquilerRepositorio.cs</b></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Generado por&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.16.1
+</small></address>
+</div><!-- doc-content -->
+</body>
+</html>

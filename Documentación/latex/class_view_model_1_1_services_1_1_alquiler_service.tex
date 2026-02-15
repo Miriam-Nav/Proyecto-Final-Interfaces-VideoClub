@@ -1,0 +1,92 @@
+\doxysection{Referencia de la clase View\+Model.\+Services.\+Alquiler\+Service}
+\hypertarget{class_view_model_1_1_services_1_1_alquiler_service}{}\label{class_view_model_1_1_services_1_1_alquiler_service}\index{ViewModel.Services.AlquilerService@{ViewModel.Services.AlquilerService}}
+
+
+Servicio encargado de la lógica de negocio para la gestión de alquileres. Coordina las transacciones entre clientes y productos, validando fechas y disponibilidad de stock antes de confirmar el préstamo.  
+
+
+\doxysubsubsection*{Métodos públicos}
+\begin{DoxyCompactItemize}
+\item 
+IEnumerable$<$ object $>$ \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_alquiler_service_afbbdefb743b36ad56ddfdf4fb0fde892}{Seleccionar\+Datos\+Repo}} ()
+\begin{DoxyCompactList}\small\item\em Obtiene los datos procesados de préstamos desde el repositorio para su visualización en informes. \end{DoxyCompactList}\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_alquileres}{Alquileres}} $>$ \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_alquiler_service_ac54166faa1f23ea5bbb9b5c3303625b4}{Obtener\+Todos}} ()
+\begin{DoxyCompactList}\small\item\em Recupera el historial completo de alquileres registrados en el sistema. \end{DoxyCompactList}\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_alquileres}{Alquileres}} $>$ \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_alquiler_service_a06b6b92422f084b453b75369e02ac004}{Obtener\+Actividad\+Reciente}} ()
+\begin{DoxyCompactList}\small\item\em Obtiene los últimos movimientos de alquiler realizados. \end{DoxyCompactList}\item 
+int \doxymbox{\hyperlink{class_view_model_1_1_services_1_1_alquiler_service_a018d96b8395ddd8e8ba8b87eb5188708}{Obtener\+Alquileres\+Activos}} ()
+\begin{DoxyCompactList}\small\item\em Calcula el número total de alquileres que aún están pendientes de devolución. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_services_1_1_alquiler_service_a4df6069f410243b6e8740f4b123da219}\label{class_view_model_1_1_services_1_1_alquiler_service_a4df6069f410243b6e8740f4b123da219} 
+void {\bfseries Guardar\+Alquiler} (\doxymbox{\hyperlink{class_model_1_1_alquileres}{Alquileres}} nuevo)
+\begin{DoxyCompactList}\small\item\em Registra un nuevo alquiler tras validar disponibilidad y coherencia de fechas. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_services_1_1_alquiler_service_a7d35a336430d1a9efc1fbb891ae90549}\label{class_view_model_1_1_services_1_1_alquiler_service_a7d35a336430d1a9efc1fbb891ae90549} 
+void {\bfseries Marcar\+Como\+Devuelto} (int id)
+\begin{DoxyCompactList}\small\item\em Finaliza un alquiler devolviendo el producto al stock. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_services_1_1_alquiler_service_aa561088442a98a2ed8daccc8d068888e}\label{class_view_model_1_1_services_1_1_alquiler_service_aa561088442a98a2ed8daccc8d068888e} 
+void {\bfseries Eliminar\+Alquiler} (int id)
+\begin{DoxyCompactList}\small\item\em Elimina un registro de alquiler. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Descripción detallada}
+Servicio encargado de la lógica de negocio para la gestión de alquileres. Coordina las transacciones entre clientes y productos, validando fechas y disponibilidad de stock antes de confirmar el préstamo. 
+
+\label{doc-func-members}
+\Hypertarget{class_view_model_1_1_services_1_1_alquiler_service_doc-func-members}
+\doxysubsection{Documentación de funciones miembro}
+\Hypertarget{class_view_model_1_1_services_1_1_alquiler_service_a06b6b92422f084b453b75369e02ac004}\index{ViewModel.Services.AlquilerService@{ViewModel.Services.AlquilerService}!ObtenerActividadReciente@{ObtenerActividadReciente}}
+\index{ObtenerActividadReciente@{ObtenerActividadReciente}!ViewModel.Services.AlquilerService@{ViewModel.Services.AlquilerService}}
+\doxysubsubsection{\texorpdfstring{ObtenerActividadReciente()}{ObtenerActividadReciente()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_alquiler_service_a06b6b92422f084b453b75369e02ac004} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_alquileres}{Alquileres}} $>$ View\+Model.\+Services.\+Alquiler\+Service.\+Obtener\+Actividad\+Reciente (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Obtiene los últimos movimientos de alquiler realizados. 
+
+\begin{DoxyReturn}{Devuelve}
+Una lista con los 10 alquileres más recientes, incluyendo datos del cliente y el producto.
+\end{DoxyReturn}
+\Hypertarget{class_view_model_1_1_services_1_1_alquiler_service_a018d96b8395ddd8e8ba8b87eb5188708}\index{ViewModel.Services.AlquilerService@{ViewModel.Services.AlquilerService}!ObtenerAlquileresActivos@{ObtenerAlquileresActivos}}
+\index{ObtenerAlquileresActivos@{ObtenerAlquileresActivos}!ViewModel.Services.AlquilerService@{ViewModel.Services.AlquilerService}}
+\doxysubsubsection{\texorpdfstring{ObtenerAlquileresActivos()}{ObtenerAlquileresActivos()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_alquiler_service_a018d96b8395ddd8e8ba8b87eb5188708} 
+int View\+Model.\+Services.\+Alquiler\+Service.\+Obtener\+Alquileres\+Activos (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Calcula el número total de alquileres que aún están pendientes de devolución. 
+
+\begin{DoxyReturn}{Devuelve}
+Un número entero que representa la cantidad de alquileres sin fecha de devolución real.
+\end{DoxyReturn}
+\Hypertarget{class_view_model_1_1_services_1_1_alquiler_service_ac54166faa1f23ea5bbb9b5c3303625b4}\index{ViewModel.Services.AlquilerService@{ViewModel.Services.AlquilerService}!ObtenerTodos@{ObtenerTodos}}
+\index{ObtenerTodos@{ObtenerTodos}!ViewModel.Services.AlquilerService@{ViewModel.Services.AlquilerService}}
+\doxysubsubsection{\texorpdfstring{ObtenerTodos()}{ObtenerTodos()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_alquiler_service_ac54166faa1f23ea5bbb9b5c3303625b4} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_alquileres}{Alquileres}} $>$ View\+Model.\+Services.\+Alquiler\+Service.\+Obtener\+Todos (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Recupera el historial completo de alquileres registrados en el sistema. 
+
+\begin{DoxyReturn}{Devuelve}
+Una lista de objetos \doxylink{class_model_1_1_alquileres}{Alquileres} con sus relaciones cargadas.
+\end{DoxyReturn}
+\Hypertarget{class_view_model_1_1_services_1_1_alquiler_service_afbbdefb743b36ad56ddfdf4fb0fde892}\index{ViewModel.Services.AlquilerService@{ViewModel.Services.AlquilerService}!SeleccionarDatosRepo@{SeleccionarDatosRepo}}
+\index{SeleccionarDatosRepo@{SeleccionarDatosRepo}!ViewModel.Services.AlquilerService@{ViewModel.Services.AlquilerService}}
+\doxysubsubsection{\texorpdfstring{SeleccionarDatosRepo()}{SeleccionarDatosRepo()}}
+{\footnotesize\ttfamily \label{class_view_model_1_1_services_1_1_alquiler_service_afbbdefb743b36ad56ddfdf4fb0fde892} 
+IEnumerable$<$ object $>$ View\+Model.\+Services.\+Alquiler\+Service.\+Seleccionar\+Datos\+Repo (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Obtiene los datos procesados de préstamos desde el repositorio para su visualización en informes. 
+
+\begin{DoxyReturn}{Devuelve}
+Una colección de objetos que contiene la información detallada de los clientes y sus productos alquilados. 
+\end{DoxyReturn}
+
+
+La documentación de esta clase está generada del siguiente archivo:\+\begin{DoxyCompactItemize}
+\item 
+View\+Model/\+\+Services/\+Alquiler\+Service.\+cs\end{DoxyCompactItemize}

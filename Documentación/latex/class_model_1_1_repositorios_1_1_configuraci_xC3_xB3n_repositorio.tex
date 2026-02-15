@@ -1,0 +1,195 @@
+\doxysection{Referencia de la clase Model.\+Repositorios.\+Configuración\+Repositorio}
+\hypertarget{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio}{}\label{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio}\index{Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}}
+
+
+Repositorio encargado de las operaciones de persistencia para la configuración del sistema. Gestiona directamente el acceso a la base de datos para las entidades \doxylink{class_model_1_1_tarifas}{Tarifas} y Géneros utilizando Entity Framework.  
+
+
+\doxysubsubsection*{Métodos públicos}
+\begin{DoxyCompactItemize}
+\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_tarifas}{Tarifas}} $>$ \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_ae91e0e8227ec65914de7439233fbb5b8}{Obtener\+Tarifas}} ()
+\begin{DoxyCompactList}\small\item\em Obtiene la lista completa de tarifas registradas en el sistema. \end{DoxyCompactList}\item 
+bool \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a797e62067d0aab2ca782e5e719e70606}{Tarifa\+En\+Uso}} (int tarifa\+Id)
+\begin{DoxyCompactList}\small\item\em Comprueba si una tarifa específica está siendo utilizada por algún producto del catálogo. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a8c465f12283c1231c2051a71b8d38099}{Guardar\+Tarifa}} (\doxymbox{\hyperlink{class_model_1_1_tarifas}{Tarifas}} nueva)
+\begin{DoxyCompactList}\small\item\em Registra una nueva tarifa en la base de datos. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a1e6144b5aa27f1042897d2f6bcce9a86}{Actualizar\+Tarifa}} (\doxymbox{\hyperlink{class_model_1_1_tarifas}{Tarifas}} tarifa\+Editada)
+\begin{DoxyCompactList}\small\item\em Actualiza la información de una tarifa ya existente. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a18b6aadc15a7c60dbd6f617b7b489e0c}{Eliminar\+Tarifa}} (int id)
+\begin{DoxyCompactList}\small\item\em Elimina una tarifa de la base de datos de forma permanente. \end{DoxyCompactList}\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_generos}{Generos}} $>$ \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_ae9a8c65387de04a7770142b556653b2c}{Obtener\+Generos}} ()
+\begin{DoxyCompactList}\small\item\em Obtiene la lista completa de géneros registrados en el sistema. \end{DoxyCompactList}\item 
+bool \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_ac8f62829e11a62fc6db6020de2717db9}{Genero\+En\+Uso}} (int genero\+Id)
+\begin{DoxyCompactList}\small\item\em Verifica si un género está asignado a algún producto del catálogo. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a38c5a69040abe73b9e56dd197259874a}{Guardar\+Genero}} (\doxymbox{\hyperlink{class_model_1_1_generos}{Generos}} nuevo)
+\begin{DoxyCompactList}\small\item\em Registra un nuevo género en la base de datos. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a528f03822e02e4a9b12b8ed4070cc625}{Actualizar\+Genero}} (\doxymbox{\hyperlink{class_model_1_1_generos}{Generos}} genero\+Editado)
+\begin{DoxyCompactList}\small\item\em Actualiza la información de un género ya existente. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a6734fb82fe53696d84e410f42195ed15}{Eliminar\+Genero}} (int id)
+\begin{DoxyCompactList}\small\item\em Elimina un género de la base de datos de forma permanente. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Descripción detallada}
+Repositorio encargado de las operaciones de persistencia para la configuración del sistema. Gestiona directamente el acceso a la base de datos para las entidades \doxylink{class_model_1_1_tarifas}{Tarifas} y Géneros utilizando Entity Framework. 
+
+\label{doc-func-members}
+\Hypertarget{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_doc-func-members}
+\doxysubsection{Documentación de funciones miembro}
+\Hypertarget{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a528f03822e02e4a9b12b8ed4070cc625}\index{Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}!ActualizarGenero@{ActualizarGenero}}
+\index{ActualizarGenero@{ActualizarGenero}!Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}}
+\doxysubsubsection{\texorpdfstring{ActualizarGenero()}{ActualizarGenero()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a528f03822e02e4a9b12b8ed4070cc625} 
+void Model.\+Repositorios.\+Configuración\+Repositorio.\+Actualizar\+Genero (\begin{DoxyParamCaption}\item[{\doxymbox{\hyperlink{class_model_1_1_generos}{Generos}}}]{genero\+Editado}{}\end{DoxyParamCaption})}
+
+
+
+Actualiza la información de un género ya existente. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em genero\+Editado} & Objeto con el nombre actualizado.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a1e6144b5aa27f1042897d2f6bcce9a86}\index{Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}!ActualizarTarifa@{ActualizarTarifa}}
+\index{ActualizarTarifa@{ActualizarTarifa}!Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}}
+\doxysubsubsection{\texorpdfstring{ActualizarTarifa()}{ActualizarTarifa()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a1e6144b5aa27f1042897d2f6bcce9a86} 
+void Model.\+Repositorios.\+Configuración\+Repositorio.\+Actualizar\+Tarifa (\begin{DoxyParamCaption}\item[{\doxymbox{\hyperlink{class_model_1_1_tarifas}{Tarifas}}}]{tarifa\+Editada}{}\end{DoxyParamCaption})}
+
+
+
+Actualiza la información de una tarifa ya existente. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em tarifa\+Editada} & Objeto con los datos actualizados (Descripcion, Precio\+Dia).\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a6734fb82fe53696d84e410f42195ed15}\index{Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}!EliminarGenero@{EliminarGenero}}
+\index{EliminarGenero@{EliminarGenero}!Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}}
+\doxysubsubsection{\texorpdfstring{EliminarGenero()}{EliminarGenero()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a6734fb82fe53696d84e410f42195ed15} 
+void Model.\+Repositorios.\+Configuración\+Repositorio.\+Eliminar\+Genero (\begin{DoxyParamCaption}\item[{int}]{id}{}\end{DoxyParamCaption})}
+
+
+
+Elimina un género de la base de datos de forma permanente. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em id} & Identificador único del género a eliminar.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a18b6aadc15a7c60dbd6f617b7b489e0c}\index{Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}!EliminarTarifa@{EliminarTarifa}}
+\index{EliminarTarifa@{EliminarTarifa}!Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}}
+\doxysubsubsection{\texorpdfstring{EliminarTarifa()}{EliminarTarifa()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a18b6aadc15a7c60dbd6f617b7b489e0c} 
+void Model.\+Repositorios.\+Configuración\+Repositorio.\+Eliminar\+Tarifa (\begin{DoxyParamCaption}\item[{int}]{id}{}\end{DoxyParamCaption})}
+
+
+
+Elimina una tarifa de la base de datos de forma permanente. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em id} & Identificador único de la tarifa a eliminar.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_ac8f62829e11a62fc6db6020de2717db9}\index{Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}!GeneroEnUso@{GeneroEnUso}}
+\index{GeneroEnUso@{GeneroEnUso}!Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}}
+\doxysubsubsection{\texorpdfstring{GeneroEnUso()}{GeneroEnUso()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_ac8f62829e11a62fc6db6020de2717db9} 
+bool Model.\+Repositorios.\+Configuración\+Repositorio.\+Genero\+En\+Uso (\begin{DoxyParamCaption}\item[{int}]{genero\+Id}{}\end{DoxyParamCaption})}
+
+
+
+Verifica si un género está asignado a algún producto del catálogo. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em genero\+Id} & ID del género a comprobar.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Devuelve}
+True si existen productos de este género.
+\end{DoxyReturn}
+\Hypertarget{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a38c5a69040abe73b9e56dd197259874a}\index{Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}!GuardarGenero@{GuardarGenero}}
+\index{GuardarGenero@{GuardarGenero}!Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}}
+\doxysubsubsection{\texorpdfstring{GuardarGenero()}{GuardarGenero()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a38c5a69040abe73b9e56dd197259874a} 
+void Model.\+Repositorios.\+Configuración\+Repositorio.\+Guardar\+Genero (\begin{DoxyParamCaption}\item[{\doxymbox{\hyperlink{class_model_1_1_generos}{Generos}}}]{nuevo}{}\end{DoxyParamCaption})}
+
+
+
+Registra un nuevo género en la base de datos. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em nuevo} & Objeto con la información del género a insertar.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a8c465f12283c1231c2051a71b8d38099}\index{Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}!GuardarTarifa@{GuardarTarifa}}
+\index{GuardarTarifa@{GuardarTarifa}!Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}}
+\doxysubsubsection{\texorpdfstring{GuardarTarifa()}{GuardarTarifa()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a8c465f12283c1231c2051a71b8d38099} 
+void Model.\+Repositorios.\+Configuración\+Repositorio.\+Guardar\+Tarifa (\begin{DoxyParamCaption}\item[{\doxymbox{\hyperlink{class_model_1_1_tarifas}{Tarifas}}}]{nueva}{}\end{DoxyParamCaption})}
+
+
+
+Registra una nueva tarifa en la base de datos. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em nueva} & Objeto con la información de la tarifa a insertar.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_ae9a8c65387de04a7770142b556653b2c}\index{Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}!ObtenerGeneros@{ObtenerGeneros}}
+\index{ObtenerGeneros@{ObtenerGeneros}!Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}}
+\doxysubsubsection{\texorpdfstring{ObtenerGeneros()}{ObtenerGeneros()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_ae9a8c65387de04a7770142b556653b2c} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_generos}{Generos}} $>$ Model.\+Repositorios.\+Configuración\+Repositorio.\+Obtener\+Generos (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Obtiene la lista completa de géneros registrados en el sistema. 
+
+\begin{DoxyReturn}{Devuelve}
+Una lista de objetos de tipo \doxylink{class_model_1_1_generos}{Generos}.
+\end{DoxyReturn}
+\Hypertarget{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_ae91e0e8227ec65914de7439233fbb5b8}\index{Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}!ObtenerTarifas@{ObtenerTarifas}}
+\index{ObtenerTarifas@{ObtenerTarifas}!Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}}
+\doxysubsubsection{\texorpdfstring{ObtenerTarifas()}{ObtenerTarifas()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_ae91e0e8227ec65914de7439233fbb5b8} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_tarifas}{Tarifas}} $>$ Model.\+Repositorios.\+Configuración\+Repositorio.\+Obtener\+Tarifas (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Obtiene la lista completa de tarifas registradas en el sistema. 
+
+\begin{DoxyReturn}{Devuelve}
+Una lista de objetos de tipo \doxylink{class_model_1_1_tarifas}{Tarifas}.
+\end{DoxyReturn}
+\Hypertarget{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a797e62067d0aab2ca782e5e719e70606}\index{Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}!TarifaEnUso@{TarifaEnUso}}
+\index{TarifaEnUso@{TarifaEnUso}!Model.Repositorios.ConfiguraciónRepositorio@{Model.Repositorios.ConfiguraciónRepositorio}}
+\doxysubsubsection{\texorpdfstring{TarifaEnUso()}{TarifaEnUso()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_configuraci_xC3_xB3n_repositorio_a797e62067d0aab2ca782e5e719e70606} 
+bool Model.\+Repositorios.\+Configuración\+Repositorio.\+Tarifa\+En\+Uso (\begin{DoxyParamCaption}\item[{int}]{tarifa\+Id}{}\end{DoxyParamCaption})}
+
+
+
+Comprueba si una tarifa específica está siendo utilizada por algún producto del catálogo. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em tarifa\+Id} & ID de la tarifa a consultar.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Devuelve}
+True si hay productos con esta tarifa; False en caso contrario.
+\end{DoxyReturn}
+
+
+La documentación de esta clase está generada del siguiente archivo:\+\begin{DoxyCompactItemize}
+\item 
+Model/\+\+Repositorios/\+Configuración\+Repositorio.\+cs\end{DoxyCompactItemize}

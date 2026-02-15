@@ -1,0 +1,306 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=11"/>
+<meta name="generator" content="Doxygen 1.16.1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>VideoClub Miriam: Referencia de la clase ViewModel.Services.CatalogoService</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr id="projectrow">
+  <td id="projectlogo"><img alt="Logo" src="Logo1.ico"/></td>
+  <td id="projectalign">
+   <div id="projectname">VideoClub Miriam
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generado por Doxygen 1.16.1 -->
+<script type="text/javascript">
+$(function() { codefold.init(); });
+</script>
+<div id="main-nav">
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Página&#160;principal</span></a></li>
+      <li><a href="namespaces.html"><span>Paquetes</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Clases</span></a></li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="annotated.html"><span>Lista&#160;de&#160;clases</span></a></li>
+      <li><a href="classes.html"><span>Índice&#160;de&#160;clases</span></a></li>
+      <li><a href="hierarchy.html"><span>Jerarquía&#160;de&#160;clases</span></a></li>
+      <li><a href="functions.html"><span>Miembros&#160;de&#160;clases</span></a></li>
+    </ul>
+  </div>
+</div><!-- main-nav -->
+<div id="nav-path" class="navpath">
+  <ul>
+<li class="navelem"><a href="namespace_view_model.html">ViewModel</a></li><li class="navelem"><a href="namespace_view_model_1_1_services.html">Services</a></li><li class="navelem"><a href="class_view_model_1_1_services_1_1_catalogo_service.html">CatalogoService</a></li>  </ul>
+</div>
+</div><!-- top -->
+<div id="doc-content">
+<div class="header">
+  <div class="summary">
+<a href="#pub-methods">Métodos públicos</a> &#124;
+<a href="class_view_model_1_1_services_1_1_catalogo_service-members.html">Lista de todos los miembros</a>  </div>
+  <div class="headertitle"><div class="title">Referencia de la clase ViewModel.Services.CatalogoService</div></div>
+</div><!--header-->
+<div class="contents">
+
+<p>Servicio encargado de la lógica de negocio para el catálogo de productos. Gestiona las reglas de inventario antes de persistir los datos.  
+ <a href="#details">Más...</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 id="header-pub-methods" class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Métodos públicos</h2></td></tr>
+<tr class="memitem:ae943c3c229cfb90f3f8d079b64259a5a" id="r_ae943c3c229cfb90f3f8d079b64259a5a"><td class="memItemLeft">IEnumerable&lt; object &gt;&#160;</td><td class="memItemRight"><a class="el" href="#ae943c3c229cfb90f3f8d079b64259a5a">SeleccionarDatosRepo</a> ()</td></tr>
+<tr class="memdesc:ae943c3c229cfb90f3f8d079b64259a5a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Obtiene los datos procesados de los productos desde el repositorio para su visualización en informes.  <br /></td></tr>
+<tr class="memitem:ada7f68b3b2b60fda53c153b63d0dce58" id="r_ada7f68b3b2b60fda53c153b63d0dce58"><td class="memItemLeft">List&lt; <a class="el" href="class_model_1_1_productos.html">Productos</a> &gt;&#160;</td><td class="memItemRight"><a class="el" href="#ada7f68b3b2b60fda53c153b63d0dce58">ObtenerTodos</a> ()</td></tr>
+<tr class="memdesc:ada7f68b3b2b60fda53c153b63d0dce58"><td class="mdescLeft">&#160;</td><td class="mdescRight">Recupera todos los productos incluyendo sus relaciones (Género y Tarifa).  <br /></td></tr>
+<tr class="memitem:a104a5cb0cd5c317f688314842640e0a0" id="r_a104a5cb0cd5c317f688314842640e0a0"><td class="memItemLeft">List&lt; <a class="el" href="class_model_1_1_generos.html">Generos</a> &gt;&#160;</td><td class="memItemRight"><a class="el" href="#a104a5cb0cd5c317f688314842640e0a0">ObtenerGeneros</a> ()</td></tr>
+<tr class="memdesc:a104a5cb0cd5c317f688314842640e0a0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Obtiene la lista de géneros disponibles para asignar a los productos.  <br /></td></tr>
+<tr class="memitem:a02f1aeb644eb16dfff729903db661927" id="r_a02f1aeb644eb16dfff729903db661927"><td class="memItemLeft">List&lt; <a class="el" href="class_model_1_1_tarifas.html">Tarifas</a> &gt;&#160;</td><td class="memItemRight"><a class="el" href="#a02f1aeb644eb16dfff729903db661927">ObtenerTarifas</a> ()</td></tr>
+<tr class="memdesc:a02f1aeb644eb16dfff729903db661927"><td class="mdescLeft">&#160;</td><td class="mdescRight">Obtiene la lista de tarifas disponibles para asignar a los productos.  <br /></td></tr>
+<tr class="memitem:a51a056ceddadcad1f6122ee7130f7582" id="r_a51a056ceddadcad1f6122ee7130f7582"><td class="memItemLeft">int&#160;</td><td class="memItemRight"><a class="el" href="#a51a056ceddadcad1f6122ee7130f7582">ObtenerStockBajo</a> ()</td></tr>
+<tr class="memdesc:a51a056ceddadcad1f6122ee7130f7582"><td class="mdescLeft">&#160;</td><td class="mdescRight">Devuelve el número de productos con stock crítico (menor o igual a 2).  <br /></td></tr>
+<tr class="memitem:a725a6d3e5bf7e14aaf7fd43fc52448b0" id="r_a725a6d3e5bf7e14aaf7fd43fc52448b0"><td class="memItemLeft">int&#160;</td><td class="memItemRight"><a class="el" href="#a725a6d3e5bf7e14aaf7fd43fc52448b0">ObtenerTotalProductos</a> ()</td></tr>
+<tr class="memdesc:a725a6d3e5bf7e14aaf7fd43fc52448b0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Devuelve el total de productos.  <br /></td></tr>
+<tr class="memitem:a184c831646ec8bfc77e9f25c384beb17" id="r_a184c831646ec8bfc77e9f25c384beb17"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a184c831646ec8bfc77e9f25c384beb17">Guardar</a> (<a class="el" href="class_model_1_1_productos.html">Productos</a> nuevo)</td></tr>
+<tr class="memdesc:a184c831646ec8bfc77e9f25c384beb17"><td class="mdescLeft">&#160;</td><td class="mdescRight">Valida y guarda un nuevo producto en el catálogo.  <br /></td></tr>
+<tr class="memitem:ad0c6fa3d0d5e32763a1d23c2b087c4e4" id="r_ad0c6fa3d0d5e32763a1d23c2b087c4e4"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#ad0c6fa3d0d5e32763a1d23c2b087c4e4">Actualizar</a> (<a class="el" href="class_model_1_1_productos.html">Productos</a> editado)</td></tr>
+<tr class="memdesc:ad0c6fa3d0d5e32763a1d23c2b087c4e4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Actualiza los datos de un producto existente.  <br /></td></tr>
+<tr class="memitem:a4b24214340c81c939f6293431ddbc320" id="r_a4b24214340c81c939f6293431ddbc320"><td class="memItemLeft">void&#160;</td><td class="memItemRight"><a class="el" href="#a4b24214340c81c939f6293431ddbc320">Eliminar</a> (int id)</td></tr>
+<tr class="memdesc:a4b24214340c81c939f6293431ddbc320"><td class="mdescLeft">&#160;</td><td class="mdescRight">Elimina un producto del catálogo.  <br /></td></tr>
+<tr class="memitem:a29c5a9dd0f4c529b22c6b2e35fdfe05b" id="r_a29c5a9dd0f4c529b22c6b2e35fdfe05b"><td class="memItemLeft"><a id="a29c5a9dd0f4c529b22c6b2e35fdfe05b" name="a29c5a9dd0f4c529b22c6b2e35fdfe05b"></a>
+bool&#160;</td><td class="memItemRight"><b>ValidarTitulo</b> (string titulo)</td></tr>
+<tr class="memdesc:a29c5a9dd0f4c529b22c6b2e35fdfe05b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Valida que el título del producto no sea nulo ni vacío. <br /></td></tr>
+<tr class="memitem:a68f73497db92eaac34e18098fdc5c6c2" id="r_a68f73497db92eaac34e18098fdc5c6c2"><td class="memItemLeft"><a id="a68f73497db92eaac34e18098fdc5c6c2" name="a68f73497db92eaac34e18098fdc5c6c2"></a>
+bool&#160;</td><td class="memItemRight"><b>ValidarStock</b> (int stock)</td></tr>
+<tr class="memdesc:a68f73497db92eaac34e18098fdc5c6c2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Verifica que el stock sea un valor positivo o cero. <br /></td></tr>
+<tr class="memitem:a0d5cedeef70d68be4f3b53eedf06a95a" id="r_a0d5cedeef70d68be4f3b53eedf06a95a"><td class="memItemLeft"><a id="a0d5cedeef70d68be4f3b53eedf06a95a" name="a0d5cedeef70d68be4f3b53eedf06a95a"></a>
+bool&#160;</td><td class="memItemRight"><b>ValidarRelacionId</b> (int id)</td></tr>
+<tr class="memdesc:a0d5cedeef70d68be4f3b53eedf06a95a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Comprueba que se haya seleccionado una relación válida (Género o Tarifa). <br /></td></tr>
+</table>
+<a name="details" id="details"></a><h2 id="header-details" class="groupheader">Descripción detallada</h2>
+<div class="textblock"><p>Servicio encargado de la lógica de negocio para el catálogo de productos. Gestiona las reglas de inventario antes de persistir los datos. </p>
+</div><a name="doc-func-members" id="doc-func-members"></a><h2 id="header-doc-func-members" class="groupheader">Documentación de funciones miembro</h2>
+<a id="ad0c6fa3d0d5e32763a1d23c2b087c4e4" name="ad0c6fa3d0d5e32763a1d23c2b087c4e4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0c6fa3d0d5e32763a1d23c2b087c4e4">&#9670;&#160;</a></span>Actualizar()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ViewModel.Services.CatalogoService.Actualizar </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_model_1_1_productos.html">Productos</a></td>          <td class="paramname"><span class="paramname"><em>editado</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Actualiza los datos de un producto existente. </p>
+<dl class="params"><dt>Parámetros</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">editado</td><td>Producto con cambios.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a4b24214340c81c939f6293431ddbc320" name="a4b24214340c81c939f6293431ddbc320"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4b24214340c81c939f6293431ddbc320">&#9670;&#160;</a></span>Eliminar()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ViewModel.Services.CatalogoService.Eliminar </td>
+          <td>(</td>
+          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>id</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Elimina un producto del catálogo. </p>
+<dl class="params"><dt>Parámetros</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">id</td><td>ID del producto.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a184c831646ec8bfc77e9f25c384beb17" name="a184c831646ec8bfc77e9f25c384beb17"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a184c831646ec8bfc77e9f25c384beb17">&#9670;&#160;</a></span>Guardar()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ViewModel.Services.CatalogoService.Guardar </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_model_1_1_productos.html">Productos</a></td>          <td class="paramname"><span class="paramname"><em>nuevo</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Valida y guarda un nuevo producto en el catálogo. </p>
+<dl class="params"><dt>Parámetros</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">nuevo</td><td>Producto a registrar.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a104a5cb0cd5c317f688314842640e0a0" name="a104a5cb0cd5c317f688314842640e0a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a104a5cb0cd5c317f688314842640e0a0">&#9670;&#160;</a></span>ObtenerGeneros()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">List&lt; <a class="el" href="class_model_1_1_generos.html">Generos</a> &gt; ViewModel.Services.CatalogoService.ObtenerGeneros </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Obtiene la lista de géneros disponibles para asignar a los productos. </p>
+<dl class="section return"><dt>Devuelve</dt><dd>Colección completa de la tabla <a class="el" href="class_model_1_1_generos.html">Generos</a>.</dd></dl>
+
+</div>
+</div>
+<a id="a51a056ceddadcad1f6122ee7130f7582" name="a51a056ceddadcad1f6122ee7130f7582"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a51a056ceddadcad1f6122ee7130f7582">&#9670;&#160;</a></span>ObtenerStockBajo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int ViewModel.Services.CatalogoService.ObtenerStockBajo </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Devuelve el número de productos con stock crítico (menor o igual a 2). </p>
+<dl class="section return"><dt>Devuelve</dt><dd>Un número entero que indica cuántos productos requieren reposición inmediata.</dd></dl>
+
+</div>
+</div>
+<a id="a02f1aeb644eb16dfff729903db661927" name="a02f1aeb644eb16dfff729903db661927"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a02f1aeb644eb16dfff729903db661927">&#9670;&#160;</a></span>ObtenerTarifas()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">List&lt; <a class="el" href="class_model_1_1_tarifas.html">Tarifas</a> &gt; ViewModel.Services.CatalogoService.ObtenerTarifas </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Obtiene la lista de tarifas disponibles para asignar a los productos. </p>
+<p>/// </p><dl class="section return"><dt>Devuelve</dt><dd>Colección completa de la tabla <a class="el" href="class_model_1_1_tarifas.html">Tarifas</a>.</dd></dl>
+
+</div>
+</div>
+<a id="ada7f68b3b2b60fda53c153b63d0dce58" name="ada7f68b3b2b60fda53c153b63d0dce58"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ada7f68b3b2b60fda53c153b63d0dce58">&#9670;&#160;</a></span>ObtenerTodos()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">List&lt; <a class="el" href="class_model_1_1_productos.html">Productos</a> &gt; ViewModel.Services.CatalogoService.ObtenerTodos </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Recupera todos los productos incluyendo sus relaciones (Género y Tarifa). </p>
+<dl class="section return"><dt>Devuelve</dt><dd>Una lista de objetos <a class="el" href="class_model_1_1_productos.html">Productos</a> con sus datos maestros cargados.</dd></dl>
+
+</div>
+</div>
+<a id="a725a6d3e5bf7e14aaf7fd43fc52448b0" name="a725a6d3e5bf7e14aaf7fd43fc52448b0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a725a6d3e5bf7e14aaf7fd43fc52448b0">&#9670;&#160;</a></span>ObtenerTotalProductos()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int ViewModel.Services.CatalogoService.ObtenerTotalProductos </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Devuelve el total de productos. </p>
+<dl class="section return"><dt>Devuelve</dt><dd>La cantidad total de registros en la tabla de productos.</dd></dl>
+
+</div>
+</div>
+<a id="ae943c3c229cfb90f3f8d079b64259a5a" name="ae943c3c229cfb90f3f8d079b64259a5a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae943c3c229cfb90f3f8d079b64259a5a">&#9670;&#160;</a></span>SeleccionarDatosRepo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">IEnumerable&lt; object &gt; ViewModel.Services.CatalogoService.SeleccionarDatosRepo </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Obtiene los datos procesados de los productos desde el repositorio para su visualización en informes. </p>
+<dl class="section return"><dt>Devuelve</dt><dd>Una colección de objetos que contiene la información detallada de los productos. </dd></dl>
+
+</div>
+</div>
+<hr/>La documentación de esta clase está generada del siguiente archivo:<ul>
+<li>ViewModel/Services/<b>CatalogoService.cs</b></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Generado por&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.16.1
+</small></address>
+</div><!-- doc-content -->
+</body>
+</html>

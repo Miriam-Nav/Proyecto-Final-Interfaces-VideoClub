@@ -1,0 +1,110 @@
+\doxysection{Referencia de la clase Model.\+Repositorios.\+Alquiler\+Repositorio}
+\hypertarget{class_model_1_1_repositorios_1_1_alquiler_repositorio}{}\label{class_model_1_1_repositorios_1_1_alquiler_repositorio}\index{Model.Repositorios.AlquilerRepositorio@{Model.Repositorios.AlquilerRepositorio}}
+
+
+Repositorio encargado de las operaciones de persistencia para la gestión de alquileres. Administra las transacciones de préstamo y devolución, coordinando la relación entre clientes y productos, y asegurando la integridad del stock durante cada operación.  
+
+
+\doxysubsubsection*{Métodos públicos}
+\begin{DoxyCompactItemize}
+\item 
+IEnumerable$<$ object $>$ \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_alquiler_repositorio_a6a871303a50f0aaca508a2ce00425efd}{Datos\+Repo}} ()
+\begin{DoxyCompactList}\small\item\em Realiza una consulta proyectada a la base de datos para extraer la información necesaria del informe. \end{DoxyCompactList}\item 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_alquileres}{Alquileres}} $>$ \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_alquiler_repositorio_ae9c93f3f4da47af7c295b155292d6e56}{Obtener\+Todos}} ()
+\begin{DoxyCompactList}\small\item\em Obtiene el historial completo de alquileres, incluyendo datos de clientes y productos. \end{DoxyCompactList}\item 
+\Hypertarget{class_model_1_1_repositorios_1_1_alquiler_repositorio_a4b6d003bca7895db3e8f37a99c5ed59a}\label{class_model_1_1_repositorios_1_1_alquiler_repositorio_a4b6d003bca7895db3e8f37a99c5ed59a} 
+int {\bfseries Obtener\+Alquileres\+Activos} ()
+\begin{DoxyCompactList}\small\item\em Obtiene el conteo de alquileres que aún no tienen fecha de devolución real. \end{DoxyCompactList}\item 
+\Hypertarget{class_model_1_1_repositorios_1_1_alquiler_repositorio_ab47a31783ff495f9b3fab9b40f3ab1c2}\label{class_model_1_1_repositorios_1_1_alquiler_repositorio_ab47a31783ff495f9b3fab9b40f3ab1c2} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_alquileres}{Alquileres}} $>$ {\bfseries Obtener\+Actividad\+Reciente} ()
+\begin{DoxyCompactList}\small\item\em Obtiene los 10 últimos alquileres realizados. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_alquiler_repositorio_adb070211ac94eb9b35ad8a86f1ccf537}{Guardar\+Alquiler}} (\doxymbox{\hyperlink{class_model_1_1_alquileres}{Alquileres}} nuevo)
+\begin{DoxyCompactList}\small\item\em Registra un nuevo alquiler, calcula el precio y reduce el stock del producto. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_alquiler_repositorio_afa36d25706df0348bc2d1e9e754a13fd}{Marcar\+Como\+Devuelto}} (int alquiler\+Id)
+\begin{DoxyCompactList}\small\item\em Procesa la devolución de un producto, marcándolo como entregado y reponiendo el stock. \end{DoxyCompactList}\item 
+void \doxymbox{\hyperlink{class_model_1_1_repositorios_1_1_alquiler_repositorio_a3df6656d01c6ab493f900726add37379}{Eliminar}} (int id)
+\begin{DoxyCompactList}\small\item\em Elimina un registro de alquiler de la base de datos. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Descripción detallada}
+Repositorio encargado de las operaciones de persistencia para la gestión de alquileres. Administra las transacciones de préstamo y devolución, coordinando la relación entre clientes y productos, y asegurando la integridad del stock durante cada operación. 
+
+\label{doc-func-members}
+\Hypertarget{class_model_1_1_repositorios_1_1_alquiler_repositorio_doc-func-members}
+\doxysubsection{Documentación de funciones miembro}
+\Hypertarget{class_model_1_1_repositorios_1_1_alquiler_repositorio_a6a871303a50f0aaca508a2ce00425efd}\index{Model.Repositorios.AlquilerRepositorio@{Model.Repositorios.AlquilerRepositorio}!DatosRepo@{DatosRepo}}
+\index{DatosRepo@{DatosRepo}!Model.Repositorios.AlquilerRepositorio@{Model.Repositorios.AlquilerRepositorio}}
+\doxysubsubsection{\texorpdfstring{DatosRepo()}{DatosRepo()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_alquiler_repositorio_a6a871303a50f0aaca508a2ce00425efd} 
+IEnumerable$<$ object $>$ Model.\+Repositorios.\+Alquiler\+Repositorio.\+Datos\+Repo (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Realiza una consulta proyectada a la base de datos para extraer la información necesaria del informe. 
+
+\begin{DoxyReturn}{Devuelve}
+Una lista de objetos anónimos con los datos de alquileres, productos y clientes. 
+\end{DoxyReturn}
+\Hypertarget{class_model_1_1_repositorios_1_1_alquiler_repositorio_a3df6656d01c6ab493f900726add37379}\index{Model.Repositorios.AlquilerRepositorio@{Model.Repositorios.AlquilerRepositorio}!Eliminar@{Eliminar}}
+\index{Eliminar@{Eliminar}!Model.Repositorios.AlquilerRepositorio@{Model.Repositorios.AlquilerRepositorio}}
+\doxysubsubsection{\texorpdfstring{Eliminar()}{Eliminar()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_alquiler_repositorio_a3df6656d01c6ab493f900726add37379} 
+void Model.\+Repositorios.\+Alquiler\+Repositorio.\+Eliminar (\begin{DoxyParamCaption}\item[{int}]{id}{}\end{DoxyParamCaption})}
+
+
+
+Elimina un registro de alquiler de la base de datos. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em id} & ID del alquiler a eliminar.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_model_1_1_repositorios_1_1_alquiler_repositorio_adb070211ac94eb9b35ad8a86f1ccf537}\index{Model.Repositorios.AlquilerRepositorio@{Model.Repositorios.AlquilerRepositorio}!GuardarAlquiler@{GuardarAlquiler}}
+\index{GuardarAlquiler@{GuardarAlquiler}!Model.Repositorios.AlquilerRepositorio@{Model.Repositorios.AlquilerRepositorio}}
+\doxysubsubsection{\texorpdfstring{GuardarAlquiler()}{GuardarAlquiler()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_alquiler_repositorio_adb070211ac94eb9b35ad8a86f1ccf537} 
+void Model.\+Repositorios.\+Alquiler\+Repositorio.\+Guardar\+Alquiler (\begin{DoxyParamCaption}\item[{\doxymbox{\hyperlink{class_model_1_1_alquileres}{Alquileres}}}]{nuevo}{}\end{DoxyParamCaption})}
+
+
+
+Registra un nuevo alquiler, calcula el precio y reduce el stock del producto. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em nuevo} & Objeto con los datos básicos del alquiler.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_model_1_1_repositorios_1_1_alquiler_repositorio_afa36d25706df0348bc2d1e9e754a13fd}\index{Model.Repositorios.AlquilerRepositorio@{Model.Repositorios.AlquilerRepositorio}!MarcarComoDevuelto@{MarcarComoDevuelto}}
+\index{MarcarComoDevuelto@{MarcarComoDevuelto}!Model.Repositorios.AlquilerRepositorio@{Model.Repositorios.AlquilerRepositorio}}
+\doxysubsubsection{\texorpdfstring{MarcarComoDevuelto()}{MarcarComoDevuelto()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_alquiler_repositorio_afa36d25706df0348bc2d1e9e754a13fd} 
+void Model.\+Repositorios.\+Alquiler\+Repositorio.\+Marcar\+Como\+Devuelto (\begin{DoxyParamCaption}\item[{int}]{alquiler\+Id}{}\end{DoxyParamCaption})}
+
+
+
+Procesa la devolución de un producto, marcándolo como entregado y reponiendo el stock. 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em alquiler\+Id} & ID del registro de alquiler a cerrar.\\
+\hline
+\end{DoxyParams}
+\Hypertarget{class_model_1_1_repositorios_1_1_alquiler_repositorio_ae9c93f3f4da47af7c295b155292d6e56}\index{Model.Repositorios.AlquilerRepositorio@{Model.Repositorios.AlquilerRepositorio}!ObtenerTodos@{ObtenerTodos}}
+\index{ObtenerTodos@{ObtenerTodos}!Model.Repositorios.AlquilerRepositorio@{Model.Repositorios.AlquilerRepositorio}}
+\doxysubsubsection{\texorpdfstring{ObtenerTodos()}{ObtenerTodos()}}
+{\footnotesize\ttfamily \label{class_model_1_1_repositorios_1_1_alquiler_repositorio_ae9c93f3f4da47af7c295b155292d6e56} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_alquileres}{Alquileres}} $>$ Model.\+Repositorios.\+Alquiler\+Repositorio.\+Obtener\+Todos (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+Obtiene el historial completo de alquileres, incluyendo datos de clientes y productos. 
+
+\begin{DoxyReturn}{Devuelve}
+Lista de alquileres con sus relaciones cargadas.
+\end{DoxyReturn}
+
+
+La documentación de esta clase está generada del siguiente archivo:\+\begin{DoxyCompactItemize}
+\item 
+Model/\+\+Repositorios/\+Alquiler\+Repositorio.\+cs\end{DoxyCompactItemize}

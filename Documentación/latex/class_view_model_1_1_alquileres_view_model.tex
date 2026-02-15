@@ -1,0 +1,87 @@
+\doxysection{Referencia de la clase View\+Model.\+Alquileres\+View\+Model}
+\hypertarget{class_view_model_1_1_alquileres_view_model}{}\label{class_view_model_1_1_alquileres_view_model}\index{ViewModel.AlquileresViewModel@{ViewModel.AlquileresViewModel}}
+
+
+\doxylink{namespace_view_model}{View\+Model} para la gestión de alquileres. Controla el registro de nuevos alquileres, devoluciones y el historial de transacciones de los clientes.  
+
+
+Diagrama de herencia de View\+Model.\+Alquileres\+View\+Model\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_view_model_1_1_alquileres_view_model}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Métodos públicos}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_afc5111d44f6de18d77427172f6592a4a}\label{class_view_model_1_1_alquileres_view_model_afc5111d44f6de18d77427172f6592a4a} 
+{\bfseries Alquileres\+View\+Model} ()
+\begin{DoxyCompactList}\small\item\em Constructor del \doxylink{namespace_view_model}{View\+Model}. Inicializa comandos y carga la información inicial de clientes y productos. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Métodos protegidos}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_a5889720643e1e3432f0b5e7d66802924}\label{class_view_model_1_1_alquileres_view_model_a5889720643e1e3432f0b5e7d66802924} 
+void {\bfseries On\+Property\+Changed} (string name)
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Propiedades}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_a65d1bc02f37a2582c59fd71ee42a90fe}\label{class_view_model_1_1_alquileres_view_model_a65d1bc02f37a2582c59fd71ee42a90fe} 
+List$<$ Alquileres $>$ {\bfseries Alquileres}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Lista completa del historial de alquileres. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_a9335fa051f5370e9f928d9a603953383}\label{class_view_model_1_1_alquileres_view_model_a9335fa051f5370e9f928d9a603953383} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}} $>$ {\bfseries Lista\+Clientes}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Lista de clientes registrados para el Combo\+Box. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_a6db266e356e1a11c929eec865b3c40f9}\label{class_view_model_1_1_alquileres_view_model_a6db266e356e1a11c929eec865b3c40f9} 
+List$<$ \doxymbox{\hyperlink{class_model_1_1_productos}{Productos}} $>$ {\bfseries Lista\+Productos\+Disponibles}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Lista de productos con stock disponible para alquilar. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_ac0c9641e83744ffe40a7008c9dba52b0}\label{class_view_model_1_1_alquileres_view_model_ac0c9641e83744ffe40a7008c9dba52b0} 
+\doxymbox{\hyperlink{class_model_1_1_clientes}{Clientes}} {\bfseries Cliente\+Seleccionado}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Cliente seleccionado para realizar un nuevo alquiler. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_ac20ea4f79127b3db0740ac799ccbfbff}\label{class_view_model_1_1_alquileres_view_model_ac20ea4f79127b3db0740ac799ccbfbff} 
+\doxymbox{\hyperlink{class_model_1_1_productos}{Productos}} {\bfseries Producto\+Seleccionado}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Producto seleccionado para realizar un nuevo alquiler. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_a0f6d88f54ce76d1dc5667f069ffe333a}\label{class_view_model_1_1_alquileres_view_model_a0f6d88f54ce76d1dc5667f069ffe333a} 
+Date\+Time? {\bfseries Fecha\+Devolucion\+Prevista}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Fecha en la que se espera que el cliente devuelva el producto. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_afa9d5ee7bc8c6ee868f54fd9d97ec605}\label{class_view_model_1_1_alquileres_view_model_afa9d5ee7bc8c6ee868f54fd9d97ec605} 
+\doxymbox{\hyperlink{class_view_model_1_1_alquileres_view_model_a65d1bc02f37a2582c59fd71ee42a90fe}{Alquileres}} {\bfseries Alquiler\+Seleccionado}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\begin{DoxyCompactList}\small\item\em Alquiler seleccionado en la tabla para registrar devolución o imprimir. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_aefd5b7563f40b1e63a563c69148e597c}\label{class_view_model_1_1_alquileres_view_model_aefd5b7563f40b1e63a563c69148e597c} 
+string {\bfseries Error\+Cliente}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_ac431c21fcba02711140ef9d44024de29}\label{class_view_model_1_1_alquileres_view_model_ac431c21fcba02711140ef9d44024de29} 
+string {\bfseries Error\+Producto}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_ac5a929bf8f02ff41bbf4dfbb2b34832e}\label{class_view_model_1_1_alquileres_view_model_ac5a929bf8f02ff41bbf4dfbb2b34832e} 
+string {\bfseries Error\+Fecha}\hspace{0.3cm}{\ttfamily  \+[get, set]\+}
+\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_a6dfff5264faccd2d1673a0046f4655a2}\label{class_view_model_1_1_alquileres_view_model_a6dfff5264faccd2d1673a0046f4655a2} 
+ICommand {\bfseries Alquilar\+Command}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Comando para registrar un nuevo alquiler en el sistema. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_ab85a023edb5bd908e0bf6d7f06b1ce5d}\label{class_view_model_1_1_alquileres_view_model_ab85a023edb5bd908e0bf6d7f06b1ce5d} 
+ICommand {\bfseries Devolver\+Command}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Comando para procesar la devolución de un producto alquilado. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_a8e6e878e1de711f066d5f73c2809b48a}\label{class_view_model_1_1_alquileres_view_model_a8e6e878e1de711f066d5f73c2809b48a} 
+ICommand {\bfseries Eliminar\+Command}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Comando para eliminar el registro de un producto alquilado. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_a50efbe2888c4b48f6405ed080bbd2749}\label{class_view_model_1_1_alquileres_view_model_a50efbe2888c4b48f6405ed080bbd2749} 
+ICommand {\bfseries Limpiar\+Command}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Comando para limpiar los campos de selección del formulario. \end{DoxyCompactList}\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_a585d791a9f39f8822b235eb25723dd50}\label{class_view_model_1_1_alquileres_view_model_a585d791a9f39f8822b235eb25723dd50} 
+ICommand {\bfseries Generar\+Informe\+Command}\hspace{0.3cm}{\ttfamily  \+[get]\+}
+\begin{DoxyCompactList}\small\item\em Comando para generar el reporte de alquileres. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsubsection*{Eventos}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_view_model_1_1_alquileres_view_model_a63e2a3b518fb7dda7199b656f0236ce6}\label{class_view_model_1_1_alquileres_view_model_a63e2a3b518fb7dda7199b656f0236ce6} 
+Property\+Changed\+Event\+Handler {\bfseries Property\+Changed}
+\begin{DoxyCompactList}\small\item\em Evento para notificar cambios en las propiedades a la Vista. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Descripción detallada}
+\doxylink{namespace_view_model}{View\+Model} para la gestión de alquileres. Controla el registro de nuevos alquileres, devoluciones y el historial de transacciones de los clientes. 
+
+La documentación de esta clase está generada del siguiente archivo:\+\begin{DoxyCompactItemize}
+\item 
+View\+Model/\+Alquileres\+View\+Model.\+cs\end{DoxyCompactItemize}

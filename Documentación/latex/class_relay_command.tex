@@ -1,0 +1,45 @@
+\doxysection{Referencia de la clase Relay\+Command}
+\hypertarget{class_relay_command}{}\label{class_relay_command}\index{RelayCommand@{RelayCommand}}
+
+
+Implementación reutilizable de ICommand para enlazar acciones del \doxylink{namespace_view_model}{View\+Model} con la Vista.  
+
+
+Diagrama de herencia de Relay\+Command\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_relay_command}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Métodos públicos}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_relay_command_acb897734c20bbaf32e8b2222f669b332}\label{class_relay_command_acb897734c20bbaf32e8b2222f669b332} 
+{\bfseries Relay\+Command} (Action execute, Func$<$ bool $>$ can\+Execute=null)
+\item 
+\Hypertarget{class_relay_command_a4550a344e1e9d3589eaf37cf4a1ba7a7}\label{class_relay_command_a4550a344e1e9d3589eaf37cf4a1ba7a7} 
+bool {\bfseries Can\+Execute} (object parameter)
+\item 
+\Hypertarget{class_relay_command_a62136b7eca4542b47e874b3de97c4657}\label{class_relay_command_a62136b7eca4542b47e874b3de97c4657} 
+void {\bfseries Execute} (object parameter)
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Eventos}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{class_relay_command_a70399f94d9c09f56d569f712aca8adbb}\label{class_relay_command_a70399f94d9c09f56d569f712aca8adbb} 
+Event\+Handler {\bfseries Can\+Execute\+Changed}\hspace{0.3cm}{\ttfamily  \+[add, remove]\+}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Descripción detallada}
+Implementación reutilizable de ICommand para enlazar acciones del \doxylink{namespace_view_model}{View\+Model} con la Vista. 
+
+
+\begin{DoxyItemize}
+\item \+\_\+execute:\+ acción a ejecutar cuando el comando se invoca.
+\item \+\_\+can\+Execute:\+ función opcional que determina si el comando puede ejecutarse. 
+\end{DoxyItemize}
+
+La documentación de esta clase está generada del siguiente archivo:\+\begin{DoxyCompactItemize}
+\item 
+View\+Model/\+command/\+Relay\+Command.\+cs\end{DoxyCompactItemize}

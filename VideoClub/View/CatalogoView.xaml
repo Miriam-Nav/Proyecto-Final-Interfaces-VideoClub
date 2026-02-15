@@ -1,0 +1,114 @@
+﻿<Window x:Class="View.CatalogoView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:View"
+        mc:Ignorable="d"
+        Title="Gestión de Catálogo - VideoClub" 
+        Height="680" Width="1150"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.Background>
+        <LinearGradientBrush StartPoint="0,1" EndPoint="0,0">
+            <GradientStop Color="#E3FFCC" Offset="0"/>
+            <GradientStop Color="#FFFFFF" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Estilos.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="55"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Border Style="{StaticResource BarraSup}">
+            <DockPanel>
+                <TextBlock Text="Inventario de Películas y Juegos" Style="{StaticResource TituloBarraStyle}" DockPanel.Dock="Left"/>
+            </DockPanel>
+        </Border>
+
+        <Grid Grid.Row="1" Margin="0,20,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="380"/>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Border Grid.Column="0" Style="{StaticResource TarjetaStyle}">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel Margin="5">
+                        <TextBlock Text="Información del Producto" Style="{StaticResource TituloTarjetaStyle}"/>
+
+                        <TextBlock Text="Título del Producto" Style="{StaticResource LabelStyle}"/>
+                        <TextBox Text="{Binding InputTitulo, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource TextBoxStyle}"/>
+                        <TextBlock Text="{Binding ErrorTitulo}" Style="{StaticResource ErrorMensajeStyle}"/>
+
+                        <TextBlock Text="Género" Style="{StaticResource LabelStyle}" Margin="0,15,0,0"/>
+                        <ComboBox ItemsSource="{Binding Generos}" 
+                                  SelectedItem="{Binding GeneroSeleccionado}"
+                                  DisplayMemberPath="Nombre"
+                                  Style="{StaticResource ComboBoxStyle}"/>
+
+                        <TextBlock Text="Tipo de Tarifa" Style="{StaticResource LabelStyle}" Margin="0,15,0,0"/>
+                        <ComboBox ItemsSource="{Binding Tarifas}" 
+                                  SelectedItem="{Binding TarifaSeleccionada}"
+                                  DisplayMemberPath="Descripcion"
+                                  Style="{StaticResource ComboBoxStyle}"/>
+
+                        <TextBlock Text="Tipo de Producto" Style="{StaticResource LabelStyle}" Margin="0,15,0,0"/>
+                        <StackPanel Orientation="Horizontal" Margin="0,5,0,10">
+                            <RadioButton Content="Película" IsChecked="{Binding EsPelicula}" GroupName="TipoProducto" Style="{StaticResource RadioButtonStyle}"/>
+                            <RadioButton Content="Juego" IsChecked="{Binding EsJuego}" GroupName="TipoProducto" Style="{StaticResource RadioButtonStyle}"/>
+                        </StackPanel>
+
+                        <TextBlock Text="Unidades en Stock" Style="{StaticResource LabelStyle}" Margin="0,15,0,0"/>
+                        <TextBox Text="{Binding InputStock, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource TextBoxStyle}"/>
+                        <TextBlock Text="{Binding ErrorStock}" Style="{StaticResource ErrorMensajeStyle}"/>
+
+                        <StackPanel Margin="0,30,0,0">
+                            <Button Content="Añadir al Catálogo" Command="{Binding CrearCommand}" Style="{StaticResource PrimaryButtonStyle}"/>
+                            <Button Content="Modificar Producto" Command="{Binding ModificarCommand}" Style="{StaticResource PrimaryButtonStyle}"/>
+                            <Button Content="Retirar Producto" Command="{Binding EliminarCommand}" Style="{StaticResource PrimaryButtonStyle}"/>
+                            <Button Content="Limpiar Formulario" Command="{Binding LimpiarCommand}" Style="{StaticResource LimpiarButtonStyle}"/>
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </Border>
+
+            <Border Grid.Column="2" Style="{StaticResource ListaStyle}">
+                <Grid Margin="15">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <DataGrid ItemsSource="{Binding Productos}" 
+                              SelectedItem="{Binding ProductoSeleccionado}" 
+                              Style="{StaticResource DataGridStyle}">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="50"/>
+                            <DataGridTextColumn Header="Título" Binding="{Binding Titulo}" Width="*"/>
+                            <DataGridTextColumn Header="Tipo" Binding="{Binding Tipo}" Width="100"/>
+                            <DataGridTextColumn Header="Género" Binding="{Binding Generos.Nombre}" Width="120"/>
+                            <DataGridTextColumn Header="Precio/Día" Binding="{Binding Tarifas.PrecioDia, StringFormat={}{0:N2} €}" Width="100"/>
+                            <DataGridTextColumn Header="Stock" Binding="{Binding Stock}" Width="80"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,15,0,0">
+                        <Button Content="Generar Informe de Productos" Command="{Binding GenerarInformeCommand}" Style="{StaticResource PrimaryButtonStyle}" Width="200" Margin="5"/>
+                    </StackPanel>
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>
