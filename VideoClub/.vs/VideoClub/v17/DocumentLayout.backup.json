@@ -6,28 +6,20 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|View||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF11634C-9419-4AF2-B404-50142104C446}|View\\View.csproj|c:\\users\\miriam\\desktop\\desarrollo de interficies\\proyecto final\\videoclub\\view\\clientesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{DF11634C-9419-4AF2-B404-50142104C446}|View\\View.csproj|c:\\users\\miriam\\desktop\\desarrollo de interficies\\proyecto final\\videoclub\\view\\principalview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DF11634C-9419-4AF2-B404-50142104C446}|View\\View.csproj|solutionrelative:view\\principalview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF11634C-9419-4AF2-B404-50142104C446}|View\\View.csproj|c:\\users\\miriam\\desktop\\desarrollo de interficies\\proyecto final\\videoclub\\view\\estilos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DF11634C-9419-4AF2-B404-50142104C446}|View\\View.csproj|solutionrelative:view\\estilos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BED557F-67C9-4C37-83CF-5BD1B769EDA2}|ViewModel\\ViewModel.csproj|c:\\users\\miriam\\desktop\\desarrollo de interficies\\proyecto final\\videoclub\\viewmodel\\principalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BED557F-67C9-4C37-83CF-5BD1B769EDA2}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\principalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF11634C-9419-4AF2-B404-50142104C446}|View\\View.csproj|C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\view\\clientesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DF11634C-9419-4AF2-B404-50142104C446}|View\\View.csproj|solutionrelative:view\\clientesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF11634C-9419-4AF2-B404-50142104C446}|View\\View.csproj|c:\\users\\miriam\\desktop\\desarrollo de interficies\\proyecto final\\videoclub\\view\\catalogoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DF11634C-9419-4AF2-B404-50142104C446}|View\\View.csproj|solutionrelative:view\\catalogoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF11634C-9419-4AF2-B404-50142104C446}|View\\View.csproj|c:\\users\\miriam\\desktop\\desarrollo de interficies\\proyecto final\\videoclub\\view\\alquileresview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DF11634C-9419-4AF2-B404-50142104C446}|View\\View.csproj|solutionrelative:view\\alquileresview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ViewModel||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Informes||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D576794-1293-4F65-B155-0973DD39F0FF}|Informes\\Informes.csproj|c:\\users\\miriam\\desktop\\desarrollo de interficies\\proyecto final\\videoclub\\informes\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BED557F-67C9-4C37-83CF-5BD1B769EDA2}|ViewModel\\ViewModel.csproj|c:\\users\\miriam\\desktop\\desarrollo de interficies\\proyecto final\\videoclub\\viewmodel\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF11634C-9419-4AF2-B404-50142104C446}|View\\View.csproj|c:\\users\\miriam\\desktop\\desarrollo de interficies\\proyecto final\\videoclub\\view\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
@@ -40,23 +32,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estilos.xaml",
+              "DocumentMoniker": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\View\\Estilos.xaml",
+              "RelativeDocumentMoniker": "View\\Estilos.xaml",
+              "ToolTip": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\View\\Estilos.xaml",
+              "RelativeToolTip": "View\\Estilos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-15T21:16:17.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrincipalView.xaml",
+              "DocumentMoniker": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\View\\PrincipalView.xaml",
+              "RelativeDocumentMoniker": "View\\PrincipalView.xaml",
+              "ToolTip": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\View\\PrincipalView.xaml",
+              "RelativeToolTip": "View\\PrincipalView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-15T21:14:49.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrincipalViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\ViewModel\\PrincipalViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\PrincipalViewModel.cs",
+              "ToolTip": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\ViewModel\\PrincipalViewModel.cs",
+              "RelativeToolTip": "ViewModel\\PrincipalViewModel.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA9wE8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T21:15:18.74Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "View",
               "DocumentMoniker": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\View\\View.csproj",
               "RelativeDocumentMoniker": "View\\View.csproj",
-              "ToolTip": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\View\\View.csproj*",
-              "RelativeToolTip": "View\\View.csproj*",
+              "ToolTip": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\View\\View.csproj",
+              "RelativeToolTip": "View\\View.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-02-15T18:53:13.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ClientesView.xaml",
               "DocumentMoniker": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\View\\ClientesView.xaml",
               "RelativeDocumentMoniker": "View\\ClientesView.xaml",
@@ -64,54 +93,6 @@
               "RelativeToolTip": "View\\ClientesView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-02-15T18:52:50.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AlquileresView.xaml",
-              "DocumentMoniker": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\View\\AlquileresView.xaml",
-              "RelativeDocumentMoniker": "View\\AlquileresView.xaml",
-              "ToolTip": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\View\\AlquileresView.xaml",
-              "RelativeToolTip": "View\\AlquileresView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-15T18:48:11.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CatalogoView.xaml",
-              "DocumentMoniker": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\View\\CatalogoView.xaml",
-              "RelativeDocumentMoniker": "View\\CatalogoView.xaml",
-              "ToolTip": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\View\\CatalogoView.xaml",
-              "RelativeToolTip": "View\\CatalogoView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-15T18:47:58.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Informes",
-              "DocumentMoniker": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\Informes\\Informes.csproj",
-              "RelativeDocumentMoniker": "Informes\\Informes.csproj",
-              "ToolTip": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\Informes\\Informes.csproj",
-              "RelativeToolTip": "Informes\\Informes.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-15T16:26:46.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ViewModel",
-              "DocumentMoniker": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\ViewModel\\ViewModel.csproj",
-              "RelativeDocumentMoniker": "ViewModel\\ViewModel.csproj",
-              "ToolTip": "C:\\Users\\Miriam\\Desktop\\DESARROLLO DE INTERFICIES\\Proyecto Final\\VideoClub\\ViewModel\\ViewModel.csproj",
-              "RelativeToolTip": "ViewModel\\ViewModel.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-15T16:40:15.239Z",
               "EditorCaption": ""
             }
           ]

@@ -20,11 +20,14 @@
     </Window.Resources>
 
     <DockPanel>
+
         <Menu DockPanel.Dock="Top" Background="#1A1A1A" BorderBrush="#E2E8F0" BorderThickness="0,0,0,1" Padding="10,5">
             <MenuItem Header="Clientes" Command="{Binding AbrirClientesCommand}" Style="{StaticResource MenuPrincipalStyle}"/>
             <MenuItem Header="Catálogo" Command="{Binding AbrirCatalogoCommand}" Style="{StaticResource MenuPrincipalStyle}"/>
             <MenuItem Header="Alquileres" Command="{Binding AbrirAlquileresCommand}" Style="{StaticResource MenuPrincipalStyle}"/>
             <MenuItem Header="Configuración" Command="{Binding AbrirConfigCommand}" Style="{StaticResource MenuPrincipalStyle}"/>
+            <MenuItem Header=" " Style="{StaticResource MenuPrincipalStyle}" Width="460" IsHitTestVisible="False"/>
+            <TextBlock Text="{Binding FechaActual}" Foreground= "White" FontSize="14" HorizontalAlignment="Right" VerticalAlignment="Center" DockPanel.Dock="Right" Margin="0,0,15,0" FontWeight="SemiBold" IsHitTestVisible="False"/>
         </Menu>
 
         <Grid Margin="30">

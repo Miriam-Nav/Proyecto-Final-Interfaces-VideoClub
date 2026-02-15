@@ -7,14 +7,14 @@
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Informes.exe.manifest" size="17805">
+    <dependentAssembly dependencyType="install" codebase="Informes.exe.manifest" size="17892">
       <assemblyIdentity name="Informes.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="amd64" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>UFi47UuuvAKGTQr6GsJWcL5pEoAcc+W3y27LtKn0wvw=</dsig:DigestValue>
+        <dsig:DigestValue>AYo5Qg3pPHg1iAiOCkwMSlG+3CTFfYskDl3lDHgXKvY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
