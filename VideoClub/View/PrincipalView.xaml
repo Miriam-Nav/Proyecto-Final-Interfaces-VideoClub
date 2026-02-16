@@ -20,71 +20,78 @@
     </Window.Resources>
 
     <DockPanel>
-
-        <Menu DockPanel.Dock="Top" Background="#1A1A1A" BorderBrush="#E2E8F0" BorderThickness="0,0,0,1" Padding="10,5">
-            <MenuItem Header="Clientes" Command="{Binding AbrirClientesCommand}" Style="{StaticResource MenuPrincipalStyle}"/>
-            <MenuItem Header="Catálogo" Command="{Binding AbrirCatalogoCommand}" Style="{StaticResource MenuPrincipalStyle}"/>
-            <MenuItem Header="Alquileres" Command="{Binding AbrirAlquileresCommand}" Style="{StaticResource MenuPrincipalStyle}"/>
-            <MenuItem Header="Configuración" Command="{Binding AbrirConfigCommand}" Style="{StaticResource MenuPrincipalStyle}"/>
-            <MenuItem Header=" " Style="{StaticResource MenuPrincipalStyle}" Width="460" IsHitTestVisible="False"/>
-            <TextBlock Text="{Binding FechaActual}" Foreground= "White" FontSize="14" HorizontalAlignment="Right" VerticalAlignment="Center" DockPanel.Dock="Right" Margin="0,0,15,0" FontWeight="SemiBold" IsHitTestVisible="False"/>
-        </Menu>
+        <Grid DockPanel.Dock="Top" Background="#1A1A1A">
+            <Menu Background="Transparent" BorderThickness="0" Padding="10,5" HorizontalAlignment="Left">
+                <MenuItem Header="Clientes" Command="{Binding AbrirClientesCommand}" Style="{StaticResource MenuPrincipalStyle}"/>
+                <MenuItem Header="Catálogo" Command="{Binding AbrirCatalogoCommand}" Style="{StaticResource MenuPrincipalStyle}"/>
+                <MenuItem Header="Alquileres" Command="{Binding AbrirAlquileresCommand}" Style="{StaticResource MenuPrincipalStyle}"/>
+                <MenuItem Header="Configuración" Command="{Binding AbrirConfigCommand}" Style="{StaticResource MenuPrincipalStyle}"/>
+            </Menu>
+            <TextBlock Text="{Binding FechaActual}" Foreground="White" FontSize="14" FontWeight="SemiBold" 
+                       HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,20,0" IsHitTestVisible="False"/>
+        </Grid>
 
         <Grid Margin="30">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>
-                <RowDefinition Height="Auto"/>
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
 
-            <TextBlock Grid.Row="0" Text="Resumen General" Style="{StaticResource TituloTarjetaStyle}" FontSize="24"/>
+            <TextBlock Grid.Row="0" Text="Resumen General" Style="{StaticResource TituloTarjetaStyle}" FontSize="28" Margin="0,0,0,20"/>
 
-            <UniformGrid Grid.Row="1" Columns="4" Margin="0,0,0,20">
-                <Border Style="{StaticResource TarjetaStyle}" Margin="5">
-                    <StackPanel>
-                        <TextBlock Text="Total Clientes" Style="{StaticResource LabelStyle}"/>
-                        <TextBlock Text="{Binding TotalClientes}" FontSize="28" FontWeight="Bold" Foreground="#2C3E50"/>
-                    </StackPanel>
-                </Border>
-                <Border Style="{StaticResource TarjetaStyle}" Margin="5">
-                    <StackPanel>
-                        <TextBlock Text="Productos" Style="{StaticResource LabelStyle}"/>
-                        <TextBlock Text="{Binding TotalProductos}" FontSize="28" FontWeight="Bold" Foreground="#2C3E50"/>
-                    </StackPanel>
-                </Border>
-                <Border Style="{StaticResource TarjetaStyle}" Margin="5">
-                    <StackPanel>
-                        <TextBlock Text="Alquileres Activos" Style="{StaticResource LabelStyle}"/>
-                        <TextBlock Text="{Binding AlquileresActivos}" FontSize="28" FontWeight="Bold" Foreground="#27AE60"/>
-                    </StackPanel>
-                </Border>
-                <Border Style="{StaticResource TarjetaStyle}" Margin="5">
-                    <StackPanel>
-                        <TextBlock Text="Stock Bajo" Style="{StaticResource LabelStyle}"/>
-                        <TextBlock Text="{Binding StockBajo}" FontSize="28" FontWeight="Bold" Foreground="#E74C3C"/>
-                    </StackPanel>
-                </Border>
-            </UniformGrid>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="250"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
 
-            <Border Grid.Row="2" Style="{StaticResource ListaStyle}">
-                <Grid Margin="15">
-                    <Grid.RowDefinitions>
-                        <RowDefinition Height="Auto"/>
-                        <RowDefinition Height="*"/>
-                    </Grid.RowDefinitions>
-                    <TextBlock Text="Últimos Alquileres Registrados" Style="{StaticResource TituloTarjetaStyle}" Margin="0,0,0,10"/>
-                    <DataGrid Grid.Row="1" ItemsSource="{Binding ActividadReciente}" Style="{StaticResource DataGridStyle}" AutoGenerateColumns="False" IsReadOnly="True">
-                        <DataGrid.Columns>
-                            <DataGridTextColumn Header="Cliente" Binding="{Binding Clientes.Nombre}" Width="200"/>
-                            <DataGridTextColumn Header="Producto" Binding="{Binding Productos.Titulo}" Width="150"/>
-                            <DataGridTextColumn Header="F. Salida" Binding="{Binding FechaSalida, StringFormat=\{0:dd/MM/yyyy\}}" Width="*"/>
-                            <DataGridTextColumn Header="F. Prevista" Binding="{Binding FechaPrevistaDevolucion, StringFormat=\{0:dd/MM/yyyy\}}" Width="*"/>
-                            <DataGridTextColumn Header="F. Devolución Real" Binding="{Binding FechaDevolucionReal, StringFormat=\{0:dd/MM/yyyy\}}" Width="*"/>
-                            <DataGridTextColumn Header="Total" Binding="{Binding CosteTotal, StringFormat={}{0:N2} €}" Width="*"/>
-                        </DataGrid.Columns>
-                    </DataGrid>
-                </Grid>
-            </Border>
+                <StackPanel Grid.Column="0" Margin="0,0,20,0">
+                    <Border Style="{StaticResource TarjetaStyle}" Margin="0,0,0,15">
+                        <StackPanel>
+                            <TextBlock Text="Total Clientes" Style="{StaticResource LabelStyle}"/>
+                            <TextBlock Text="{Binding TotalClientes}" FontSize="32" FontWeight="Bold" Foreground="#2C3E50"/>
+                        </StackPanel>
+                    </Border>
+                    <Border Style="{StaticResource TarjetaStyle}" Margin="0,0,0,15">
+                        <StackPanel>
+                            <TextBlock Text="Productos" Style="{StaticResource LabelStyle}"/>
+                            <TextBlock Text="{Binding TotalProductos}" FontSize="32" FontWeight="Bold" Foreground="#2C3E50"/>
+                        </StackPanel>
+                    </Border>
+                    <Border Style="{StaticResource TarjetaStyle}" Margin="0,0,0,15">
+                        <StackPanel>
+                            <TextBlock Text="Alquileres Activos" Style="{StaticResource LabelStyle}"/>
+                            <TextBlock Text="{Binding AlquileresActivos}" FontSize="32" FontWeight="Bold" Foreground="#27AE60"/>
+                        </StackPanel>
+                    </Border>
+                    <Border Style="{StaticResource TarjetaStyle}" Margin="0,0,0,15">
+                        <StackPanel>
+                            <TextBlock Text="Stock Bajo" Style="{StaticResource LabelStyle}"/>
+                            <TextBlock Text="{Binding StockBajo}" FontSize="32" FontWeight="Bold" Foreground="#E74C3C"/>
+                        </StackPanel>
+                    </Border>
+                </StackPanel>
+
+                <Border Grid.Column="1" Style="{StaticResource ListaStyle}">
+                    <Grid Margin="15">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <TextBlock Text="Últimos Alquileres Registrados" Style="{StaticResource TituloTarjetaStyle}" Margin="0,0,0,15" FontSize="18"/>
+                        <DataGrid Grid.Row="1" ItemsSource="{Binding ActividadReciente}" Style="{StaticResource DataGridStyle}" AutoGenerateColumns="False" IsReadOnly="True">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Cliente" Binding="{Binding Clientes.Nombre}" Width="*"/>
+                                <DataGridTextColumn Header="Producto" Binding="{Binding Productos.Titulo}" Width="*"/>
+                                <DataGridTextColumn Header="F.Salida" Binding="{Binding FechaSalida, StringFormat=\{0:dd/MM/yyyy\}}" Width="100"/>
+                                <DataGridTextColumn Header="F.Prevista" Binding="{Binding FechaPrevistaDevolucion, StringFormat=\{0:dd/MM/yyyy\}}" Width="100"/>
+                                <DataGridTextColumn Header="F.Dev Real" Binding="{Binding FechaDevolucionReal, StringFormat=\{0:dd/MM/yyyy\}}" Width="100"/>
+                                <DataGridTextColumn Header="Total" Binding="{Binding CosteTotal, StringFormat={}{0:N2} €}" Width="80"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </Grid>
+                </Border>
+            </Grid>
         </Grid>
     </DockPanel>
 </Window>

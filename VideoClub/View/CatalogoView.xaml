@@ -77,7 +77,7 @@
                         <StackPanel Margin="0,30,0,0">
                             <Button Content="Añadir al Catálogo" Command="{Binding CrearCommand}" Style="{StaticResource PrimaryButtonStyle}"/>
                             <Button Content="Modificar Producto" Command="{Binding ModificarCommand}" Style="{StaticResource PrimaryButtonStyle}"/>
-                            <Button Content="Retirar Producto" Command="{Binding EliminarCommand}" Style="{StaticResource PrimaryButtonStyle}"/>
+                            <Button Content="Eliminar Producto" Command="{Binding EliminarCommand}" Style="{StaticResource ErrorButtonStyle}"/>
                             <Button Content="Limpiar Formulario" Command="{Binding LimpiarCommand}" Style="{StaticResource LimpiarButtonStyle}"/>
                         </StackPanel>
                     </StackPanel>

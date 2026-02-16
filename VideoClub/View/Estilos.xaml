@@ -63,7 +63,35 @@
             </Setter.Value>
         </Setter>
     </Style>
-    
+
+    <!-- BOTÓN ERROR -->
+    <Style x:Key="ErrorButtonStyle" TargetType="Button">
+        <Setter Property="Background" Value="#D23C3C"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FontSize" Value="12"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="Height" Value="34"/>
+        <Setter Property="Padding" Value="20,5"/>
+        <Setter Property="Margin" Value="0,0,0,10"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border x:Name="Borde" Background="{TemplateBinding Background}" CornerRadius="0">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="Borde" Property="Background" Value="#B22E2E"/>
+                        </Trigger>
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="Borde" Property="Background" Value="#8E2424"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
     <!-- BOTÓN LIMPIAR -->
     <Style x:Key="LimpiarButtonStyle" TargetType="Button">
         <Setter Property="Background" Value="White"/>

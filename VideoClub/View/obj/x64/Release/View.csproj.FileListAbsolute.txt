@@ -57,3 +57,4 @@ C:\Users\Miriam\Desktop\DESARROLLO DE INTERFICIES\Proyecto Final\VideoClub\View\
 C:\Users\Miriam\Desktop\DESARROLLO DE INTERFICIES\Proyecto Final\VideoClub\View\obj\x64\Release\View.csproj.Up2Date
 C:\Users\Miriam\Desktop\DESARROLLO DE INTERFICIES\Proyecto Final\VideoClub\View\obj\x64\Release\VideoClub.exe
 C:\Users\Miriam\Desktop\DESARROLLO DE INTERFICIES\Proyecto Final\VideoClub\View\obj\x64\Release\VideoClub.pdb
+C:\Users\Miriam\Desktop\DESARROLLO DE INTERFICIES\Proyecto Final\VideoClub\View\obj\x64\Release\VideoClub.exe.config

@@ -57,7 +57,6 @@
                     <StackPanel Grid.Row="1" Margin="0,0,0,15">
                         <TextBlock Text="Nombre del Género" Style="{StaticResource LabelStyle}"/>
                         <DockPanel>
-                            <Button Content="Guardar" Command="{Binding GuardarGeneroCommand}" DockPanel.Dock="Right" Style="{StaticResource PrimaryButtonStyle}" Width="80" Margin="10,0,0,0"/>
                             <TextBox Text="{Binding InputNombreGenero, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource TextBoxStyle}"/>
                         </DockPanel>
                         <TextBlock Text="{Binding ErrorGenero}" Style="{StaticResource ErrorMensajeStyle}"/>
@@ -69,8 +68,12 @@
                             <DataGridTextColumn Header="Género" Binding="{Binding Nombre}" Width="*"/>
                         </DataGrid.Columns>
                     </DataGrid>
-
-                    <Button Grid.Row="3" Content="Eliminar Género" Command="{Binding EliminarGeneroCommand}" Style="{StaticResource LimpiarButtonStyle}" Margin="0,10,0,0"/>
+                    <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+                        <Button Content="Eliminar Género" Command="{Binding EliminarGeneroCommand}" Style="{StaticResource ErrorButtonStyle}" Width="150" Margin="10,0,0,0"/>
+                        <Button Content="Guardar Género" Command="{Binding GuardarGeneroCommand}" Style="{StaticResource PrimaryButtonStyle}" Width="150" Margin="10,0,0,0"/>
+                        
+                    </StackPanel>
+                    
                 </Grid>
             </Border>
 
@@ -108,7 +111,7 @@
                     </DataGrid>
 
                     <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
-                        <Button Content="Eliminar" Command="{Binding EliminarTarifaCommand}" Style="{StaticResource LimpiarButtonStyle}" Width="100"/>
+                        <Button Content="Eliminar Tarifa" Command="{Binding EliminarTarifaCommand}" Style="{StaticResource ErrorButtonStyle}" Width="150" Margin="10,0,0,0"/>
                         <Button Content="Guardar Tarifa" Command="{Binding GuardarTarifaCommand}" Style="{StaticResource PrimaryButtonStyle}" Width="150" Margin="10,0,0,0"/>
                     </StackPanel>
                 </Grid>

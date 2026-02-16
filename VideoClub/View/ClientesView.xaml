@@ -64,9 +64,9 @@
 
                         <StackPanel Margin="0,25,0,0">
                             <Button Content="Registrar Cliente" Command="{Binding CrearCommand}" Style="{StaticResource PrimaryButtonStyle}"/>
-                            <Button Content="Actualizar" Command="{Binding ModificarCommand}" Style="{StaticResource PrimaryButtonStyle}"/>
-                            <Button Content="Eliminar" Command="{Binding EliminarCommand}" Style="{StaticResource PrimaryButtonStyle}"/>
-                            <Button Content="Limpiar" Command="{Binding LimpiarCommand}" Style="{StaticResource LimpiarButtonStyle}"/>
+                            <Button Content="Actualizar Cliente" Command="{Binding ModificarCommand}" Style="{StaticResource PrimaryButtonStyle}"/>
+                            <Button Content="Eliminar Cliente" Command="{Binding EliminarCommand}" Style="{StaticResource ErrorButtonStyle}"/>
+                            <Button Content="Limpiar Formulario" Command="{Binding LimpiarCommand}" Style="{StaticResource LimpiarButtonStyle}"/>
                         </StackPanel>
                     </StackPanel>
                 </ScrollViewer>
@@ -94,10 +94,10 @@
                         </DataGrid.Columns>
                     </DataGrid>
 
-                    <Button Grid.Row="1" Content="Generar Informe Clientes" 
-                            Command="{Binding GenerarInformeCommand}" 
-                            Style="{StaticResource PrimaryButtonStyle}" 
-                            Height="45" Margin="0,10,0,0"/>
+                    <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,15,0,0">
+                        <Button Content="Generar Informe de Clientes" Command="{Binding GenerarInformeCommand}" Style="{StaticResource PrimaryButtonStyle}" Width="200" Margin="5"/>
+                    </StackPanel>
+
                 </Grid>
             </Border>
         </Grid>
