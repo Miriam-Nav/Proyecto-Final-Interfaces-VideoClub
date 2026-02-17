@@ -32,17 +32,26 @@ Para instalar la aplicación en su sistema, hay que seguir estos pasos:
 
 ## Capturas
 
-<img width="606" height="451" alt="image" src="https://github.com/user-attachments/assets/54dc4a7f-04d2-4840-b384-41304d1bd270" />
+<img width="606" height="451" alt="image" src="https://github.com/user-attachments/assets/8bf0d9db-dc8d-4713-b1dd-a2f88392dde8" />
+
 <br>
 
 **Inicio** 
 
 ---
 
-<img width="606" height="451" alt="image" src="https://github.com/user-attachments/assets/615fb904-ffa9-49c1-aaa7-fdb2a122b928" />
+<img width="606" height="451" alt="image" src="https://github.com/user-attachments/assets/4c674ba7-59c8-49ae-bd73-96bd2125e302" />
+
 <br>
 
 **Gestión de Clientes** 
+
+---
+
+<img width="606" height="451" alt="image" src="https://github.com/user-attachments/assets/99188f5e-a26d-4280-85b1-302d3d4194bc" />
+<br>
+
+**Catálogo** 
 
 ---
 
@@ -53,7 +62,8 @@ Para instalar la aplicación en su sistema, hay que seguir estos pasos:
 
 ---
 
-<img width="606" height="451" alt="image" src="https://github.com/user-attachments/assets/9d9fe113-9719-4cd9-afa8-04661cc34667" />
+<img width="606" height="451" alt="image" src="https://github.com/user-attachments/assets/98edd469-23e7-472c-8046-342890514133" />
+
 <br>
 
 **Configuración de Géneros y Tarifas** 
