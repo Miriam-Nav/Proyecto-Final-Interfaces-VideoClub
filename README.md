@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/0d0b9bfc-3c9a-466f-883f-83d6a2177843" width="200" alt="Logo VideoClub"/>
 </p>
 
-# <p align="center">VideoClub - Sistema de Gestión
+# <p align="center">VideoClub - Sistema de Gestión 
 
 ## Descripción del Proyecto
 Este programa es una aplicación profesional desarrollada para la administración integral de un **VideoClub**. La herramienta permite gestionar el catálogo de películas y videojuegos, la base de datos de **clientes**, el control de alquileres activos y la generación de facturación detallada.
