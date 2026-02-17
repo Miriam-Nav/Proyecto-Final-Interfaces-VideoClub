@@ -40,3 +40,4 @@ C:\Users\Miriam\Desktop\DESARROLLO DE INTERFICIES\Proyecto Final\VideoClub\Infor
 C:\Users\Miriam\Desktop\DESARROLLO DE INTERFICIES\Proyecto Final\VideoClub\Informes\obj\x64\Debug\Informes.csproj.Up2Date
 C:\Users\Miriam\Desktop\DESARROLLO DE INTERFICIES\Proyecto Final\VideoClub\Informes\obj\x64\Debug\Informes.exe
 C:\Users\Miriam\Desktop\DESARROLLO DE INTERFICIES\Proyecto Final\VideoClub\Informes\obj\x64\Debug\Informes.pdb
+C:\Users\Miriam\Desktop\DESARROLLO DE INTERFICIES\Proyecto Final\VideoClub\Informes\obj\x64\Debug\Informes.exe.config
