@@ -15,7 +15,7 @@ La aplicación se ha construido utilizando tecnología .NET:
 * **Acceso a Datos:** Repositorio para la persistencia de datos.
 * **Informes:** Crystal Reports (Configurado para arquitectura x64).
 * **Documentación:** Doxygen para la generación de la documentación técnica.
-* **Diseño:** Figma para el prototipado de la interfaz.
+* **Diseño:** Figma para el prototipado de la interfaz. 
 
 ## Instalación 
 Para instalar la aplicación en su sistema, hay que seguir estos pasos:
